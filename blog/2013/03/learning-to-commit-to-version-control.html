@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <meta name="author" content="Tom" />
+        <meta name="copyright" content="Tom" />
+        
+                <meta name="keywords" content=", Uncategorized, " />
+        <title>Learning to commit to version&nbsp;control - Tom Meagher
+</title>
+                <link href="http://cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+        <link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="../../../theme/css/style.css" media="screen">
+        <link rel="stylesheet" type="text/css" href="../../../theme/css/solarizedlight.css" media="screen">
+                <link rel="shortcut icon" href="../../../theme/images/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="../../../theme/images/apple-touch-icon.png" />
+        <link rel="apple-touch-icon" sizes="57x57" href="../../../theme/images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="../../../theme/images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="../../../theme/images/apple-touch-icon-114x114.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="../../../theme/images/apple-touch-icon-144x144.png" />
+        <link rel="icon" href="../../../theme/images/apple-touch-icon-144x144.png" />
+                <link href="http://tommeagher.github.io/blog/feeds/all.rss.xml" type="application/rss+xml" rel="alternate" title="Tom Meagher - RSS Feed" />
+                <link href="http://tommeagher.github.io/blog/feeds/Uncategorized.rss.xml" type="application/atom+xml" rel="alternate" title="Tom Meagher - Uncategorized Category RSS Feed" />
+                </head>
+    <body>
+        <div id="content-sans-footer">
+        <div class="navbar navbar-static-top">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </a>
+                    <a class="brand" href="../../../"><span class=site-name>Tom Meagher</span></a>
+                    <div class="nav-collapse collapse">
+                        <ul class="nav pull-right top-menu">
+                            <!--<li ><a href="../../..">Home</a></li>-->
+                                                                                    <li ><a href="../../../blog/pages/lists.html">Lists</a></li>
+                                                                                    <!--<li ><a href="../../../categories.html">Categories</a></li> -->
+                            <!--<li ><a href="../../../blog/pages/lists.html">Lists</a></li> -->
+                            <li ><a href="../../../blog/tags.html">Tags</a></li>
+                            <li ><a href="../../../blog/archives.html">Archives</a></li>
+                            <li><form class="navbar-search" action="../../../search.html" onsubmit="return validateForm(this.elements['q'].value);"> <input type="text" class="search-query" placeholder="Search" name="q" id="tipue_search_input"></form></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="span1"></div>
+                <div class="span10">
+                    <article>
+<div class="row-fluid">
+    <header class="page_header span10 offset2">
+    <h1><a href="../../../blog/2013/03/learning-to-commit-to-version-control.html"> Learning to commit to version&nbsp;control  </a></h1>
+    </header>
+</div>
+
+<div class="row-fluid">
+            <div class="span8 offset2 article-content">
+            
+            <p>At this week&#8217;s <a href="http://www.ire.org/conferences/nicar-2013/">computer-assisted reporting conference</a> in Louisville,
+<span class="caps">IRE</span> has me doing double-duty. In addition to my class on <a href="bit.ly/car13refine">OpenRefine</a>,
+I&#8217;m also teaching a hands-on session on <a href="http://git-scm.com/">git</a> and <a href="http://www.github.com">Github</a>.</p>
+<p>This assumes you&#8217;ve already <a href="https://help.github.com/articles/set-up-git">downloaded git</a> and created an account on
+Github. I use the command line, although if you master that, the <span class="caps">GUI</span>
+clients will be a piece of&nbsp;cake.</p>
+<p>I&#8217;ve somehow, inadvertently become a bit of a Git evangelist, not out of
+any mastery, but mostly because of my convert&#8217;s zeal for version
+control.  And the one-two punch of git and Github have changed the way I
+think about my job, web development and sharing knowledge. Here&#8217;s a
+quick run-through of the class. If you&#8217;re a visual learner, the slides
+are here: <span><a href="http://bit.ly/car13gitslides">http://bit.ly/car13gitslides</a></span></p>
+<h2 id="what-is-git">What is&nbsp;git?</h2>
+<ul>
+<li>a <a href="http://en.wikipedia.org/wiki/Distributed_version_control_system">distributed version control system</a> (If this doesn&#8217;t mean
+    anything to you, don&#8217;t sweat it. It&#8217;s mostly for the&nbsp;nerds)</li>
+<li>a command line utility to track changes to a file and to share those
+    changes with&nbsp;others.</li>
+<li>good for any kind of text - stories, csv, html, .js, .py,&nbsp;.rb.</li>
+<li>not so great with images, audio,&nbsp;video</li>
+</ul>
+<h2 id="what-does-git-do">What does git&nbsp;do?</h2>
+<p><span id="internal-source-marker_0.4894332503899932">In a broad
+oversimplification, it uses <a href="http://en.wikipedia.org/wiki/Diff">diff</a> to compare every addition and
+subtraction in your code and shows you how your files&nbsp;evolve.</span></p>
+<p>It lets you take snapshots of your code and roll through them over time
+(or back in time) as needed to follow how a file changes from save to
+save to save. And you can have several authors of a file branch off
+their own versions to edit and then later merge them all back together
+into one master&nbsp;file.</p>
+<p><img alt="" src="http://www.clasesdeperiodismo.com/wp-content/uploads/2012/06/Newsdiff-mubarak.png" title="Newsdiff" /></p>
+<h2 id="how-does-it-work">How does it&nbsp;work?</h2>
+<p>There&#8217;s a lot of things going on behind the curtain in git, that you can
+figure out eventually, but don&#8217;t worry about it here. For right now,
+basically you only need to really know six&nbsp;commands.</p>
+<p>The first thing you want to know&nbsp;is</p>
+<div class="highlight"><pre><span class="n">git</span> <span class="n">status</span>
+</pre></div>
+
+
+<p>This will orient you to where you are, what files have changed and
+whether you&#8217;ve saved your snapshot of your project (which we&#8217;ll soon
+start calling a &#8220;commit&#8221;). This is your&nbsp;friend.</p>
+<p>Where you work and where you edit your code is the working directory.
+When you&#8217;re ready to take a snapshot of your code, you &#8220;add&#8221; your file
+to the staging&nbsp;area.</p>
+<div class="highlight"><pre><span class="n">git</span> <span class="n">add</span> <span class="n">foo</span><span class="p">.</span><span class="n">py</span>
+</pre></div>
+
+
+<p><img alt="" src="http://codingdomain.com/git/partial-commits/git-staging-area.png" title="Git diagram" /></p>
+<p>After you&#8217;ve made all the changes you want, and you&#8217;ve &#8220;added&#8221; all of
+your updated files to the staging area, it&#8217;s time to make a commit. And
+with each commit, you want to add a short message describing what the
+changes&nbsp;are.</p>
+<div class="highlight"><pre><span class="n">git</span> <span class="n">commit</span> <span class="o">-</span><span class="n">m</span> <span class="s">&quot;finally debugged my own idiocy. maybe...&quot;</span>
+</pre></div>
+
+
+<p>Now all of your updates are saved in your file respository, and if you
+want to, you can your snapshot is made. You could very easily stop here
+and just keep the audit trail on your machine. But the other half of
+this happy marriage is <a href="http://www.github.com">Github</a>.</p>
+<p><span id="internal-source-marker_0.4894332503899932"><br />
+What is&nbsp;Github?</span></p>
+<hr />
+<p><span id="internal-source-marker_0.4894332503899932"><img alt="" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo-transparent.png" title="Github" /><span id="internal-source-marker_0.4894332503899932">Github
+is a social coding site, and it&#8217;s a hosted remote repository.<br />
+</span></span></p>
+<p><span id="internal-source-marker_0.4894332503899932"><span id="internal-source-marker_0.4894332503899932">It
+lets you back up all of your code online (for free if it&#8217;s open source),
+and it lets you see how other developers do it and learn from their&nbsp;work. </span></span></p>
+<p><span id="internal-source-marker_0.4894332503899932"><span id="internal-source-marker_0.4894332503899932">Here&#8217;s
+how you do&nbsp;it: </span></span></p>
+<div class="highlight"><pre><span class="n">git</span> <span class="n">push</span> <span class="o">-</span><span class="n">u</span> <span class="n">origin</span> <span class="n">master</span>
+</pre></div>
+
+
+<p><span id="internal-source-marker_0.4894332503899932"><span id="internal-source-marker_0.4894332503899932">You
+&#8220;push&#8221; your code from the &#8220;master&#8221; branch that&#8217;s on your machine to your
+remote repository on Github, which we call &#8220;origin.&#8221; (This may have
+already been configured for you if you cloned your repo from github.
+Otherwise, you would have&nbsp;to </span></span></p>
+<div class="highlight"><pre><span class="n">git</span> <span class="n">remote</span> <span class="n">add</span> <span class="n">origin</span> <span class="n">git</span><span class="err">@</span><span class="n">github</span><span class="p">.</span><span class="n">com</span><span class="o">:</span><span class="n">tommeagher</span><span class="o">/</span><span class="n">myrepo</span><span class="p">.</span><span class="n">git</span>
+</pre></div>
+
+
+<p>)</p>
+<p>One of the many great things about Github is that you can see the diff
+in your files without the Matrix hypnosis of command&nbsp;line.</p>
+<p>The last couple commands I&#8217;ll tell you are how you get your commits from
+the remote repository on Github back on your&nbsp;machine.</p>
+<p>You can&nbsp;use</p>
+<div class="highlight"><pre> <span class="n">git</span> <span class="n">fetch</span> <span class="n">origin</span>
+</pre></div>
+
+
+<p>to gather the updated files from your remote &#8220;origin&#8221; repository. Now
+you want to &#8220;merge&#8221; the changes from the master branch on your remote
+&#8220;origin&#8221; repository into your master branch on your&nbsp;machine.</p>
+<div class="highlight"><pre><span class="n">git</span> <span class="n">merge</span> <span class="n">origin</span><span class="o">/</span><span class="n">master</span>
+</pre></div>
+
+
+<p>Now your files are updated from the remote repository. Now keep&nbsp;coding.</p>
+<p>If you want more, you can visit the <a href="http://www.github.com/tommeagher/gitintro">repo for this class</a>, where I
+have a cheat sheet for the most common basic uses and commands and more
+in-depth&nbsp;tutorials.</p>
+<p>This really just deals with the basics. We haven&#8217;t even had a chance to
+talk about <a href="http://githowto.com/resolving_conflicts">merge problems</a>, <a href="http://gitref.org/branching/">branching</a>, <a href="https://help.github.com/articles/fork-a-repo">forking</a>or <a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html">cloning</a>,
+but you know how to Google, so you can figure it out. Fork my repo,
+improve the cheat sheet and send me a pull&nbsp;request.</p>
+<p>What&#8217;s your favorite tip or cheat in git? Leave me a comment. I&#8217;d love
+to read&nbsp;it.</p>
+            <aside>
+                                                                                                                                                                                                <nav>
+            <ul class="articles_timeline">
+                                                                     
+                <li class="previous_article">« <a href="../../../blog/2013/02/more-tips-for-using-openrefine.html" title="Previous: More tips for using&nbsp;OpenRefine">More tips for using&nbsp;OpenRefine</a></li>
+                                                                                     
+                <li class="next_article"><a href="../../../blog/2013/04/organizing-my-first-hackathon.html" title="Next: What I learned organizing a&nbsp;hackathon">What I learned organizing a&nbsp;hackathon</a> »</li>
+                            </ul>
+            </nav>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            </aside>
+            <section>
+<div class="accordion" id="accordion2">
+    <div class="accordion-group">
+        <div class="accordion-heading">
+            <a class="accordion-toggle disqus-comment-count" data-toggle="collapse" data-parent="#accordion2"
+                                href="../../../blog/2013/03/learning-to-commit-to-version-control.html#disqus_thread">
+                Comments
+            </a>
+        </div>
+        <div id="disqus_thread" class="accordion-body collapse">
+            <div class="accordion-inner">
+                <div class="comments">
+                    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'tommeagher';
+            var disqus_identifier = '../../../blog/2013/03/learning-to-commit-to-version-control.html';
+        var disqus_url = '../../../blog/2013/03/learning-to-commit-to-version-control.html';
+
+    (function() {
+         var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+     })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</section>
+        </div>
+        <section>
+        <div class="span2" style="float:right;font-size:0.9em;">
+             
+            <h4>Published</h4>
+                        <time pubdate="pubdate" datetime="2013-03-01T00:33:00">Mar 1, 2013</time>
+                                    <!--            <h4>Category</h4>
+            <a class="category-link" href="/categories.html#Uncategorized-ref">Uncategorized</a> 
+            -->
+            
+                    </div>
+        </section>
+    </div>
+    </article>
+                    </div>
+                <div class="span1"></div>
+            </div>
+        </div>
+    </div>
+        <footer>
+<div id="footer">
+    <ul class="footer-content">
+                        <li class="elegant-power"><a href="/blog/pages/colophon.html">Colophon</a></li>
+    </ul>
+</div>
+</footer>                    <script src="http://code.jquery.com/jquery.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/js/bootstrap.min.js"></script>
+        <script>
+            function validateForm(query)
+            {
+                return (query.length > 0);
+            }
+        </script>
+        
+    <script type="text/javascript">
+    var disqus_shortname = 'tommeagher';
+
+    (function () {
+        var s = document.createElement('script'); s.async = true;
+        s.type = 'text/javascript';
+        s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+        (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+        </body>
+</html>
