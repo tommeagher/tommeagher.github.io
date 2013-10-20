@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tom Meagher</title><link>tommeagher.github.io/</link><description></description><atom:link href="tommeagher.github.io/blog/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 19 Oct 2013 08:27:00 -0400</lastBuildDate><item><title>Hack Jersey chases the 8 hour app</title><link>tommeagher.github.io/blog/2013/10/hack-jersey-chases-the-8-hour-app.html</link><description>&lt;!--Tags: Hack Jersey, campaign finance, hackathons, news apps, open data, Sunlight Foundation, civic hacking--&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tom Meagher</title><link>http://tommeagher.github.io/</link><description></description><atom:link href="http://tommeagher.github.io/blog/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 19 Oct 2013 08:27:00 -0400</lastBuildDate><item><title>Hack Jersey chases the 8 hour app</title><link>http://tommeagher.github.io/blog/2013/10/hack-jersey-chases-the-8-hour-app.html</link><description>&lt;!--Tags: Hack Jersey, campaign finance, hackathons, news apps, open data, Sunlight Foundation, civic hacking--&gt;
 
 &lt;p&gt;&lt;em&gt;Cross-posted from the &lt;a href="http://sunlightfoundation.com/blog/2013/10/11/opengov-voices-chasing-the-8-hour-app/" target="_blank"&gt;Sunlight Foundation&amp;#8217;s OpenGov Voices blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
@@ -44,7 +44,7 @@
 
 &lt;p&gt;Although we didn&amp;#8217;t get as far as we would have liked, it was a good experience for us at Hack Jersey. We got 15 developers thinking about campaign finance and starting to learn the ins, the outs and the&amp;nbsp;possibilities.&lt;/p&gt;
 
-&lt;p&gt;We couldn&amp;#8217;t grow an orchard in a day, but we planted a lot of good seeds. And that&amp;#8217;s a pretty good place to&amp;nbsp;start.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 19 Oct 2013 08:27:00 -0400</pubDate><guid>tag:tommeagher.github.io,2013-10-19:blog/2013/10/hack-jersey-chases-the-8-hour-app.html</guid></item><item><title>Diving in to Data with SPJ</title><link>tommeagher.github.io/blog/2013/04/diving-in-to-data-with-spj.html</link><description>&lt;p&gt;Today, I had a chance to speak at the Society of Professional
+&lt;p&gt;We couldn&amp;#8217;t grow an orchard in a day, but we planted a lot of good seeds. And that&amp;#8217;s a pretty good place to&amp;nbsp;start.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 19 Oct 2013 08:27:00 -0400</pubDate><guid>tag:tommeagher.github.io,2013-10-19:blog/2013/10/hack-jersey-chases-the-8-hour-app.html</guid></item><item><title>Diving in to Data with SPJ</title><link>http://tommeagher.github.io/blog/2013/04/diving-in-to-data-with-spj.html</link><description>&lt;p&gt;Today, I had a chance to speak at the Society of Professional
 Journalists&amp;#8217; &lt;a href="http://www.spjr1c.org/"&gt;Region 1 Spring conference&lt;/a&gt;, held at Rutgers University
 in New Brunswick. &lt;a href="http://www.twitter.com/debgalant" title="@debgalant on Twitter"&gt;Debbie Galant&lt;/a&gt; of the &lt;a href="http://njnewscommons.org/" title="NJ News Commons"&gt;&lt;span class="caps"&gt;NJ&lt;/span&gt; News Commons&lt;/a&gt; and I
 talked about &lt;a href="http://www.hackjersey.com/2013/03/11/rounding-up-our-hack-weekend/"&gt;the projects that came out of&lt;/a&gt; our &lt;a href="http://www.hackjersey.com/" title="Hack Jersey"&gt;Hack Jersey&lt;/a&gt;
@@ -142,7 +142,7 @@ in 1993&lt;/a&gt;. And now, to&amp;nbsp;today&amp;#8230;&lt;/p&gt;
     all the tools, classes and workshops at &lt;span class="caps"&gt;IRE&lt;/span&gt;&amp;#8217;s &lt;span class="caps"&gt;CAR&lt;/span&gt; conference are&amp;nbsp;must-reads.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;What are your favorite data techniques, tools and tutorials? Please
-share them with me. I&amp;#8217;d love to check them&amp;nbsp;out.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 12 Apr 2013 17:26:00 -0400</pubDate><guid>tag:tommeagher.github.io,2013-04-12:blog/2013/04/diving-in-to-data-with-spj.html</guid></item><item><title>What I learned organizing a hackathon</title><link>tommeagher.github.io/blog/2013/04/organizing-my-first-hackathon.html</link><description>&lt;p&gt;It all started in September, at the &lt;a href="http://ona12.journalists.org/"&gt;Online News Association&lt;/a&gt;&amp;#8216;s
+share them with me. I&amp;#8217;d love to check them&amp;nbsp;out.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 12 Apr 2013 17:26:00 -0400</pubDate><guid>tag:tommeagher.github.io,2013-04-12:blog/2013/04/diving-in-to-data-with-spj.html</guid></item><item><title>What I learned organizing a hackathon</title><link>http://tommeagher.github.io/blog/2013/04/organizing-my-first-hackathon.html</link><description>&lt;p&gt;It all started in September, at the &lt;a href="http://ona12.journalists.org/"&gt;Online News Association&lt;/a&gt;&amp;#8216;s
 conference in San Francisco. I crashed the [#wjchat][] party and ended
 up meeting the infamous &lt;a href="http://www.debragalant.com/"&gt;Debbie Galant&lt;/a&gt;, the force of nature behind
 &lt;a href="http://www.baristanet.com/"&gt;Baristanet&lt;/a&gt; who was just starting the &lt;a href="http://njnewscommons.org/"&gt;&lt;span class="caps"&gt;NJ&lt;/span&gt; News Commons&lt;/a&gt;. We talked
@@ -253,7 +253,7 @@ leads us to think about what&amp;#8217;s next. We have a few&amp;nbsp;ideas:&lt;
 &lt;p&gt;What do you think &lt;a href="http://www.hackjersey.com/"&gt;Hack Jersey&lt;/a&gt; should work on next? What
 would be most useful to you as a journalist? If you&amp;#8217;re a developer, what
 kind of projects would you be interested in working on with us? I&amp;#8217;d love
-to hear your ideas. Please share them in the comments, or email us at&amp;nbsp;hackinfo(at)hackjersey(dot)com.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 04 Apr 2013 11:08:00 -0400</pubDate><guid>tag:tommeagher.github.io,2013-04-04:blog/2013/04/organizing-my-first-hackathon.html</guid></item><item><title>Learning to commit to version control</title><link>tommeagher.github.io/blog/2013/03/learning-to-commit-to-version-control.html</link><description>&lt;p&gt;At this week&amp;#8217;s &lt;a href="http://www.ire.org/conferences/nicar-2013/"&gt;computer-assisted reporting conference&lt;/a&gt; in Louisville,
+to hear your ideas. Please share them in the comments, or email us at&amp;nbsp;hackinfo(at)hackjersey(dot)com.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 04 Apr 2013 11:08:00 -0400</pubDate><guid>tag:tommeagher.github.io,2013-04-04:blog/2013/04/organizing-my-first-hackathon.html</guid></item><item><title>Learning to commit to version control</title><link>http://tommeagher.github.io/blog/2013/03/learning-to-commit-to-version-control.html</link><description>&lt;p&gt;At this week&amp;#8217;s &lt;a href="http://www.ire.org/conferences/nicar-2013/"&gt;computer-assisted reporting conference&lt;/a&gt; in Louisville,
 &lt;span class="caps"&gt;IRE&lt;/span&gt; has me doing double-duty. In addition to my class on &lt;a href="bit.ly/car13refine"&gt;OpenRefine&lt;/a&gt;,
 I&amp;#8217;m also teaching a hands-on session on &lt;a href="http://git-scm.com/"&gt;git&lt;/a&gt; and &lt;a href="http://www.github.com"&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This assumes you&amp;#8217;ve already &lt;a href="https://help.github.com/articles/set-up-git"&gt;downloaded git&lt;/a&gt; and created an account on
@@ -366,7 +366,7 @@ talk about &lt;a href="http://githowto.com/resolving_conflicts"&gt;merge problem
 but you know how to Google, so you can figure it out. Fork my repo,
 improve the cheat sheet and send me a pull&amp;nbsp;request.&lt;/p&gt;
 &lt;p&gt;What&amp;#8217;s your favorite tip or cheat in git? Leave me a comment. I&amp;#8217;d love
-to read&amp;nbsp;it.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 01 Mar 2013 00:33:00 -0500</pubDate><guid>tag:tommeagher.github.io,2013-03-01:blog/2013/03/learning-to-commit-to-version-control.html</guid></item><item><title>More tips for using OpenRefine</title><link>tommeagher.github.io/blog/2013/02/more-tips-for-using-openrefine.html</link><description>&lt;p&gt;At &lt;span class="caps"&gt;IRE&lt;/span&gt;&amp;#8217;s &lt;a href="http://www.ire.org/conferences/nicar-2013/"&gt;computer-assisted reporting conference&lt;/a&gt; this week in
+to read&amp;nbsp;it.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 01 Mar 2013 00:33:00 -0500</pubDate><guid>tag:tommeagher.github.io,2013-03-01:blog/2013/03/learning-to-commit-to-version-control.html</guid></item><item><title>More tips for using OpenRefine</title><link>http://tommeagher.github.io/blog/2013/02/more-tips-for-using-openrefine.html</link><description>&lt;p&gt;At &lt;span class="caps"&gt;IRE&lt;/span&gt;&amp;#8217;s &lt;a href="http://www.ire.org/conferences/nicar-2013/"&gt;computer-assisted reporting conference&lt;/a&gt; this week in
 Louisville, I am once again teaching a course on using &lt;a href="http://openrefine.org/"&gt;OpenRefine&lt;/a&gt; to
 clean data. Although the program has changed names over the last few
 months, its features are pretty much the same, and it&amp;#8217;s still an
@@ -388,7 +388,7 @@ Refine, I can recommend these tutorials, from Refine creator &lt;a href="http://
 Huynh&lt;/a&gt;, developer &lt;a href="http://dannguyen.github.com/NICAR-Google-Refine/"&gt;Dan Nguyen&lt;/a&gt; and journalism educator &lt;a href="http://onlinejournalismblog.com/2011/07/05/cleaning-data-using-google-refine-a-quick-guide/"&gt;Paul
 Bradshaw&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;What&amp;#8217;s your favorite use for OpenRefine? Leave a comment here, drop me
-an email or mention me on Twitter. I&amp;#8217;d love to hear what you&amp;nbsp;think.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 26 Feb 2013 23:37:00 -0500</pubDate><guid>tag:tommeagher.github.io,2013-02-26:blog/2013/02/more-tips-for-using-openrefine.html</guid></item><item><title>Talking data in the Nutmeg State</title><link>tommeagher.github.io/blog/2012/12/talking-data-in-the-nutmeg-state.html</link><description>&lt;p&gt;&lt;em&gt;Update: In mid-December, I led two days of training in data journalism
+an email or mention me on Twitter. I&amp;#8217;d love to hear what you&amp;nbsp;think.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 26 Feb 2013 23:37:00 -0500</pubDate><guid>tag:tommeagher.github.io,2013-02-26:blog/2013/02/more-tips-for-using-openrefine.html</guid></item><item><title>Talking data in the Nutmeg State</title><link>http://tommeagher.github.io/blog/2012/12/talking-data-in-the-nutmeg-state.html</link><description>&lt;p&gt;&lt;em&gt;Update: In mid-December, I led two days of training in data journalism
 techniques for my colleagues at the New Haven Register. On a Thursday
 evening, I took the Amtrak train home to New Jersey, feeling good about
 turning a group of journalists on to the power and fun of incorporating
@@ -525,7 +525,7 @@ I&amp;#8217;ll add it&amp;nbsp;here.&lt;/p&gt;
 &lt;li&gt;&lt;a href="/files/tips/xlpowerformula.doc"&gt;&lt;/a&gt;&lt;a href="http://businessjournalism.org/wp-content/uploads/2012/03/xlpivot_updated.pdf"&gt;Excel filters and pivot&amp;nbsp;tables&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.google.com/fusiontables/answer/184641/?hl=en&amp;amp;"&gt;More Fusion Tables&amp;nbsp;tutorials&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://sites.google.com/site/fusiontablestalks/stories"&gt;Examples of cool uses of Fusion&amp;nbsp;Tables&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 11 Dec 2012 13:08:00 -0500</pubDate><guid>tag:tommeagher.github.io,2012-12-11:blog/2012/12/talking-data-in-the-nutmeg-state.html</guid></item><item><title>Not another blinking PDF!</title><link>tommeagher.github.io/blog/2012/08/pdfs.html</link><description>&lt;p&gt;There are few things more frustrating than trying to get a simple
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 11 Dec 2012 13:08:00 -0500</pubDate><guid>tag:tommeagher.github.io,2012-12-11:blog/2012/12/talking-data-in-the-nutmeg-state.html</guid></item><item><title>Not another blinking PDF!</title><link>http://tommeagher.github.io/blog/2012/08/pdfs.html</link><description>&lt;p&gt;There are few things more frustrating than trying to get a simple
 spreadsheet from a government agency and being told by a spokesman that
 the data (say, a table of property tax rates in municipalities that was
 clearly created in Excel) only exists in a locked &lt;span class="caps"&gt;PDF&lt;/span&gt;&amp;nbsp;format.&lt;/p&gt;
@@ -548,7 +548,7 @@ I haven&amp;#8217;t had an opportunity to use it&amp;nbsp;myself.&lt;/p&gt;
 &lt;p&gt;When you don&amp;#8217;t have the time or patience to negotiate with an agency to
 give you what you want how you want it, give these solutions a&amp;nbsp;try.&lt;/p&gt;
 &lt;p&gt;If you have other techniques for culling data from PDFs, please share&amp;nbsp;them.&lt;/p&gt;
-&lt;p&gt;Good&amp;nbsp;luck!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 05 Aug 2012 06:50:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-08-05:blog/2012/08/pdfs.html</guid></item><item><title>How to get a head count at the parade</title><link>tommeagher.github.io/blog/2012/07/crowd-estimates.html</link><description>&lt;p&gt;&lt;em&gt;This is another in the series of &amp;#8220;Best Practices&amp;#8221; posts from my
+&lt;p&gt;Good&amp;nbsp;luck!&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 05 Aug 2012 06:50:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-08-05:blog/2012/08/pdfs.html</guid></item><item><title>How to get a head count at the parade</title><link>http://tommeagher.github.io/blog/2012/07/crowd-estimates.html</link><description>&lt;p&gt;&lt;em&gt;This is another in the series of &amp;#8220;Best Practices&amp;#8221; posts from my
 archives from the Herald News. This was also written by &lt;a href="http://www.tommeagher.com/2008/02/maslow-mourned/"&gt;Jonathan
 Maslow&lt;/a&gt;, and offers some solid street reporting tips for counting the
 crowd at any large public event.&lt;br /&gt;
@@ -605,7 +605,7 @@ reckoning of density a bit more accurate and hence, perhaps, the crowd
 estimate&amp;nbsp;itself.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Jonathan Maslow&lt;/em&gt;, Herald News, Nov.&amp;nbsp;2003&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 28 Jul 2012 12:01:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-07-28:blog/2012/07/crowd-estimates.html</guid></item><item><title>Nerds need credit too</title><link>tommeagher.github.io/blog/2012/07/nerds-need-credit-too.html</link><description>&lt;p&gt;It seems odd in 2012 that in some newsrooms the data journalists don&amp;#8217;t
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 28 Jul 2012 12:01:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-07-28:blog/2012/07/crowd-estimates.html</guid></item><item><title>Nerds need credit too</title><link>http://tommeagher.github.io/blog/2012/07/nerds-need-credit-too.html</link><description>&lt;p&gt;It seems odd in 2012 that in some newsrooms the data journalists don&amp;#8217;t
 get the same kind of credit for their work that other reporters receive.
 I suppose it&amp;#8217;s understandable, if &lt;span class="caps"&gt;NICAR&lt;/span&gt;-L is any indication, because to
 some of our colleagues data work is a mysterious and opaque contribution
@@ -651,7 +651,7 @@ data&amp;nbsp;people.&lt;/p&gt;
 &lt;li&gt;
 &lt;p&gt;Tom Meagher, Herald News, July 2006, via Rob Gebeloff at The&amp;nbsp;Star-Ledger&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 21 Jul 2012 22:57:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-07-21:blog/2012/07/nerds-need-credit-too.html</guid></item><item><title>Waking from an election results nightmare</title><link>tommeagher.github.io/blog/2012/06/waking-from-the-election-results-nightmare.html</link><description>&lt;p&gt;Sometimes, especially after a particularly trying election night, it
+&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 21 Jul 2012 22:57:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-07-21:blog/2012/07/nerds-need-credit-too.html</guid></item><item><title>Waking from an election results nightmare</title><link>http://tommeagher.github.io/blog/2012/06/waking-from-the-election-results-nightmare.html</link><description>&lt;p&gt;Sometimes, especially after a particularly trying election night, it
 starts to feel like we may be suffering from post-polls&amp;nbsp;&lt;span class="caps"&gt;PTSD&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;For the past year and a half, we&amp;#8217;ve been experimenting at The
 Star-Ledger with ways to improve how we report election results online
@@ -679,7 +679,7 @@ something that will save newsrooms everywhere a whole lot of&amp;nbsp;heartache.
 bad, from the election nights you&amp;#8217;ve covered. What&amp;#8217;s worked for you to
 get results online and what hasn&amp;#8217;t? Leave a comment here or &lt;a href="http://www.twitter.com/ultracasual"&gt;tweet at
 me&lt;/a&gt;. And, most importantly, tell us what &lt;span class="caps"&gt;VOTER&lt;/span&gt; will need to do to make
-it useful for your&amp;nbsp;organization.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 30 Jun 2012 23:14:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-30:blog/2012/06/waking-from-the-election-results-nightmare.html</guid></item><item><title>Bolstering transparency in our reporting</title><link>tommeagher.github.io/blog/2012/06/transparency.html</link><description>&lt;p&gt;&lt;em&gt;Back at the Herald News, several of the editors and reporters wrote a
+it useful for your&amp;nbsp;organization.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 30 Jun 2012 23:14:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-30:blog/2012/06/waking-from-the-election-results-nightmare.html</guid></item><item><title>Bolstering transparency in our reporting</title><link>http://tommeagher.github.io/blog/2012/06/transparency.html</link><description>&lt;p&gt;&lt;em&gt;Back at the Herald News, several of the editors and reporters wrote a
 regular series of columns for the newsroom called &amp;#8220;Best Practices.&amp;#8221; In
 digging through my archives, I&amp;#8217;ve found several that are timeless that I
 will gradually repost. This first one was written by &lt;a href="http://www.tommeagher.com/2008/02/maslow-mourned/"&gt;Jonathan
@@ -717,7 +717,7 @@ did not return five phone calls&amp;nbsp;Sunday.&amp;#8221;&lt;/p&gt;
 your work gets more accurate, better, more useful to&amp;nbsp;readers.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Jonathan Maslow&lt;/em&gt;, Herald News, June,&amp;nbsp;2004&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 24 Jun 2012 11:55:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-24:blog/2012/06/transparency.html</guid></item><item><title>Clean data is the best weapon against the monkey insurrection</title><link>tommeagher.github.io/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html</link><description>&lt;p&gt;&lt;strong&gt;*Updated:&lt;/strong&gt; I added the link to the rough cheat sheet of handy and
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 24 Jun 2012 11:55:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-24:blog/2012/06/transparency.html</guid></item><item><title>Clean data is the best weapon against the monkey insurrection</title><link>http://tommeagher.github.io/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html</link><description>&lt;p&gt;&lt;strong&gt;*Updated:&lt;/strong&gt; I added the link to the rough cheat sheet of handy and
 common Refine tasks at &lt;a href="http://bit.ly/ire12refinecheats"&gt;http://bit.ly/ire12refinecheats&lt;/a&gt;. Send me your
 favorite tricks to add to the&amp;nbsp;list!*&lt;/p&gt;
 &lt;hr /&gt;
@@ -1271,7 +1271,7 @@ Apes, I want to get off!&amp;#8221;*
 
 &lt;/div&gt;
 
-&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 15 Jun 2012 00:06:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-15:blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html</guid></item><item><title>Checklist to bulletproof your data work</title><link>tommeagher.github.io/blog/2012/06/checklist.html</link><description>&lt;p&gt;&lt;strong&gt;*Updated on 6/23&lt;/strong&gt;: I&amp;#8217;ve included, marked by an asterisk, several
+&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 15 Jun 2012 00:06:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-15:blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html</guid></item><item><title>Checklist to bulletproof your data work</title><link>http://tommeagher.github.io/blog/2012/06/checklist.html</link><description>&lt;p&gt;&lt;strong&gt;*Updated on 6/23&lt;/strong&gt;: I&amp;#8217;ve included, marked by an asterisk, several
 fantastic checklist suggestions offered by David Donald at the &lt;a href="http://www.ire.org/blog/2012-ire-conference-blog/"&gt;&lt;span class="caps"&gt;IRE&lt;/span&gt; &amp;#8216;12
 conference&lt;/a&gt; in&amp;nbsp;Boston.*&lt;/p&gt;
 &lt;hr /&gt;
@@ -1352,7 +1352,7 @@ St. Louis, Tom Johnson and &lt;a href="https://twitter.com/cephillips"&gt;Cheryl
 or ideas you&amp;#8217;re willing to share. Leave a comment here with your
 techniques or &lt;a href="http://www.twitter.com/ultracasual"&gt;tweet at me&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;* indicates questions added after hearing David Donald speak about
-bulletproofing &lt;span class="caps"&gt;CAR&lt;/span&gt; work at &lt;span class="caps"&gt;IRE&lt;/span&gt; &amp;#8216;12 in&amp;nbsp;Boston.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 03 Jun 2012 10:30:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-03:blog/2012/06/checklist.html</guid></item><item><title>Help Wanted</title><link>tommeagher.github.io/blog/2011/06/help-wanted.html</link><description>&lt;p&gt;We have a job opening up on our &lt;span class="caps"&gt;CAR&lt;/span&gt; team here at The&amp;nbsp;Star-Ledger.&lt;/p&gt;
+bulletproofing &lt;span class="caps"&gt;CAR&lt;/span&gt; work at &lt;span class="caps"&gt;IRE&lt;/span&gt; &amp;#8216;12 in&amp;nbsp;Boston.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 03 Jun 2012 10:30:00 -0400</pubDate><guid>tag:tommeagher.github.io,2012-06-03:blog/2012/06/checklist.html</guid></item><item><title>Help Wanted</title><link>http://tommeagher.github.io/blog/2011/06/help-wanted.html</link><description>&lt;p&gt;We have a job opening up on our &lt;span class="caps"&gt;CAR&lt;/span&gt; team here at The&amp;nbsp;Star-Ledger.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m not even going to try to compete with Matt Doig&amp;#8217;s &lt;a href="http://motherjones.tumblr.com/post/4046557808/the-best-journalism-job-want-ad-ever-ever"&gt;hilarious&lt;/a&gt; and
 &lt;a href="http://www.poynter.org/latest-news/romenesko/124910/im-just-mystified-that-this-little-job-post-has-resonated-with-so-many-people-in-the-business/"&gt;infamous&lt;/a&gt; job post, but I will preface this by saying the Ledger is a
 very good place to&amp;nbsp;work.&lt;/p&gt;
@@ -1386,7 +1386,7 @@ experience or interest in scraping, scripting, frameworks (Django,
 Rails, &lt;span class="caps"&gt;ASP&lt;/span&gt;.Net) or statistical analysis with &lt;span class="caps"&gt;SPSS&lt;/span&gt;, &lt;span class="caps"&gt;SAS&lt;/span&gt; or&amp;nbsp;R.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;If you&amp;#8217;re interested, send me a cover letter, resume and clips to my
-work email,&amp;nbsp;tmeagher(at)starledger(dot)com.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 24 Jun 2011 15:12:00 -0400</pubDate><guid>tag:tommeagher.github.io,2011-06-24:blog/2011/06/help-wanted.html</guid></item><item><title>Hacks, Cops and the Internet</title><link>tommeagher.github.io/blog/2011/05/cops-and-social-media.html</link><description>&lt;p&gt;About six months ago now, I started a new job, taking over as The
+work email,&amp;nbsp;tmeagher(at)starledger(dot)com.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 24 Jun 2011 15:12:00 -0400</pubDate><guid>tag:tommeagher.github.io,2011-06-24:blog/2011/06/help-wanted.html</guid></item><item><title>Hacks, Cops and the Internet</title><link>http://tommeagher.github.io/blog/2011/05/cops-and-social-media.html</link><description>&lt;p&gt;About six months ago now, I started a new job, taking over as The
 Star-Ledger&amp;#8217;s Computer-Assisted Reporting Editor. For anyone who follows
 me on Twitter, this may help explain why many of my online comments
 lately have dealt with statistics, data visualizations and&amp;nbsp;programming.&lt;/p&gt;
@@ -1517,7 +1517,7 @@ on deadline in the middle of a&amp;nbsp;catastrophe.&lt;/p&gt;
 tell me about your experience working with police or journalists on
 social media&amp;nbsp;networks.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;[International Association of Chiefs of Police Center on Social
-  Media]:&amp;nbsp;http://www.iacpsocialmedia.org/&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 20 May 2011 11:50:00 -0400</pubDate><guid>tag:tommeagher.github.io,2011-05-20:blog/2011/05/cops-and-social-media.html</guid></item><item><title>HIPAA</title><link>tommeagher.github.io/blog/2010/10/hipaa.html</link><description>&lt;p&gt;Since the Health Insurance Portability and Accountability Act&amp;#8217;s privacy
+  Media]:&amp;nbsp;http://www.iacpsocialmedia.org/&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 20 May 2011 11:50:00 -0400</pubDate><guid>tag:tommeagher.github.io,2011-05-20:blog/2011/05/cops-and-social-media.html</guid></item><item><title>HIPAA</title><link>http://tommeagher.github.io/blog/2010/10/hipaa.html</link><description>&lt;p&gt;Since the Health Insurance Portability and Accountability Act&amp;#8217;s privacy
 rule went into effect in 2003, it has become increasingly difficult for
 journalists to get information about the health care and treatment of
 individuals. My former colleague, health reporter Betsy Querna,
@@ -1555,7 +1555,7 @@ included in an authorization form, along with other guidance on&amp;nbsp;&lt;spa
 &lt;ul&gt;
 &lt;li&gt;Association of Health Care&amp;nbsp;Journalists&lt;/li&gt;
 &lt;/ul&gt;
-&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 07 Oct 2010 15:12:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-10-07:blog/2010/10/hipaa.html</guid></item><item><title>Story development</title><link>tommeagher.github.io/blog/2010/10/story.html</link><description>&lt;h2 id="story-tips-short-and-long"&gt;Story tips short and&amp;nbsp;long&lt;/h2&gt;
+&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 07 Oct 2010 15:12:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-10-07:blog/2010/10/hipaa.html</guid></item><item><title>Story development</title><link>http://tommeagher.github.io/blog/2010/10/story.html</link><description>&lt;h2 id="story-tips-short-and-long"&gt;Story tips short and&amp;nbsp;long&lt;/h2&gt;
 &lt;p&gt;1.Write tight. Maybe the most important thing you can do to increase
 your productivity without doing more work is to write tight and trim
 your own work. Write briefs instead of 8 inchers. Write 8 inchers
@@ -1934,7 +1934,7 @@ foreshadowing and&amp;nbsp;summarize.&lt;/p&gt;
 read fast. Then a short sentance halts the&amp;nbsp;reader.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://poynteronline.org/content/content_view.asp?id=707"&gt;30 Tips from Poynter&amp;#8217;s Roy Peter&amp;nbsp;Clark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 06 Oct 2010 14:49:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-10-06:blog/2010/10/story.html</guid></item><item><title>Documents every gov’t reporter needs</title><link>tommeagher.github.io/blog/2010/10/docs.html</link><description>&lt;p&gt;&lt;strong&gt;Tipsheets&lt;/strong&gt;&lt;/p&gt;
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 06 Oct 2010 14:49:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-10-06:blog/2010/10/story.html</guid></item><item><title>Documents every gov’t reporter needs</title><link>http://tommeagher.github.io/blog/2010/10/docs.html</link><description>&lt;p&gt;&lt;strong&gt;Tipsheets&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/files/tips/T1986.pdf"&gt;10 databases for covering City&amp;nbsp;Hall&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="/files/tips/T1816.pdf"&gt;Investigating local&amp;nbsp;gov&amp;#8217;t&lt;/a&gt;&lt;/li&gt;
@@ -1945,7 +1945,7 @@ they&amp;#8217;re being dishonest, is to have the right paper (and electronic)
 documents. As you approach your beat, and learn it inside and out, try
 to compile as many of these documents and statistics as you can. Keep
 them on hand. They will prove to be immensely useful countless times in
-the&amp;nbsp;future.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 05 Oct 2010 13:56:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-10-05:blog/2010/10/docs.html</guid></item><item><title>Budgets</title><link>tommeagher.github.io/blog/2010/09/budgets.html</link><description>&lt;p&gt;&lt;strong&gt;Tipsheets&lt;/strong&gt;&lt;/p&gt;
+the&amp;nbsp;future.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 05 Oct 2010 13:56:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-10-05:blog/2010/10/docs.html</guid></item><item><title>Budgets</title><link>http://tommeagher.github.io/blog/2010/09/budgets.html</link><description>&lt;p&gt;&lt;strong&gt;Tipsheets&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="/files/tips/journguide.pdf"&gt;Guide to &lt;span class="caps"&gt;NJ&lt;/span&gt;&amp;nbsp;budgets&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="/files/tips/claude.pdf"&gt;Budget&amp;nbsp;primer&lt;/a&gt;&lt;/li&gt;
@@ -2088,7 +2088,7 @@ municipal (school/county) taxes, a rise of \$99.70 from last year or
   [More tips from Claude&lt;br /&gt;
  ]: /files/tips/budtips.pdf
   [20 more tips from &lt;span class="caps"&gt;IRE&lt;/span&gt;&lt;br /&gt;
- ]:&amp;nbsp;/files/tips/20budtips.doc&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 30 Sep 2010 14:24:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-09-30:blog/2010/09/budgets.html</guid></item><item><title>Accuracy checklist</title><link>tommeagher.github.io/blog/2010/09/accuracy.html</link><description>&lt;p&gt;The accuracy checklist is intended primarily for beginning reporters on
+ ]:&amp;nbsp;/files/tips/20budtips.doc&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 30 Sep 2010 14:24:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-09-30:blog/2010/09/budgets.html</guid></item><item><title>Accuracy checklist</title><link>http://tommeagher.github.io/blog/2010/09/accuracy.html</link><description>&lt;p&gt;The accuracy checklist is intended primarily for beginning reporters on
 daily stories, but its reminders can be useful for journalists of all
 experience levels.&lt;br /&gt;
 - &lt;em&gt;Jaci Smith&lt;/em&gt;, Herald News, Jan.&amp;nbsp;2007&lt;/p&gt;
@@ -2122,7 +2122,7 @@ how we got&amp;nbsp;facts?&lt;/p&gt;
 &lt;p&gt;______ If you are not certain about accuracy, did you ask editor
 to hold&amp;nbsp;story?&lt;/p&gt;
 &lt;p&gt;______ Will you be available by phone for Copy Desk questions? If
-not, tell editor when you will be&amp;nbsp;available&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 23 Sep 2010 14:05:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-09-23:blog/2010/09/accuracy.html</guid></item><item><title>Who’s minding the goal?</title><link>tommeagher.github.io/blog/2010/05/whos-minding-the-goal.html</link><description>&lt;p&gt;After &lt;a href="http://www.tommeagher.com/2010/05/no-cheering-in-the-press-box/"&gt;yesterday&amp;#8217;s discussion&lt;/a&gt;, some might ask the obvious question:
+not, tell editor when you will be&amp;nbsp;available&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 23 Sep 2010 14:05:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-09-23:blog/2010/09/accuracy.html</guid></item><item><title>Who’s minding the goal?</title><link>http://tommeagher.github.io/blog/2010/05/whos-minding-the-goal.html</link><description>&lt;p&gt;After &lt;a href="http://www.tommeagher.com/2010/05/no-cheering-in-the-press-box/"&gt;yesterday&amp;#8217;s discussion&lt;/a&gt;, some might ask the obvious question:
 aren&amp;#8217;t there already people doing&amp;nbsp;this?&lt;/p&gt;
 &lt;p&gt;I don&amp;#8217;t intend to denigrate the years of service by so many passionate
 and intelligent fans. I wish they could have been compensated even a
@@ -2272,7 +2272,7 @@ sport we all love, it will be a small price to&amp;nbsp;pay.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Leave a comment below or follow me on Twitter&lt;/em&gt;&lt;a href="http://www.twitter.com/ultracasual/" title="Tweet"&gt;&lt;em&gt;@ultracasual&lt;/em&gt;&lt;/a&gt;&lt;em&gt;and
 tell me what you&amp;nbsp;think.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;[one at the &lt;span class="caps"&gt;U.S.&lt;/span&gt; Mens National Team Players Association&amp;#8217;s official
-  website]:&amp;nbsp;http://www.ussoccerplayers.com/ussoccerplayers/2010/04/mlssoccers-competitive-balance.html&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 13 May 2010 08:27:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-05-13:blog/2010/05/whos-minding-the-goal.html</guid></item><item><title>No cheering in the press box</title><link>tommeagher.github.io/blog/2010/05/no-cheering-in-the-press-box.html</link><description>&lt;p&gt;As anyone who&amp;#8217;s stumbled upon my &lt;a href="http://www.twitter.com/ultracasual/"&gt;Twitter feed&lt;/a&gt; can tell you, I&amp;#8217;m a
+  website]:&amp;nbsp;http://www.ussoccerplayers.com/ussoccerplayers/2010/04/mlssoccers-competitive-balance.html&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 13 May 2010 08:27:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-05-13:blog/2010/05/whos-minding-the-goal.html</guid></item><item><title>No cheering in the press box</title><link>http://tommeagher.github.io/blog/2010/05/no-cheering-in-the-press-box.html</link><description>&lt;p&gt;As anyone who&amp;#8217;s stumbled upon my &lt;a href="http://www.twitter.com/ultracasual/"&gt;Twitter feed&lt;/a&gt; can tell you, I&amp;#8217;m a
 soccer fan whose zeal for the sport approaches fanaticism. But over the
 last 15 years, I&amp;#8217;ve driven myself crazy trying to find news about the
 professional game in all its domestic incarnations, whether it be &lt;a href="http://www.mlssoccer.com"&gt;Major
@@ -2476,7 +2476,7 @@ serious, concerted effort to groom, deploy and support soccer&amp;nbsp;writers.&
 &lt;p&gt;&lt;em&gt;Tomorrow, I&amp;#8217;ll discuss how the writers we have can get better and what
 we&amp;#8217;ll need to do to get more of&amp;nbsp;them.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Leave a comment below or follow me on Twitter&lt;/em&gt;&lt;a href="http://www.twitter.com/ultracasual/" title="Tweet"&gt;&lt;em&gt;@ultracasual&lt;/em&gt;&lt;/a&gt;&lt;em&gt;and
-tell me what you&amp;nbsp;think.&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 12 May 2010 08:03:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-05-12:blog/2010/05/no-cheering-in-the-press-box.html</guid></item><item><title>Diving headfirst into the social media deep end</title><link>tommeagher.github.io/blog/2010/05/diving-headfirst-into-the-social-media-deep-end.html</link><description>&lt;p&gt;A few months ago, I was laid up for a few days recovering from knee
+tell me what you&amp;nbsp;think.&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 12 May 2010 08:03:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-05-12:blog/2010/05/no-cheering-in-the-press-box.html</guid></item><item><title>Diving headfirst into the social media deep end</title><link>http://tommeagher.github.io/blog/2010/05/diving-headfirst-into-the-social-media-deep-end.html</link><description>&lt;p&gt;A few months ago, I was laid up for a few days recovering from knee
 surgery. I spent most of the time lounging on the sofa and watching
 European soccer games on &lt;a href="http://www.espn3.com"&gt;&lt;span class="caps"&gt;ESPN3&lt;/span&gt;.com&lt;/a&gt;. But I also stumbled upon a great
 series of podcasts that walked me through how and why journalists
@@ -2521,7 +2521,7 @@ exhaustive &lt;a href="http://sreetips.tumblr.com/post/87435969/twitter"&gt;Twi
 sign up (or if you&amp;#8217;re already there), let me know so that I can start
 following your work&amp;nbsp;too.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Leave a comment below or follow me on Twitter&lt;/em&gt;&lt;a href="http://www.twitter.com/ultracasual/" title="Tweet"&gt;&lt;em&gt;@ultracasual&lt;/em&gt;&lt;/a&gt;&lt;em&gt;and
-tell me what tools you&amp;#8217;ve found useful in navigating the social&amp;nbsp;mediasphere.&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 05 May 2010 08:02:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-05-05:blog/2010/05/diving-headfirst-into-the-social-media-deep-end.html</guid></item><item><title>The ups and downs of the younger, faster, busier newsroom</title><link>tommeagher.github.io/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html</link><description>&lt;p&gt;Things have been pretty hectic over the last year. The Local News
+tell me what tools you&amp;#8217;ve found useful in navigating the social&amp;nbsp;mediasphere.&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 05 May 2010 08:02:00 -0400</pubDate><guid>tag:tommeagher.github.io,2010-05-05:blog/2010/05/diving-headfirst-into-the-social-media-deep-end.html</guid></item><item><title>The ups and downs of the younger, faster, busier newsroom</title><link>http://tommeagher.github.io/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html</link><description>&lt;p&gt;Things have been pretty hectic over the last year. The Local News
 Service is fully staffed and running at full steam. Over the summer, we
 had a baby. Between the two, I&amp;#8217;ve had my hands&amp;nbsp;full.&lt;/p&gt;
 &lt;p&gt;Earlier this week, I was invited to speak on a panel to address the
@@ -2611,7 +2611,7 @@ excited when one of our people gets a front page&amp;nbsp;story.&lt;/p&gt;
 journalists every day hasn&amp;#8217;t changed all that much. We have better
 tools to work with in some cases, and we&amp;#8217;ve got to do more, faster,
 but at the end of the day, it&amp;#8217;s journalism. I couldn&amp;#8217;t be&amp;nbsp;happier.&lt;/p&gt;
-&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 23 Jan 2010 09:36:00 -0500</pubDate><guid>tag:tommeagher.github.io,2010-01-23:blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html</guid></item><item><title>Moving on</title><link>tommeagher.github.io/blog/2009/04/moving-on.html</link><description>&lt;p&gt;As with many things on this site, it&amp;#8217;s taken me a little while to get
+&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 23 Jan 2010 09:36:00 -0500</pubDate><guid>tag:tommeagher.github.io,2010-01-23:blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html</guid></item><item><title>Moving on</title><link>http://tommeagher.github.io/blog/2009/04/moving-on.html</link><description>&lt;p&gt;As with many things on this site, it&amp;#8217;s taken me a little while to get
 around to posting this&amp;nbsp;note.&lt;/p&gt;
 &lt;p&gt;In February, after a very successful stint at the Herald News&amp;#8212;which
 included helping to lead it to win the award for best small daily in the
@@ -2631,10 +2631,10 @@ Star-Ledger and its Web site &lt;a href="http://www.nj.com/"&gt;&lt;span class="
 blast. I have a feeling that we&amp;#8217;re going to see more news organizations
 following this model: start an outside company to focus intensely on
 local news and provide content for print and online. It&amp;#8217;ll be great to
-set the precedent for how it can be&amp;nbsp;done.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 21 Apr 2009 11:36:00 -0400</pubDate><guid>tag:tommeagher.github.io,2009-04-21:blog/2009/04/moving-on.html</guid></item><item><title>CSCI6844 Homework 5</title><link>tommeagher.github.io/blog/2009/04/csci6844-homework-5.html</link><description>&lt;p&gt;Dr.&amp;nbsp;An,&lt;/p&gt;
+set the precedent for how it can be&amp;nbsp;done.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 21 Apr 2009 11:36:00 -0400</pubDate><guid>tag:tommeagher.github.io,2009-04-21:blog/2009/04/moving-on.html</guid></item><item><title>CSCI6844 Homework 5</title><link>http://tommeagher.github.io/blog/2009/04/csci6844-homework-5.html</link><description>&lt;p&gt;Dr.&amp;nbsp;An,&lt;/p&gt;
 &lt;p&gt;Please download the &lt;a href="http://www.tommeagher.com/files/meagher_hw5.zip"&gt;.zip file here&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Thanks,&lt;/p&gt;
-&lt;p&gt;Tom&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 20 Apr 2009 22:25:00 -0400</pubDate><guid>tag:tommeagher.github.io,2009-04-20:blog/2009/04/csci6844-homework-5.html</guid></item><item><title>When all eyes are on India</title><link>tommeagher.github.io/blog/2008/12/all-eyes-on-india.html</link><description>&lt;p&gt;I&amp;#8217;ve been trying to get to this post for about a week, but the news
+&lt;p&gt;Tom&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 20 Apr 2009 22:25:00 -0400</pubDate><guid>tag:tommeagher.github.io,2009-04-20:blog/2009/04/csci6844-homework-5.html</guid></item><item><title>When all eyes are on India</title><link>http://tommeagher.github.io/blog/2008/12/all-eyes-on-india.html</link><description>&lt;p&gt;I&amp;#8217;ve been trying to get to this post for about a week, but the news
 cycle has been a bear&amp;nbsp;lately.&lt;/p&gt;
 &lt;p&gt;Here in Passaic County, we got hit by a major news story last week, and
 in the process of overseeing our coverage, I rediscovered a fantastic
@@ -2674,7 +2674,7 @@ Since then, &lt;span class="caps"&gt;SAJA&lt;/span&gt; has gone into overdrive. 
 tips, including daily podcasts and phonecasts. With its coverage of this
 event, SAJAforum has proven itself an indispensable resource for anyone
 seriously covering South Asian news, both here and abroad. I can&amp;#8217;t
-recommend it&amp;nbsp;enough.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 05 Dec 2008 13:15:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-12-05:blog/2008/12/all-eyes-on-india.html</guid></item><item><title>Getting social networked</title><link>tommeagher.github.io/blog/2008/11/getting-social-networked.html</link><description>&lt;p&gt;After years of hearing about it and after months of hearing friends and
+recommend it&amp;nbsp;enough.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 05 Dec 2008 13:15:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-12-05:blog/2008/12/all-eyes-on-india.html</guid></item><item><title>Getting social networked</title><link>http://tommeagher.github.io/blog/2008/11/getting-social-networked.html</link><description>&lt;p&gt;After years of hearing about it and after months of hearing friends and
 loved ones raving about it, I&amp;#8217;ve decided to take the plunge and explore
 &lt;a href="http://www.facebook.com/"&gt;Facebook&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In years past, I had flirted with &lt;a href="http://www.friendster.com/"&gt;Friendster&lt;/a&gt; and &lt;a href="http://www.myspace.com"&gt;Myspace&lt;/a&gt; with
@@ -2688,7 +2688,7 @@ exchange some pleasantries, then what? What&amp;#8217;s your favorite thing abou
 &lt;p&gt;And once you&amp;#8217;ve built your social network, what do you think is the best
 use for&amp;nbsp;it?&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;d love to hear your thoughts and&amp;nbsp;advice.&lt;/p&gt;
-&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 30 Nov 2008 16:50:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-11-30:blog/2008/11/getting-social-networked.html</guid></item><item><title>Back to school</title><link>tommeagher.github.io/blog/2008/09/back-to-school.html</link><description>&lt;p&gt;The nature of the news business, and the 24/7 demand of following &lt;a href="http://njmg.typepad.com/fixture/"&gt;the
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sun, 30 Nov 2008 16:50:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-11-30:blog/2008/11/getting-social-networked.html</guid></item><item><title>Back to school</title><link>http://tommeagher.github.io/blog/2008/09/back-to-school.html</link><description>&lt;p&gt;The nature of the news business, and the 24/7 demand of following &lt;a href="http://njmg.typepad.com/fixture/"&gt;the
 world of futbol&lt;/a&gt;, keeps me more than busy much of the time. Thus, this
 little professional blog ends up taking a back seat until the spirit
 moves&amp;nbsp;me.&lt;/p&gt;
@@ -2706,7 +2706,7 @@ my classroom demeanor. And hopefully it&amp;#8217;ll give me the impetus to make
 some more headway on fleshing out the &lt;a href="http://www.tommeagher.com/best-practices/"&gt;Best Practices&lt;/a&gt;&amp;nbsp;section.&lt;/p&gt;
 &lt;p&gt;What advice do you have for me as I strive to teach the next generation
 of journalists and&amp;nbsp;writers?&lt;/p&gt;
-&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 10 Sep 2008 14:50:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-09-10:blog/2008/09/back-to-school.html</guid></item><item><title>Data In The Newsroom</title><link>tommeagher.github.io/blog/2008/09/dataclass.html</link><description>&lt;p&gt;&lt;strong&gt;Fairleigh Dickinson University - Fall semester,&amp;nbsp;2008&lt;/strong&gt;&lt;/p&gt;
+&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 10 Sep 2008 14:50:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-09-10:blog/2008/09/back-to-school.html</guid></item><item><title>Data In The Newsroom</title><link>http://tommeagher.github.io/blog/2008/09/dataclass.html</link><description>&lt;p&gt;&lt;strong&gt;Fairleigh Dickinson University - Fall semester,&amp;nbsp;2008&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.tommeagher.com/wp-content/uploads/2008/10/syllabus.doc" title="Syllabus"&gt;Syllabus&lt;/a&gt; &lt;em&gt;- updated&amp;nbsp;10/2/08&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://www.tommeagher.com/wp-content/uploads/2008/10/the-final-project.doc" title="The final project"&gt;The final project&lt;/a&gt; &lt;em&gt;- updated&amp;nbsp;10/7/08&lt;/em&gt;&lt;/p&gt;
 &lt;hr /&gt;
@@ -2823,7 +2823,7 @@ and other educators to use to pass on these skills&lt;/small&gt;&lt;/em&gt;.&lt;
     &amp;#8220;Appointments.xls&amp;#8221;
   [How to negotiate for data&lt;br /&gt;
  ]: http://www.tommeagher.com/wp-content/uploads/2008/10/t1351.pdf
-    &amp;#8220;Getting electronic&amp;nbsp;information&amp;#8221;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 03 Sep 2008 18:04:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-09-03:blog/2008/09/dataclass.html</guid></item><item><title>He didn’t know anything.</title><link>tommeagher.github.io/blog/2008/05/he-didnt-know-anything.html</link><description>&lt;p&gt;I read a lot of nonfiction, &lt;a href="http://brothersjudd.com/index.cfm/fuseaction/reviews.detail/book_id/970"&gt;literary&lt;/a&gt; and &lt;a href="http://www.salon.com/books/review/2006/10/03/woodward/index_np.html"&gt;otherwise&lt;/a&gt;, and I
+    &amp;#8220;Getting electronic&amp;nbsp;information&amp;#8221;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 03 Sep 2008 18:04:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-09-03:blog/2008/09/dataclass.html</guid></item><item><title>He didn’t know anything.</title><link>http://tommeagher.github.io/blog/2008/05/he-didnt-know-anything.html</link><description>&lt;p&gt;I read a lot of nonfiction, &lt;a href="http://brothersjudd.com/index.cfm/fuseaction/reviews.detail/book_id/970"&gt;literary&lt;/a&gt; and &lt;a href="http://www.salon.com/books/review/2006/10/03/woodward/index_np.html"&gt;otherwise&lt;/a&gt;, and I
 recently finished one of the better books I&amp;#8217;ve found on American culture
 and media in the middle of the 20th Century. &amp;#8220;&lt;a href="http://www.npr.org/templates/story/story.php?storyId=7096480"&gt;The Race Beat&lt;/a&gt;&amp;#8221; not
 only chronicles the coverage of the civil rights movement and its
@@ -2847,7 +2847,7 @@ New York Times&lt;/em&gt;&lt;/a&gt;. Name of Bigaht. Know&amp;nbsp;&amp;#8216;im
 went on. &amp;#8216;He didn&amp;#8217;t know anything. I had to explain
 &lt;strong&gt;&lt;em&gt;evvvverything&lt;/em&gt;&lt;/strong&gt; to&amp;nbsp;him.&amp;#8217;&amp;#8221;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Not a bad &lt;span class="caps"&gt;M.O.&lt;/span&gt; if you can pull it off. We can all learn from the old&amp;nbsp;masters.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 20 May 2008 18:22:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-05-20:blog/2008/05/he-didnt-know-anything.html</guid></item><item><title>The kick-off</title><link>tommeagher.github.io/blog/2008/04/the-kick-off.html</link><description>&lt;p&gt;For those very few of you who have been missing my byline (hi, Mom and
+&lt;p&gt;Not a bad &lt;span class="caps"&gt;M.O.&lt;/span&gt; if you can pull it off. We can all learn from the old&amp;nbsp;masters.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 20 May 2008 18:22:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-05-20:blog/2008/05/he-didnt-know-anything.html</guid></item><item><title>The kick-off</title><link>http://tommeagher.github.io/blog/2008/04/the-kick-off.html</link><description>&lt;p&gt;For those very few of you who have been missing my byline (hi, Mom and
 Dad!), I have good news. The Herald News&amp;#8217; soccer writer, &lt;a href="http://www.soccerbyives.net"&gt;Ives
 Galarcep&lt;/a&gt;, has gone rogue and left the paper to start his own soccer
 media empire. Since his departure, I have been tapped to write our
@@ -2862,7 +2862,7 @@ responsibilities allow, but I think it will be a fun chance to write
 about one of my favorite pasttimes. We&amp;#8217;ll see how it&amp;nbsp;goes.&lt;/p&gt;
 &lt;p&gt;For those who aren&amp;#8217;t soccer aficionados, don&amp;#8217;t despair. I&amp;#8217;ll keep
 sharing my tips and experiences in the newspaper business here on my
-personal site, as&amp;nbsp;well.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 09 Apr 2008 06:32:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-04-09:blog/2008/04/the-kick-off.html</guid></item><item><title>Free Barry Bearak</title><link>tommeagher.github.io/blog/2008/04/free-barry-bearak.html</link><description>&lt;p&gt;From time to time, you read about journalists being imprisoned in
+personal site, as&amp;nbsp;well.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 09 Apr 2008 06:32:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-04-09:blog/2008/04/the-kick-off.html</guid></item><item><title>Free Barry Bearak</title><link>http://tommeagher.github.io/blog/2008/04/free-barry-bearak.html</link><description>&lt;p&gt;From time to time, you read about journalists being imprisoned in
 far-off countries for doing their jobs. Only rarely do you recognize
 their&amp;nbsp;names.&lt;/p&gt;
 &lt;p&gt;Yesterday, Barry Bearak of the New York Times was arrested in Zimbabwe
@@ -2882,11 +2882,11 @@ how vital an unfettered press is to a true&amp;nbsp;democracy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Update:&lt;/strong&gt;&lt;a href="http://www.nytimes.com/2008/04/08/world/africa/08bearak.html?_r=1&amp;amp;scp=2&amp;amp;sq=bearak&amp;amp;st=nyt&amp;amp;oref=slogin"&gt;Bearak was freed on bail Monday&lt;/a&gt;. Hopefully, his case will
 help shine a light on the persecution of journalists and restrictions on
 the free flow of information in Zimbabwe. Maybe that light can help the
-people there make a&amp;nbsp;change.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 04 Apr 2008 19:13:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-04-04:blog/2008/04/free-barry-bearak.html</guid></item><item><title>Note to self</title><link>tommeagher.github.io/blog/2008/04/note-to-self.html</link><description>&lt;p&gt;Before attending a job fair to interview journalism students and
+people there make a&amp;nbsp;change.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 04 Apr 2008 19:13:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-04-04:blog/2008/04/free-barry-bearak.html</guid></item><item><title>Note to self</title><link>http://tommeagher.github.io/blog/2008/04/note-to-self.html</link><description>&lt;p&gt;Before attending a job fair to interview journalism students and
 aspiring reporters, be sure to update your Web site. Reporters these
 days know &lt;a href="http://www.tommeagher.com/best-practices/google-search/"&gt;how to Google&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;When feasible, finish updating the &lt;a href="http://www.tommeagher.com/best-practices/"&gt;Best Practices&lt;/a&gt; section of this&amp;nbsp;site.&lt;/p&gt;
-&lt;p&gt;Take a deep breath, and enjoy&amp;nbsp;spring.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 02 Apr 2008 12:01:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-04-02:blog/2008/04/note-to-self.html</guid></item><item><title>Learning to be a journalist</title><link>tommeagher.github.io/blog/2008/03/learning-to-be-a-journalist.html</link><description>&lt;p&gt;Some people spend years trying to learn our craft, spending thousands on
+&lt;p&gt;Take a deep breath, and enjoy&amp;nbsp;spring.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 02 Apr 2008 12:01:00 -0400</pubDate><guid>tag:tommeagher.github.io,2008-04-02:blog/2008/04/note-to-self.html</guid></item><item><title>Learning to be a journalist</title><link>http://tommeagher.github.io/blog/2008/03/learning-to-be-a-journalist.html</link><description>&lt;p&gt;Some people spend years trying to learn our craft, spending thousands on
 graduate schools. Others just go where the news is, roll up their
 sleeves and give it a&amp;nbsp;shot.&lt;/p&gt;
 &lt;p&gt;I can&amp;#8217;t say that my friend David Lang&amp;#8217;s method is the best way to get
@@ -2899,12 +2899,12 @@ explore&amp;nbsp;Afghanistan.&lt;/p&gt;
 adventure, and he&amp;#8217;s no longer just a documentary photographer. He&amp;#8217;s a
 journalist. &lt;a href="http://davidlang.blogspot.com/"&gt;His blog&lt;/a&gt; about his experiences in the &amp;#8216;stans is
 funny, engaging and definitely worth a read. I have a feeling we&amp;#8217;ll all
-be seeing much more of&lt;a href="http://www.davidlang.com/main.php"&gt;his work&lt;/a&gt;soon.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 07 Mar 2008 18:38:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-03-07:blog/2008/03/learning-to-be-a-journalist.html</guid></item><item><title>Maslow mourned</title><link>tommeagher.github.io/blog/2008/02/maslow-mourned.html</link><description>&lt;p&gt;On Tuesday, we lost &lt;a href="http://www.myheraldnews.com/view.html?type=stories&amp;amp;action=detail&amp;amp;sub_id=27821"&gt;a colleague and an accomplished journalist&lt;/a&gt; when
+be seeing much more of&lt;a href="http://www.davidlang.com/main.php"&gt;his work&lt;/a&gt;soon.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 07 Mar 2008 18:38:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-03-07:blog/2008/03/learning-to-be-a-journalist.html</guid></item><item><title>Maslow mourned</title><link>http://tommeagher.github.io/blog/2008/02/maslow-mourned.html</link><description>&lt;p&gt;On Tuesday, we lost &lt;a href="http://www.myheraldnews.com/view.html?type=stories&amp;amp;action=detail&amp;amp;sub_id=27821"&gt;a colleague and an accomplished journalist&lt;/a&gt; when
 Jonathan Maslow&amp;nbsp;died.&lt;/p&gt;
 &lt;p&gt;Plenty of &lt;a href="http://www.theenergyindependent.com/jonathan-evan-maslow/jonathan-evan-maslow-1948-2008.html"&gt;others&lt;/a&gt; have &lt;a href="http://www.capemaycountyherald.com/article/21803-former-herald-reporter-jonathan-e-maslow-59"&gt;already&lt;/a&gt; shared their memories and their
 sadness &lt;a href="http://www.yonigreenbaum.com/index.php/20080220/journalism-mourns-a-loss/"&gt;much better&lt;/a&gt; than I can. All I&amp;#8217;ll say is that his humor and
 his passion for life and the newsman&amp;#8217;s craft will be sorely missed in
-this newsroom. And those traits are desperately needed in so many&amp;nbsp;others.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 21 Feb 2008 19:25:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-02-21:blog/2008/02/maslow-mourned.html</guid></item><item><title>Must crawl before walking.</title><link>tommeagher.github.io/blog/2008/01/must-crawl-before-walking.html</link><description>&lt;p&gt;I&amp;#8217;ve been putting off posting here for weeks, hoping inspiration would
+this newsroom. And those traits are desperately needed in so many&amp;nbsp;others.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 21 Feb 2008 19:25:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-02-21:blog/2008/02/maslow-mourned.html</guid></item><item><title>Must crawl before walking.</title><link>http://tommeagher.github.io/blog/2008/01/must-crawl-before-walking.html</link><description>&lt;p&gt;I&amp;#8217;ve been putting off posting here for weeks, hoping inspiration would
 strike, or I would suddenly find a bounty of free time to think of
 something really&amp;nbsp;insightful.&lt;/p&gt;
 &lt;p&gt;None of this happened, so I&amp;#8217;ll drop a few tidbits of news and links to
@@ -2923,7 +2923,7 @@ out of the newsroom&lt;/a&gt;, and use your e-mail addressbook as &lt;a href="ht
 cultivate sources&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;So stop obsessing over this season of &amp;#8220;The Wire&amp;#8221; and step up your game,
 people. I&amp;#8217;m trying&amp;nbsp;to.&lt;/p&gt;
-&lt;p&gt;Cheers.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 24 Jan 2008 18:29:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-01-24:blog/2008/01/must-crawl-before-walking.html</guid></item><item><title>There’s always room for another two cents.</title><link>tommeagher.github.io/blog/2007/12/theres-always-room-for-another-two-cents.html</link><description>&lt;p&gt;While I use &lt;a href="http://news.google.com/"&gt;Google News&lt;/a&gt; fairly regularly&amp;#8212;particularly its e-mailed
+&lt;p&gt;Cheers.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 24 Jan 2008 18:29:00 -0500</pubDate><guid>tag:tommeagher.github.io,2008-01-24:blog/2008/01/must-crawl-before-walking.html</guid></item><item><title>There’s always room for another two cents.</title><link>http://tommeagher.github.io/blog/2007/12/theres-always-room-for-another-two-cents.html</link><description>&lt;p&gt;While I use &lt;a href="http://news.google.com/"&gt;Google News&lt;/a&gt; fairly regularly&amp;#8212;particularly its e-mailed
 news alerts), I never noticed the new &amp;#8220;comments from people in the news&amp;#8221;
 function that it apparently launched last spring. It&amp;#8217;s a fascinating
 idea that the &lt;a href="http://www.nytimes.com/2007/12/24/business/media/24link.html?_r=2&amp;amp;ref=technology&amp;amp;oref=login&amp;amp;oref=slogin"&gt;&lt;span class="caps"&gt;NY&lt;/span&gt; Times&lt;/a&gt; recently took a look at (thanks, &lt;a href="http://slashdot.org/article.pl?sid=07/12/26/1246246&amp;amp;from=rss"&gt;Slashdot&lt;/a&gt;
@@ -2948,7 +2948,7 @@ they could expect more than a nasty letter to the editor should they
 play fast and loose with the&amp;nbsp;facts.&lt;/p&gt;
 &lt;p&gt;What do you think? Is there any reason we as journalists couldn&amp;#8217;t (or
 shouldn&amp;#8217;t) provide such a function on our own Web sites? Or should we
-let Google have all the&amp;nbsp;fun?&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 28 Dec 2007 20:43:00 -0500</pubDate><guid>tag:tommeagher.github.io,2007-12-28:blog/2007/12/theres-always-room-for-another-two-cents.html</guid></item><item><title>Uhhh, sorry?</title><link>tommeagher.github.io/blog/2007/12/uhhh-sorry.html</link><description>&lt;p&gt;My former colleague &lt;a href="http://www.yonigreenbaum.com/"&gt;Yoni Greenbaum&lt;/a&gt; has entered the journalism
+let Google have all the&amp;nbsp;fun?&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 28 Dec 2007 20:43:00 -0500</pubDate><guid>tag:tommeagher.github.io,2007-12-28:blog/2007/12/theres-always-room-for-another-two-cents.html</guid></item><item><title>Uhhh, sorry?</title><link>http://tommeagher.github.io/blog/2007/12/uhhh-sorry.html</link><description>&lt;p&gt;My former colleague &lt;a href="http://www.yonigreenbaum.com/"&gt;Yoni Greenbaum&lt;/a&gt; has entered the journalism
 blogging arena, and he recently added his &lt;a href="http://www.yonigreenbaum.com/?p=64"&gt;philosophy&lt;/a&gt; about the
 obligation of newspapers to make their corrections as easy to find
 online as they are in the print&amp;nbsp;edition.&lt;/p&gt;
@@ -2964,7 +2964,7 @@ otherwise&amp;#8212;will reap dividends in the&amp;nbsp;long-run.&lt;/p&gt;
 &lt;p&gt;As newspapers build up more vigorous online presences, it only becomes
 more vital that they revisit their correction policies for their Web
 editions. Make it visible and be honest, and you will build even more
-loyalty for your product. A little &lt;em&gt;mea culpa&lt;/em&gt; will go a long&amp;nbsp;way.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 17 Dec 2007 16:18:00 -0500</pubDate><guid>tag:tommeagher.github.io,2007-12-17:blog/2007/12/uhhh-sorry.html</guid></item><item><title>Editing ‘Saints of the Storm’</title><link>tommeagher.github.io/blog/2007/11/editing-saints-of-the-storm.html</link><description>&lt;p&gt;I&amp;#8217;ve been out of the daily reporting loop for months now as I fill in as
+loyalty for your product. A little &lt;em&gt;mea culpa&lt;/em&gt; will go a long&amp;nbsp;way.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 17 Dec 2007 16:18:00 -0500</pubDate><guid>tag:tommeagher.github.io,2007-12-17:blog/2007/12/uhhh-sorry.html</guid></item><item><title>Editing ‘Saints of the Storm’</title><link>http://tommeagher.github.io/blog/2007/11/editing-saints-of-the-storm.html</link><description>&lt;p&gt;I&amp;#8217;ve been out of the daily reporting loop for months now as I fill in as
 an editor, but I have been involved in one cool project. One of my
 reporters is now in the Dominican Republic reporting &lt;a href="http://myheraldnews.com/saints.html"&gt;a project&lt;/a&gt; on
 the destruction caused earlier in the month by Hurricane Noel. While
@@ -2989,7 +2989,7 @@ accidents database for a reporter looking for some key data. She was
 looking for the number of accidents involving school buses in Passaic
 County over the last five years. I was quite pleased with myself that I
 could run the queries and find her answer in about 15 minutes. The
-number?&amp;nbsp;713.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 21 Nov 2007 15:48:00 -0500</pubDate><guid>tag:tommeagher.github.io,2007-11-21:blog/2007/11/editing-saints-of-the-storm.html</guid></item><item><title>“Hilarious”, no sarcasm intended</title><link>tommeagher.github.io/blog/2007/10/hilarious-no-sarcasm-intended.html</link><description>&lt;p&gt;One of my grammatical pet peeves is the abuse of quotation marks. I see
+number?&amp;nbsp;713.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 21 Nov 2007 15:48:00 -0500</pubDate><guid>tag:tommeagher.github.io,2007-11-21:blog/2007/11/editing-saints-of-the-storm.html</guid></item><item><title>“Hilarious”, no sarcasm intended</title><link>http://tommeagher.github.io/blog/2007/10/hilarious-no-sarcasm-intended.html</link><description>&lt;p&gt;One of my grammatical pet peeves is the abuse of quotation marks. I see
 it often in my daily life, but as I&amp;#8217;ve been editing lately, I&amp;#8217;ve noticed
 it popping up more and more in the stories I coach. A lot of young
 reporters think that quoting just one word an official says lends their
@@ -3000,7 +3000,7 @@ suggests that the writer intends to use the quote&amp;nbsp;sarcastically.&lt;/p&
 the ever-resourceful &lt;a href="http://www.depthreporting.com/"&gt;Depth Reporting&lt;/a&gt;) the &lt;a href="http://quotation-marks.blogspot.com/"&gt;&amp;#8220;Blog&amp;#8221; of &amp;#8220;unnecessary&amp;#8221;
 quotation marks&lt;/a&gt;. Hopefully this will help me make my argument that
 it&amp;#8217;s often better to avoid the gratuitous quotation marks as if they
-were &amp;#8220;air quotes&amp;#8221;.&amp;nbsp;Enjoy.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 30 Oct 2007 11:37:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-10-30:blog/2007/10/hilarious-no-sarcasm-intended.html</guid></item><item><title>Two skills for the future</title><link>tommeagher.github.io/blog/2007/10/two-skills-for-the-future.html</link><description>&lt;p&gt;There&amp;#8217;s been a lot of hand-wringing in recent years about the bleak
+were &amp;#8220;air quotes&amp;#8221;.&amp;nbsp;Enjoy.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 30 Oct 2007 11:37:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-10-30:blog/2007/10/hilarious-no-sarcasm-intended.html</guid></item><item><title>Two skills for the future</title><link>http://tommeagher.github.io/blog/2007/10/two-skills-for-the-future.html</link><description>&lt;p&gt;There&amp;#8217;s been a lot of hand-wringing in recent years about the bleak
 future of journalism in general and of newspapers in&amp;nbsp;particular.&lt;/p&gt;
 &lt;p&gt;There are two skills that I believe are now indispensable in the field.
 Any journalist who won&amp;#8217;t begin to embrace them is simply not ready for
@@ -3036,7 +3036,7 @@ is, allow me to&amp;nbsp;translate.&lt;/p&gt;
 &lt;p&gt;&lt;span class="dquo"&gt;&amp;#8220;&lt;/span&gt;How is it?&amp;#8221; (meaning my progress in learning Spanish)&lt;br /&gt;
  &amp;#8220;Not fast, but&amp;nbsp;&lt;span class="caps"&gt;OK&lt;/span&gt;.&amp;#8221;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;You&amp;#8217;ve got to learn to walk before you can run. Good&amp;nbsp;luck.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 19 Oct 2007 16:52:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-10-19:blog/2007/10/two-skills-for-the-future.html</guid></item><item><title>“My dog is better than yours”</title><link>tommeagher.github.io/blog/2007/10/my-dog-is-better-than-yours.html</link><description>&lt;p&gt;From the shameless self-promotion department, here&amp;#8217;s a couple of nice
+&lt;p&gt;You&amp;#8217;ve got to learn to walk before you can run. Good&amp;nbsp;luck.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 19 Oct 2007 16:52:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-10-19:blog/2007/10/two-skills-for-the-future.html</guid></item><item><title>“My dog is better than yours”</title><link>http://tommeagher.github.io/blog/2007/10/my-dog-is-better-than-yours.html</link><description>&lt;p&gt;From the shameless self-promotion department, here&amp;#8217;s a couple of nice
 stories we ran this weekend that I had a hand&amp;nbsp;in.&lt;/p&gt;
 &lt;p&gt;For the past couple of months, I&amp;#8217;ve been editing full-time, so I haven&amp;#8217;t
 had a lot of bylines of late. But my &lt;a href="http://www.northjersey.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk2MCZmZ2JlbDdmN3ZxZWVFRXl5NzIwMTM1MSZ5cmlyeTdmNzE3Zjd2cWVlRUV5eTI="&gt;latest project&lt;/a&gt;, which I put
@@ -3075,7 +3075,7 @@ of dogfighting and related blood sports like&amp;nbsp;cockfighting.&lt;/p&gt;
 to get into the dogfighting landscape that is surprisingly popular here
 and to explain why thousands of people are attracted to it. I think she
 did a great job. I hope you&amp;nbsp;agree.&lt;/p&gt;
-&lt;p&gt;Let me know what you think of these projects. Any reactions? Criticisms?&amp;nbsp;Advice?&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 01 Oct 2007 11:27:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-10-01:blog/2007/10/my-dog-is-better-than-yours.html</guid></item><item><title>A browser for data?</title><link>tommeagher.github.io/blog/2007/09/a-browser-for-data.html</link><description>&lt;p&gt;A friend just alerted me to &lt;a href="http://www.kirix.com/"&gt;Kirix Strata&lt;/a&gt;, a Web browser that will
+&lt;p&gt;Let me know what you think of these projects. Any reactions? Criticisms?&amp;nbsp;Advice?&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 01 Oct 2007 11:27:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-10-01:blog/2007/10/my-dog-is-better-than-yours.html</guid></item><item><title>A browser for data?</title><link>http://tommeagher.github.io/blog/2007/09/a-browser-for-data.html</link><description>&lt;p&gt;A friend just alerted me to &lt;a href="http://www.kirix.com/"&gt;Kirix Strata&lt;/a&gt;, a Web browser that will
 let you work with raw data as you see it on your favorite Web pages. You
 can easily manipulate html tables or create mash-ups with &lt;span class="caps"&gt;RSS&lt;/span&gt; feeds.
 This is an intriguing idea. I wonder if, like &lt;a href="http://blog.swivel.com/"&gt;Swivel&lt;/a&gt; (another
@@ -3092,7 +3092,7 @@ but I must have missed that post the first time&amp;nbsp;around.)&lt;/p&gt;
     these&amp;nbsp;applications?&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I&amp;#8217;d love to hear any feedback you have. Post a comment and let me know
-what you&amp;nbsp;think.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 26 Sep 2007 07:37:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-26:blog/2007/09/a-browser-for-data.html</guid></item><item><title>Insert bad Cyndi Lauper pun here</title><link>tommeagher.github.io/blog/2007/09/insert-bad-cyndi-lauper-pun-here.html</link><description>&lt;p&gt;Although you probably wouldn&amp;#8217;t know it from the miniscule bit of
+what you&amp;nbsp;think.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 26 Sep 2007 07:37:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-26:blog/2007/09/a-browser-for-data.html</guid></item><item><title>Insert bad Cyndi Lauper pun here</title><link>http://tommeagher.github.io/blog/2007/09/insert-bad-cyndi-lauper-pun-here.html</link><description>&lt;p&gt;Although you probably wouldn&amp;#8217;t know it from the miniscule bit of
 coverage it has received thus far, the Women&amp;#8217;s World Cup (of soccer) is
 currently underway in China. Since I don&amp;#8217;t have cable at home, and the
 games have been broadcast in the middle of the night, I&amp;#8217;m sad to say I
@@ -3125,7 +3125,7 @@ obstacle for women in corporate America. The winners of the Women&amp;#8217;s
 World Cup will receive a mere fraction of the prize money that the
 Italian men took home last&amp;nbsp;summer.&lt;/p&gt;
 &lt;p&gt;As entertaining as the games in China may be, we&amp;#8217;ve still got a long way
-to&amp;nbsp;go.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 25 Sep 2007 19:43:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-25:blog/2007/09/insert-bad-cyndi-lauper-pun-here.html</guid></item><item><title>“Let’s get this thing rolling.”</title><link>tommeagher.github.io/blog/2007/09/lets-get-this-thing-rolling.html</link><description>&lt;p&gt;I once heard an editor compare working in New Jersey to hunting in a
+to&amp;nbsp;go.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 25 Sep 2007 19:43:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-25:blog/2007/09/insert-bad-cyndi-lauper-pun-here.html</guid></item><item><title>“Let’s get this thing rolling.”</title><link>http://tommeagher.github.io/blog/2007/09/lets-get-this-thing-rolling.html</link><description>&lt;p&gt;I once heard an editor compare working in New Jersey to hunting in a
 game preserve. Much like their cousins in &lt;a href="http://blogs.browardpalmbeach.com/pulp/"&gt;South Florida&lt;/a&gt;, Jersey
 politicians never cease to provide a wealth of good&amp;nbsp;stories.&lt;/p&gt;
 &lt;p&gt;A week or so ago, we got one of those stories when federal investigators
@@ -3162,11 +3162,11 @@ hands-on as I normally would. Thankfully, there will surely be more
 stories like this coming down the&amp;nbsp;road.&lt;/p&gt;
 &lt;p&gt;And three days later, while working a weekend shift as a humble
 reporter, I finally got my shot to write &lt;a href="http://www.northjersey.com/page.php?qstr=eXJpcnk3ZjcxN2Y3dnFlZUVFeXkyJmZnYmVsN2Y3dnFlZUVFeXk3MTkzNTM2"&gt;a piece of the story&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;So it&amp;nbsp;goes.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 19 Sep 2007 13:11:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-19:blog/2007/09/lets-get-this-thing-rolling.html</guid></item><item><title>Unwelcome visitors</title><link>tommeagher.github.io/blog/2007/09/unwelcome-visitors.html</link><description>&lt;p&gt;In this era of &lt;a href="http://en.wikipedia.org/wiki/Spam_(electronic)"&gt;spam&lt;/a&gt; and &lt;a href="http://en.wikipedia.org/wiki/Astroturfing"&gt;astroturf&lt;/a&gt;, not all readers of the blog
+&lt;p&gt;So it&amp;nbsp;goes.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 19 Sep 2007 13:11:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-19:blog/2007/09/lets-get-this-thing-rolling.html</guid></item><item><title>Unwelcome visitors</title><link>http://tommeagher.github.io/blog/2007/09/unwelcome-visitors.html</link><description>&lt;p&gt;In this era of &lt;a href="http://en.wikipedia.org/wiki/Spam_(electronic)"&gt;spam&lt;/a&gt; and &lt;a href="http://en.wikipedia.org/wiki/Astroturfing"&gt;astroturf&lt;/a&gt;, not all readers of the blog
 are the same. I had a new user visit and register recently, but
 &lt;a href="http://cubelodyte.com/2007/09/17/nice-try/"&gt;apparently I&amp;#8217;m not the only site he visited&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I guess I should be flattered, but no readers are sometimes better than
-a flood of&amp;nbsp;spam.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 18 Sep 2007 14:04:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-18:blog/2007/09/unwelcome-visitors.html</guid></item><item><title>Hey, Jack</title><link>tommeagher.github.io/blog/2007/09/hey-jack.html</link><description>&lt;p&gt;For weeks, I&amp;#8217;ve been planning this post, my paean to Jack Kerouac and
+a flood of&amp;nbsp;spam.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 18 Sep 2007 14:04:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-18:blog/2007/09/unwelcome-visitors.html</guid></item><item><title>Hey, Jack</title><link>http://tommeagher.github.io/blog/2007/09/hey-jack.html</link><description>&lt;p&gt;For weeks, I&amp;#8217;ve been planning this post, my paean to Jack Kerouac and
 the influence he had (along with the likes of Ernest Hemingway, Jack
 London, George Orwell and &lt;span class="caps"&gt;J.D.&lt;/span&gt; Salinger) on my early life as a&amp;nbsp;writer.&lt;/p&gt;
 &lt;p&gt;But the hustle and bustle of daily journalism has once again thwarted my
@@ -3201,10 +3201,10 @@ building and the small plaque next to the&amp;nbsp;door:&lt;/p&gt;
 &lt;p&gt;So now, let me &lt;a href="http://papercuts.blogs.nytimes.com/2007/08/21/he-was-a-very-lonely-man/"&gt;join&lt;/a&gt; &lt;a href="http://www.zwire.com/site/news.cfm?newsid=18655982&amp;amp;BRD=2731&amp;amp;PAG=461&amp;amp;dept_id=576260&amp;amp;rfi=6"&gt;the chorus&lt;/a&gt; of writers who have come &lt;a href="http://www.boingboing.net/2007/08/31/joyce-johnson-jack-k.html"&gt;to
 praise Kerouac&lt;/a&gt; and to bury him. Maybe it&amp;#8217;s time I picked up &amp;#8220;&lt;a href="http://en.wikipedia.org/wiki/Vanity_of_Duluoz"&gt;Vanity
 of Duluoz&lt;/a&gt;&amp;#8221; or &amp;#8220;&lt;a href="http://en.wikipedia.org/wiki/Maggie_Cassidy"&gt;Maggie Cassidy&lt;/a&gt;&amp;#8221; one more time. It&amp;#8217;s funny, the
-places these circuitous trails lead&amp;nbsp;you.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 05 Sep 2007 13:20:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-05:blog/2007/09/hey-jack.html</guid></item><item><title>Miss Teen S.C.*hearts* maps</title><link>tommeagher.github.io/blog/2007/08/miss-teen-south-carolina-hearts-maps.html</link><description>&lt;p&gt;[youtube]http://www.youtube.com/watch?v=lj3iNxZ8Dww[/youtube]&lt;/p&gt;
+places these circuitous trails lead&amp;nbsp;you.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 05 Sep 2007 13:20:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-09-05:blog/2007/09/hey-jack.html</guid></item><item><title>Miss Teen S.C.*hearts* maps</title><link>http://tommeagher.github.io/blog/2007/08/miss-teen-south-carolina-hearts-maps.html</link><description>&lt;p&gt;[youtube]http://www.youtube.com/watch?v=lj3iNxZ8Dww[/youtube]&lt;/p&gt;
 &lt;p&gt;Here&amp;#8217;s one good reason why &amp;#8220;&lt;span class="caps"&gt;U.S.&lt;/span&gt; Americans&amp;#8221; need more &lt;a href="http://www.tommeagher.com/2007/08/22/maps-maps-maps/"&gt;good maps&lt;/a&gt; in
 their newspapers and&amp;nbsp;online.&lt;/p&gt;
-&lt;p&gt;(Courtesy of &lt;a href="http://www.boingboing.net/2007/08/miss-south-carolina-.html"&gt;Boing Boing&lt;/a&gt;)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 28 Aug 2007 12:55:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-28:blog/2007/08/miss-teen-south-carolina-hearts-maps.html</guid></item><item><title>Maps, maps, maps</title><link>tommeagher.github.io/blog/2007/08/maps-maps-maps.html</link><description>&lt;p&gt;It seems the Internet has done as much for amateur cartographers as it
+&lt;p&gt;(Courtesy of &lt;a href="http://www.boingboing.net/2007/08/miss-south-carolina-.html"&gt;Boing Boing&lt;/a&gt;)&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 28 Aug 2007 12:55:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-28:blog/2007/08/miss-teen-south-carolina-hearts-maps.html</guid></item><item><title>Maps, maps, maps</title><link>http://tommeagher.github.io/blog/2007/08/maps-maps-maps.html</link><description>&lt;p&gt;It seems the Internet has done as much for amateur cartographers as it
 has for budding&amp;nbsp;pornographers.&lt;/p&gt;
 &lt;p&gt;As &lt;a href="http://www.tommeagher.com/2007/08/22/the-truth-in-numbers/"&gt;I promised earlier&lt;/a&gt;, I have a few resources to share on mapping,
 particularly of the Google Maps variety. I had actually been planning on
@@ -3252,7 +3252,7 @@ here&amp;#8217;s a few good starter&amp;nbsp;pages:&lt;/p&gt;
     lot of points (more than a few hundred), it can take some time, but
     it&amp;#8217;s free and it&amp;#8217;s easy, like all good maps (and graphics in
     general) should&amp;nbsp;be.&lt;/li&gt;
-&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 22 Aug 2007 18:10:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-22:blog/2007/08/maps-maps-maps.html</guid></item><item><title>The truth in numbers</title><link>tommeagher.github.io/blog/2007/08/the-truth-in-numbers.html</link><description>&lt;p&gt;As the newspaper industry struggles to ensure its relevance in the
+&lt;/ul&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 22 Aug 2007 18:10:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-22:blog/2007/08/maps-maps-maps.html</guid></item><item><title>The truth in numbers</title><link>http://tommeagher.github.io/blog/2007/08/the-truth-in-numbers.html</link><description>&lt;p&gt;As the newspaper industry struggles to ensure its relevance in the
 changing media landscape, there are a few pioneers out there who have
 the right idea. One of them, &lt;a href="http://www.holovaty.com"&gt;Adrian Holovaty&lt;/a&gt;, created the innovative
 &lt;a href="http://chicagocrime.org/"&gt;ChicagoCrime.org&lt;/a&gt; by databasing freely-available crime reports from
@@ -3271,7 +3271,7 @@ want and what they can actually use. I think Matt sums it up&amp;nbsp;nicely:&lt
 local, local, local and to some degree they’re right. But there’s also
 something to be said for just putting a good idea on the web that
 people might find&amp;nbsp;useful.&amp;#8221;&lt;/p&gt;
-&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 22 Aug 2007 16:45:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-22:blog/2007/08/the-truth-in-numbers.html</guid></item><item><title>Web to heds: “No more”</title><link>tommeagher.github.io/blog/2007/08/web-to-heds-no-more.html</link><description>&lt;p&gt;In our rush to embrace the Web, it&amp;#8217;s interesting to keep in mind some of
+&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 22 Aug 2007 16:45:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-22:blog/2007/08/the-truth-in-numbers.html</guid></item><item><title>Web to heds: “No more”</title><link>http://tommeagher.github.io/blog/2007/08/web-to-heds-no-more.html</link><description>&lt;p&gt;In our rush to embrace the Web, it&amp;#8217;s interesting to keep in mind some of
 the limitations the medium could impose on&amp;nbsp;journalists.&lt;/p&gt;
 &lt;p&gt;CNet News.com posted a story looking at how some of &lt;a href="http://news.com.com/Newspaper+headlines+lost+in+Web+translation/2100-1025_3-6155618.html" title="Google to user: Drop Dead"&gt;history&amp;#8217;s best
 headlines&lt;/a&gt; might not hack it in the digital age. Here&amp;#8217;s what they
@@ -3282,7 +3282,7 @@ President Ford&amp;#8217;s denial of a federal bailout&amp;nbsp;(1975)&lt;/p&gt;
 &lt;p&gt;[Internet search expert]: Would suggest &amp;#8220;President Ford&amp;#8221; over &amp;#8220;Ford&amp;#8221;,
 and &amp;#8220;New York City&amp;#8221; over&amp;nbsp;&amp;#8220;City&amp;#8221;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;em&gt;Thanks to Business Week&amp;#8217;s &lt;a href="http://www.businessweek.com/the_thread/blogspotting/archives/2007/08/will_google_dra.html?campaign_id=rss_blog_blogspottinghttp://www.businessweek.com/the_thread/blogspotting/"&gt;Blogspotting&lt;/a&gt; for pointing this&amp;nbsp;out.&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 22 Aug 2007 12:56:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-22:blog/2007/08/web-to-heds-no-more.html</guid></item><item><title>A little reading while I clear my throat</title><link>tommeagher.github.io/blog/2007/08/a-little-reading-while-i-clear-my-throat.html</link><description>&lt;p&gt;One of the benefits of having no readers is that no one will be
+&lt;p&gt;&lt;em&gt;Thanks to Business Week&amp;#8217;s &lt;a href="http://www.businessweek.com/the_thread/blogspotting/archives/2007/08/will_google_dra.html?campaign_id=rss_blog_blogspottinghttp://www.businessweek.com/the_thread/blogspotting/"&gt;Blogspotting&lt;/a&gt; for pointing this&amp;nbsp;out.&lt;/em&gt;&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 22 Aug 2007 12:56:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-22:blog/2007/08/web-to-heds-no-more.html</guid></item><item><title>A little reading while I clear my throat</title><link>http://tommeagher.github.io/blog/2007/08/a-little-reading-while-i-clear-my-throat.html</link><description>&lt;p&gt;One of the benefits of having no readers is that no one will be
 impatiently demanding that I have all my ducks in a row while I continue
 to get the new site up and running. I&amp;#8217;d say I&amp;#8217;m about 80 percent of the
 way there. I have a few design features I need to tweak (anybody notice
@@ -3296,12 +3296,12 @@ years. That part of the site is intended as a repository of tips,
 techniques and guidelines for tasks many reporters are faced with. From
 how to cover a municipal beat, to how to cover a weather story, to some
 basic statistical analysis. A few of the beginner Best Practices are up
-right now. Over the next few weeks, I&amp;#8217;ll put up the rest of my archives.&amp;nbsp;Enjoy.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 21 Aug 2007 17:33:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-21:blog/2007/08/a-little-reading-while-i-clear-my-throat.html</guid></item><item><title>Archives</title><link>tommeagher.github.io/blog/2007/08/archives.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 20 Aug 2007 14:22:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-20:blog/2007/08/archives.html</guid></item><item><title>Growing pains</title><link>tommeagher.github.io/blog/2007/08/growing-pains.html</link><description>&lt;p&gt;Please bear with me over the next few days. I&amp;#8217;m in the process of moving
+right now. Over the next few weeks, I&amp;#8217;ll put up the rest of my archives.&amp;nbsp;Enjoy.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Tue, 21 Aug 2007 17:33:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-21:blog/2007/08/a-little-reading-while-i-clear-my-throat.html</guid></item><item><title>Archives</title><link>http://tommeagher.github.io/blog/2007/08/archives.html</link><description></description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Mon, 20 Aug 2007 14:22:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-20:blog/2007/08/archives.html</guid></item><item><title>Growing pains</title><link>http://tommeagher.github.io/blog/2007/08/growing-pains.html</link><description>&lt;p&gt;Please bear with me over the next few days. I&amp;#8217;m in the process of moving
 this site from a free host to my own server. Thus, there will be a lot
 of kinks to work out. But if you stop by, please leave a comment and say
 hello, and let me know what kind of tips or posts you&amp;#8217;d find&amp;nbsp;helpful.&lt;/p&gt;
 &lt;p&gt;Thanks,&lt;/p&gt;
-&lt;p&gt;Tom&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 15 Aug 2007 16:33:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-15:blog/2007/08/growing-pains.html</guid></item><item><title>The data behind a disaster</title><link>tommeagher.github.io/blog/2007/08/the-data-behind-a-disaster.html</link><description>&lt;p&gt;Amidst the shock and tragedy of last week&amp;#8217;s bridge collapse in
+&lt;p&gt;Tom&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Wed, 15 Aug 2007 16:33:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-15:blog/2007/08/growing-pains.html</guid></item><item><title>The data behind a disaster</title><link>http://tommeagher.github.io/blog/2007/08/the-data-behind-a-disaster.html</link><description>&lt;p&gt;Amidst the shock and tragedy of last week&amp;#8217;s bridge collapse in
 Minneapolis, journalists around the country embraced the power of
 computer-assisted reporting to enhance their reporting. One such
 reporter compiled a cool list of &lt;a href="http://journalistopia.com/2007/08/03/roundup-of-minneapolis-bridge-collapse-coverage-graphics/"&gt;many of the great stories they
@@ -3318,7 +3318,7 @@ into a map for our&amp;nbsp;readers.&lt;/p&gt;
 &lt;p&gt;Without &lt;span class="caps"&gt;IRE&lt;/span&gt;&amp;#8217;s help, though, we likely would not have had a story at all.
 If you&amp;#8217;re not already familiar with their tipsheets and databases and
 help, then acquaint yourself quickly. So the next time news of public
-safety breaks, you&amp;#8217;ll be&amp;nbsp;ready.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 09 Aug 2007 01:42:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-09:blog/2007/08/the-data-behind-a-disaster.html</guid></item><item><title>Idealistic muckraker</title><link>tommeagher.github.io/blog/2007/08/idealistic-muckraker.html</link><description>&lt;p&gt;From my old Web site&amp;#8217;s&amp;nbsp;bio:&lt;/p&gt;
+safety breaks, you&amp;#8217;ll be&amp;nbsp;ready.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 09 Aug 2007 01:42:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-09:blog/2007/08/the-data-behind-a-disaster.html</guid></item><item><title>Idealistic muckraker</title><link>http://tommeagher.github.io/blog/2007/08/idealistic-muckraker.html</link><description>&lt;p&gt;From my old Web site&amp;#8217;s&amp;nbsp;bio:&lt;/p&gt;
 &lt;p&gt;There are times when I wonder what I&amp;#8217;ve gotten into by becoming a&amp;nbsp;journalist.&lt;/p&gt;
 &lt;p&gt;When I spent 11 hours a day working as a laborer &lt;a href="http://www.northjersey.com/temporarylife"&gt;for a story&lt;/a&gt; only to
 go to my temporary home with its shabby little bed in a rooming house, I
@@ -3362,7 +3362,7 @@ seminar&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;#8217;m very glad you stumbled upon this Web site. I hope you&amp;#8217;re looking for
 the kind of stories that I like to write, stories about people who never
 get recognized. Now you&amp;#8217;ll know to watch for my byline. You&amp;#8217;ll be
-reading a lot more of my&amp;nbsp;work.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 09 Aug 2007 01:25:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-09:blog/2007/08/idealistic-muckraker.html</guid></item><item><title>Brooklyn reporter eaten by vampires!</title><link>tommeagher.github.io/blog/2007/08/brooklyn-reporter-eaten-by-vampires.html</link><description>&lt;p&gt;I can think of no better way to launch this new experiment in blogging
+reading a lot more of my&amp;nbsp;work.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 09 Aug 2007 01:25:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-09:blog/2007/08/idealistic-muckraker.html</guid></item><item><title>Brooklyn reporter eaten by vampires!</title><link>http://tommeagher.github.io/blog/2007/08/brooklyn-reporter-eaten-by-vampires.html</link><description>&lt;p&gt;I can think of no better way to launch this new experiment in blogging
 than to sadly note the passing of an icon of American journalism. As it
 was &lt;a href="http://www.nytimes.com/2007/07/30/business/media/30weekly.html"&gt;reported earlier this week&lt;/a&gt;, the venerable &lt;a href="http://www.weeklyworldnews.com/" title="Weekly World News"&gt;Weekly World News&lt;/a&gt;
 will soon go dark. This fine purveyor of insane fictional columnists and
@@ -3378,4 +3378,4 @@ the &amp;#8220;Cool Resources&amp;#8221; and &amp;#8220;&lt;a href="http://www.g
 &lt;p&gt;In my spare moments, I hope to be able to comment on one of my other
 passions: &lt;a href="http://www.mlsnet.com/" title="Major League Soccer"&gt;soccer&lt;/a&gt;. Let&amp;#8217;s see where this all leads us. Thanks for
 tuning&amp;nbsp;in.&lt;/p&gt;
-&lt;p&gt;Cheers.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 02 Aug 2007 23:52:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-02:blog/2007/08/brooklyn-reporter-eaten-by-vampires.html</guid></item><item><title>test</title><link>tommeagher.github.io/blog/1999/10/test.html</link><description>&lt;iframe width="100%" height="700" src="http://seeclickfix.com/issues/iframe?h=700&amp;amp;lat=40.0583238&amp;amp;lng=-74.4056612&amp;amp;num_results=100&amp;amp;search=hurricane%2Cstorm%2Csandy%2Cflood%2Cflooding%2Cpower%2Celectricity&amp;amp;token=ffd6d82949d24167624e5e98799553bb1f4e1af6&amp;amp;w=1000&amp;amp;zoom=8" scrolling="no" marginheight="0" frameborder="0" marginwidth="0" allowtransparency="true" hspace="0" vspace="0"&gt;&lt;/iframe&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 29 Oct 1999 12:17:00 -0400</pubDate><guid>tag:tommeagher.github.io,1999-10-29:blog/1999/10/test.html</guid></item></channel></rss>
+&lt;p&gt;Cheers.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 02 Aug 2007 23:52:00 -0400</pubDate><guid>tag:tommeagher.github.io,2007-08-02:blog/2007/08/brooklyn-reporter-eaten-by-vampires.html</guid></item><item><title>test</title><link>http://tommeagher.github.io/blog/1999/10/test.html</link><description>&lt;iframe width="100%" height="700" src="http://seeclickfix.com/issues/iframe?h=700&amp;amp;lat=40.0583238&amp;amp;lng=-74.4056612&amp;amp;num_results=100&amp;amp;search=hurricane%2Cstorm%2Csandy%2Cflood%2Cflooding%2Cpower%2Celectricity&amp;amp;token=ffd6d82949d24167624e5e98799553bb1f4e1af6&amp;amp;w=1000&amp;amp;zoom=8" scrolling="no" marginheight="0" frameborder="0" marginwidth="0" allowtransparency="true" hspace="0" vspace="0"&gt;&lt;/iframe&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 29 Oct 1999 12:17:00 -0400</pubDate><guid>tag:tommeagher.github.io,1999-10-29:blog/1999/10/test.html</guid></item></channel></rss>
