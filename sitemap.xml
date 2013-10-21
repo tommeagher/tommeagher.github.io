@@ -5,14 +5,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://tommeagher.github.io/index.html</loc>
-<lastmod>2013-10-20T20:57:17-00:00</lastmod>
+<lastmod>2013-10-20T21:01:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://tommeagher.github.io/lists.html</loc>
-<lastmod>2013-10-20T06:32:00-00:00</lastmod>
+<lastmod>2013-10-21T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
