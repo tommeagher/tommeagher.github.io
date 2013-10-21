@@ -4,427 +4,427 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://tommeagher.github.io/index.html</loc>
-<lastmod>2013-10-20T21:09:28-00:00</lastmod>
+<loc>http://www.tommeagher.com/index.html</loc>
+<lastmod>2013-10-20T21:23:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/lists.html</loc>
+<loc>http://www.tommeagher.com/lists.html</loc>
 <lastmod>2013-10-21T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2013/10/hack-jersey-chases-the-8-hour-app.html</loc>
+<loc>http://www.tommeagher.com/blog/2013/10/hack-jersey-chases-the-8-hour-app.html</loc>
 <lastmod>2013-10-19T08:27:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2013/04/diving-in-to-data-with-spj.html</loc>
+<loc>http://www.tommeagher.com/blog/2013/04/diving-in-to-data-with-spj.html</loc>
 <lastmod>2013-04-12T17:26:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2013/04/organizing-my-first-hackathon.html</loc>
+<loc>http://www.tommeagher.com/blog/2013/04/organizing-my-first-hackathon.html</loc>
 <lastmod>2013-04-04T11:08:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2013/03/learning-to-commit-to-version-control.html</loc>
+<loc>http://www.tommeagher.com/blog/2013/03/learning-to-commit-to-version-control.html</loc>
 <lastmod>2013-03-01T00:33:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2013/02/more-tips-for-using-openrefine.html</loc>
+<loc>http://www.tommeagher.com/blog/2013/02/more-tips-for-using-openrefine.html</loc>
 <lastmod>2013-02-26T23:37:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/12/talking-data-in-the-nutmeg-state.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/12/talking-data-in-the-nutmeg-state.html</loc>
 <lastmod>2012-12-11T13:08:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/08/pdfs.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/08/pdfs.html</loc>
 <lastmod>2012-08-05T06:50:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/07/crowd-estimates.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/07/crowd-estimates.html</loc>
 <lastmod>2012-07-28T12:01:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/07/nerds-need-credit-too.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/07/nerds-need-credit-too.html</loc>
 <lastmod>2012-07-21T22:57:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/06/waking-from-the-election-results-nightmare.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/06/waking-from-the-election-results-nightmare.html</loc>
 <lastmod>2012-06-30T23:14:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/06/transparency.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/06/transparency.html</loc>
 <lastmod>2012-06-24T11:55:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html</loc>
 <lastmod>2012-06-15T00:06:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2012/06/checklist.html</loc>
+<loc>http://www.tommeagher.com/blog/2012/06/checklist.html</loc>
 <lastmod>2012-06-03T10:30:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2011/06/help-wanted.html</loc>
+<loc>http://www.tommeagher.com/blog/2011/06/help-wanted.html</loc>
 <lastmod>2011-06-24T15:12:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2011/05/cops-and-social-media.html</loc>
+<loc>http://www.tommeagher.com/blog/2011/05/cops-and-social-media.html</loc>
 <lastmod>2011-05-20T11:50:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/10/hipaa.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/10/hipaa.html</loc>
 <lastmod>2010-10-07T15:12:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/10/story.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/10/story.html</loc>
 <lastmod>2010-10-06T14:49:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/10/docs.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/10/docs.html</loc>
 <lastmod>2010-10-05T13:56:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/09/budgets.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/09/budgets.html</loc>
 <lastmod>2010-09-30T14:24:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/09/accuracy.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/09/accuracy.html</loc>
 <lastmod>2010-09-23T14:05:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/05/whos-minding-the-goal.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/05/whos-minding-the-goal.html</loc>
 <lastmod>2010-05-13T08:27:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/05/no-cheering-in-the-press-box.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/05/no-cheering-in-the-press-box.html</loc>
 <lastmod>2010-05-12T08:03:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/05/diving-headfirst-into-the-social-media-deep-end.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/05/diving-headfirst-into-the-social-media-deep-end.html</loc>
 <lastmod>2010-05-05T08:02:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html</loc>
+<loc>http://www.tommeagher.com/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html</loc>
 <lastmod>2010-01-23T09:36:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2009/04/moving-on.html</loc>
+<loc>http://www.tommeagher.com/blog/2009/04/moving-on.html</loc>
 <lastmod>2009-04-21T11:36:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2009/04/csci6844-homework-5.html</loc>
+<loc>http://www.tommeagher.com/blog/2009/04/csci6844-homework-5.html</loc>
 <lastmod>2009-04-20T22:25:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/12/all-eyes-on-india.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/12/all-eyes-on-india.html</loc>
 <lastmod>2008-12-05T13:15:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/11/getting-social-networked.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/11/getting-social-networked.html</loc>
 <lastmod>2008-11-30T16:50:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/09/back-to-school.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/09/back-to-school.html</loc>
 <lastmod>2008-09-10T14:50:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/09/dataclass.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/09/dataclass.html</loc>
 <lastmod>2008-09-03T18:04:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/05/he-didnt-know-anything.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/05/he-didnt-know-anything.html</loc>
 <lastmod>2008-05-20T18:22:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/04/the-kick-off.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/04/the-kick-off.html</loc>
 <lastmod>2008-04-09T06:32:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/04/free-barry-bearak.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/04/free-barry-bearak.html</loc>
 <lastmod>2008-04-04T19:13:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/04/note-to-self.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/04/note-to-self.html</loc>
 <lastmod>2008-04-02T12:01:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/03/learning-to-be-a-journalist.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/03/learning-to-be-a-journalist.html</loc>
 <lastmod>2008-03-07T18:38:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/02/maslow-mourned.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/02/maslow-mourned.html</loc>
 <lastmod>2008-02-21T19:25:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2008/01/must-crawl-before-walking.html</loc>
+<loc>http://www.tommeagher.com/blog/2008/01/must-crawl-before-walking.html</loc>
 <lastmod>2008-01-24T18:29:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/12/theres-always-room-for-another-two-cents.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/12/theres-always-room-for-another-two-cents.html</loc>
 <lastmod>2007-12-28T20:43:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/12/uhhh-sorry.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/12/uhhh-sorry.html</loc>
 <lastmod>2007-12-17T16:18:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/11/editing-saints-of-the-storm.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/11/editing-saints-of-the-storm.html</loc>
 <lastmod>2007-11-21T15:48:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/10/hilarious-no-sarcasm-intended.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/10/hilarious-no-sarcasm-intended.html</loc>
 <lastmod>2007-10-30T11:37:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/10/two-skills-for-the-future.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/10/two-skills-for-the-future.html</loc>
 <lastmod>2007-10-19T16:52:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/10/my-dog-is-better-than-yours.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/10/my-dog-is-better-than-yours.html</loc>
 <lastmod>2007-10-01T11:27:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/09/a-browser-for-data.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/09/a-browser-for-data.html</loc>
 <lastmod>2007-09-26T07:37:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/09/insert-bad-cyndi-lauper-pun-here.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/09/insert-bad-cyndi-lauper-pun-here.html</loc>
 <lastmod>2007-09-25T19:43:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/09/lets-get-this-thing-rolling.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/09/lets-get-this-thing-rolling.html</loc>
 <lastmod>2007-09-19T13:11:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/09/unwelcome-visitors.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/09/unwelcome-visitors.html</loc>
 <lastmod>2007-09-18T14:04:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/09/hey-jack.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/09/hey-jack.html</loc>
 <lastmod>2007-09-05T13:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/miss-teen-south-carolina-hearts-maps.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/miss-teen-south-carolina-hearts-maps.html</loc>
 <lastmod>2007-08-28T12:55:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/maps-maps-maps.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/maps-maps-maps.html</loc>
 <lastmod>2007-08-22T18:10:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/the-truth-in-numbers.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/the-truth-in-numbers.html</loc>
 <lastmod>2007-08-22T16:45:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/web-to-heds-no-more.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/web-to-heds-no-more.html</loc>
 <lastmod>2007-08-22T12:56:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/a-little-reading-while-i-clear-my-throat.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/a-little-reading-while-i-clear-my-throat.html</loc>
 <lastmod>2007-08-21T17:33:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/archives.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/archives.html</loc>
 <lastmod>2007-08-20T14:22:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/growing-pains.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/growing-pains.html</loc>
 <lastmod>2007-08-15T16:33:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/the-data-behind-a-disaster.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/the-data-behind-a-disaster.html</loc>
 <lastmod>2007-08-09T01:42:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/idealistic-muckraker.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/idealistic-muckraker.html</loc>
 <lastmod>2007-08-09T01:25:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/2007/08/brooklyn-reporter-eaten-by-vampires.html</loc>
+<loc>http://www.tommeagher.com/blog/2007/08/brooklyn-reporter-eaten-by-vampires.html</loc>
 <lastmod>2007-08-02T23:52:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://tommeagher.github.io/blog/1999/10/test.html</loc>
+<loc>http://www.tommeagher.com/blog/1999/10/test.html</loc>
 <lastmod>1999-10-29T12:17:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
