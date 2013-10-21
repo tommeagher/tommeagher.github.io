@@ -1,0 +1,18 @@
+/* Uncomment if you have an image you want as your background */
+/* body{background:#fff url('../img/background.png') top left no-repeat;} */ 
+
+/* -----------------------------------------
+   Foundation Icon Fonts from Zurb
+----------------------------------------- */
+[class*="general foundicon-"]:before {
+  font-family: "GeneralFoundicons";
+}
+
+[class*="social foundicon-"]:before {
+  font-family: "SocialFoundicons";
+}
+
+/* End Foundation Icon Fonts */
+
+ul.inline li { display:inline; }
+ul.inline li a span {display:none;}
