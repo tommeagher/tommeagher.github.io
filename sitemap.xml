@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.tommeagher.com/index.html</loc>
-<lastmod>2013-10-20T21:25:03-00:00</lastmod>
+<lastmod>2013-10-21T17:07:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -13,6 +13,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.tommeagher.com/lists.html</loc>
 <lastmod>2013-10-21T00:00:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.tommeagher.com/newsrooms.html</loc>
+<lastmod>2013-10-21T18:32:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
