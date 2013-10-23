@@ -131,8 +131,8 @@ ul.articles-in-tag li {
 
 /* Article */
 
-article p a, article ol a {
-    color:black;
+article p a, article ol a, article ul a{
+    color:blue;
     border-bottom:thin dashed darkgray;
 }
 

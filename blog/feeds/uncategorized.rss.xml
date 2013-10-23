@@ -44,22 +44,22 @@
 
 &lt;p&gt;Although we didn&amp;#8217;t get as far as we would have liked, it was a good experience for us at Hack Jersey. We got 15 developers thinking about campaign finance and starting to learn the ins, the outs and the&amp;nbsp;possibilities.&lt;/p&gt;
 
-&lt;p&gt;We couldn&amp;#8217;t grow an orchard in a day, but we planted a lot of good seeds. And that&amp;#8217;s a pretty good place to&amp;nbsp;start.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 19 Oct 2013 08:27:00 -0400</pubDate><guid>tag:www.tommeagher.com,2013-10-19:blog/2013/10/hack-jersey-chases-the-8-hour-app.html</guid></item><item><title>Diving in to Data with SPJ</title><link>http://www.tommeagher.com/blog/2013/04/diving-in-to-data-with-spj.html</link><description>&lt;p&gt;Today, I had a chance to speak at the Society of Professional
+&lt;p&gt;We couldn&amp;#8217;t grow an orchard in a day, but we planted a lot of good seeds. And that&amp;#8217;s a pretty good place to&amp;nbsp;start.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Sat, 19 Oct 2013 08:27:00 -0400</pubDate><guid>tag:www.tommeagher.com,2013-10-19:blog/2013/10/hack-jersey-chases-the-8-hour-app.html</guid></item><item><title>Diving Into Data with SPJ</title><link>http://www.tommeagher.com/blog/2013/04/diving-into-data-with-spj.html</link><description>&lt;p&gt;Today, I had a chance to speak at the Society of Professional
 Journalists&amp;#8217; &lt;a href="http://www.spjr1c.org/"&gt;Region 1 Spring conference&lt;/a&gt;, held at Rutgers University
-in New Brunswick. &lt;a href="http://www.twitter.com/debgalant" title="@debgalant on Twitter"&gt;Debbie Galant&lt;/a&gt; of the &lt;a href="http://njnewscommons.org/" title="NJ News Commons"&gt;&lt;span class="caps"&gt;NJ&lt;/span&gt; News Commons&lt;/a&gt; and I
-talked about &lt;a href="http://www.hackjersey.com/2013/03/11/rounding-up-our-hack-weekend/"&gt;the projects that came out of&lt;/a&gt; our &lt;a href="http://www.hackjersey.com/" title="Hack Jersey"&gt;Hack Jersey&lt;/a&gt;
+in New Brunswick. &lt;a href="http://www.twitter.com/debgalant"&gt;Debbie Galant&lt;/a&gt; of the &lt;a href="http://njnewscommons.org/"&gt;&lt;span class="caps"&gt;NJ&lt;/span&gt; News Commons&lt;/a&gt; and I
+talked about &lt;a href="http://www.hackjersey.com/2013/03/11/rounding-up-our-hack-weekend/"&gt;the projects that came out of&lt;/a&gt; our &lt;a href="http://www.hackjersey.com/"&gt;Hack Jersey&lt;/a&gt;
 hackathon. Then I laid out a map for building data skills in the&amp;nbsp;newsroom.&lt;/p&gt;
 &lt;p&gt;For those who attended (and those who didn&amp;#8217;t), here are links to some of
 the tools we discussed and tutorials to start to learn&amp;nbsp;them.&lt;/p&gt;
-&lt;p&gt;The slides: &lt;a href="http://bit.ly/R1C13DATA" title="Dive into Data slides"&gt;bit.ly/&lt;span class="caps"&gt;R1C13DATA&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The slides: &lt;a href="http://bit.ly/R1C13DATA"&gt;bit.ly/&lt;span class="caps"&gt;R1C13DATA&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;We started by sharing examples of data-driven news applications on the&amp;nbsp;web:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://www.crashdatanj.com" title="Crash Data NJ"&gt;CrashDataNJ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.becauseofus.net" title="Because of Us"&gt;BecauseofUs.net&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://pancaketheorem.com/stuff/hackjersey/" title="Cost of Radiology in NJ"&gt;Cost of Radiology in New&amp;nbsp;Jersey&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://usatoday30.usatoday.com/news/nation/smelting-lead-contamination#explore/" title="Ghost Factories"&gt;&lt;span class="caps"&gt;USA&lt;/span&gt; Today&amp;#8217;s &amp;#8220;Ghost Factories&amp;#8221;&amp;nbsp;project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://project.wnyc.org/news-maps/schools-waitlists/" title="WNYC's schools waitlist map"&gt;&lt;span class="caps"&gt;WNYC&lt;/span&gt; schools waitlist&amp;nbsp;map&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ProPublica&amp;#8217;s &lt;a href="http://projects.propublica.org/docdollars/" title="Dollars for Docs"&gt;Dollars for&amp;nbsp;Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.crashdatanj.com"&gt;CrashDataNJ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.becauseofus.net"&gt;BecauseofUs.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pancaketheorem.com/stuff/hackjersey/"&gt;Cost of Radiology in New&amp;nbsp;Jersey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://usatoday30.usatoday.com/news/nation/smelting-lead-contamination#explore/"&gt;&lt;span class="caps"&gt;USA&lt;/span&gt; Today&amp;#8217;s &amp;#8220;Ghost Factories&amp;#8221;&amp;nbsp;project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://project.wnyc.org/news-maps/schools-waitlists/"&gt;&lt;span class="caps"&gt;WNYC&lt;/span&gt; schools waitlist&amp;nbsp;map&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ProPublica&amp;#8217;s &lt;a href="http://projects.propublica.org/docdollars/"&gt;Dollars for&amp;nbsp;Docs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;So how do you do this kind of work (or get to Carnegie Hall)? Practice.
 Practice.&amp;nbsp;Practice.&lt;/p&gt;
@@ -70,80 +70,69 @@ in 1993&lt;/a&gt;. And now, to&amp;nbsp;today&amp;#8230;&lt;/p&gt;
 &lt;h2 id="the-disciplines-of-data-reporting"&gt;The disciplines of data&amp;nbsp;reporting&lt;/h2&gt;
 &lt;h3 id="1-collection"&gt;1.&amp;nbsp;Collection&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;[&lt;span class="caps"&gt;PANDA&lt;/span&gt;
-    Project][]&lt;span style="font-size: 1.17em; font-weight: normal;"&gt;- a
-    newsroom warehouse for data, with &lt;/span&gt;[search
-    alerts][]&lt;span style="font-size: 1.17em; font-weight: normal;"&gt; when
-    new data&amp;nbsp;arrives&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;[&lt;span class="caps"&gt;FOIA&lt;/span&gt;
-    Machine][]&lt;span style="font-size: 1.17em; font-weight: normal;"&gt; - a
-    new site to help track &lt;span class="caps"&gt;FOIA&lt;/span&gt;&amp;nbsp;requests&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.documentcloud.org/home" title="DocumentCloud"&gt;DocumentCloud&lt;/a&gt;&lt;span style="font-size: 1.17em; font-weight: normal;"&gt;&lt;ul&gt;
-&lt;li&gt;a free tool for journalists to store, annotate, publish and embed
-&lt;span class="caps"&gt;PDF&lt;/span&gt;&amp;nbsp;documents&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;span style="font-size: 1.17em; font-weight: normal;"&gt;For scraping
-    web pages - &lt;/span&gt;&lt;a href="http://www.reporterslab.org/scraping-roundup/"&gt;http://www.reporterslab.org/scraping-roundup/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.cometdocs.com/" title="Comet Docs"&gt;Comet Docs&lt;/a&gt;&lt;span style="font-size: 1.17em; font-weight: normal;"&gt;&lt;ul&gt;
-&lt;li&gt;a free service to scrape&amp;nbsp;PDFs&lt;/span&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://source.mozillaopennews.org/en-US/articles/introducing-tabula/" title="Tabula"&gt;Tabula&lt;/a&gt;&lt;span style="font-size: 1.17em; font-weight: normal;"&gt; - a
-    new project to help make &lt;span class="caps"&gt;PDF&lt;/span&gt; scraping&amp;nbsp;easier&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pandaproject.net/"&gt;&lt;span class="caps"&gt;PANDA&lt;/span&gt; Project&lt;/a&gt; - a newsroom warehouse for data, with &lt;a href="http://pandaproject.net/docs/search-subscriptions.html"&gt;search alerts&lt;/a&gt; when new data&amp;nbsp;arrives&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.foiamachine.org/"&gt;&lt;span class="caps"&gt;FOIA&lt;/span&gt;
+    Machine&lt;/a&gt; - a new site to help track &lt;span class="caps"&gt;FOIA&lt;/span&gt;&amp;nbsp;requests&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.documentcloud.org/home"&gt;DocumentCloud&lt;/a&gt; - a free tool for journalists to store, annotate, publish and embed
+    &lt;span class="caps"&gt;PDF&lt;/span&gt;&amp;nbsp;documents&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.reporterslab.org/scraping-roundup/"&gt;For scraping web&amp;nbsp;pages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cometdocs.com/"&gt;Comet Docs&lt;/a&gt; - a free service to scrape&amp;nbsp;PDFs&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://source.mozillaopennews.org/en-US/articles/introducing-tabula/"&gt;Tabula&lt;/a&gt; - a
+    new project to help make &lt;span class="caps"&gt;PDF&lt;/span&gt; scraping&amp;nbsp;easier&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="2-cleaning"&gt;2.&amp;nbsp;Cleaning&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;My go-to cleaning tool for relatively small data sets (less than,
-    say, 10,000 records) is &lt;a href="http://www.openrefine.org/" title="Open Refine tips"&gt;Open Refine&lt;/a&gt;. Can&amp;#8217;t say enough good
-    things about it. In this blog post are [links to my Open Refine
-    class][] and several others to get you&amp;nbsp;started.&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.twincities.com/thedatamine"&gt;MaryJo Webster&lt;/a&gt;&amp;#8216;s &lt;a href="http://dl.dropboxusercontent.com/u/26567839/My%20Favorite%20%28Excel%29%20Things.pdf" title="Excel Magic"&gt;&amp;#8220;Excel Magic&amp;#8221; class&lt;/a&gt; for cleaning data in&amp;nbsp;Excel.&lt;/li&gt;
+    say, 10,000 records) is &lt;a href="http://www.openrefine.org/"&gt;Open Refine&lt;/a&gt;. Can&amp;#8217;t say enough good
+    things about it. In this blog post are &lt;a href="http://www.tommeagher.com/blog/2013/02/more-tips-for-using-openrefine.html"&gt;links to my Open Refine
+    class&lt;/a&gt; and several others to get you&amp;nbsp;started.&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.twincities.com/thedatamine"&gt;MaryJo Webster&lt;/a&gt;&amp;#8216;s &lt;a href="http://dl.dropboxusercontent.com/u/26567839/My%20Favorite%20%28Excel%29%20Things.pdf"&gt;&amp;#8220;Excel Magic&amp;#8221; class&lt;/a&gt; for cleaning data in&amp;nbsp;Excel.&lt;/li&gt;
 &lt;li&gt;For the truly adventurous, check out Dan Nguyen&amp;#8217;s great new ebook
-    &lt;a href="http://regex.bastardsbook.com/" title="Bastards Book of RegEx"&gt;introducing regular expressions&lt;/a&gt;.&lt;/li&gt;
+    &lt;a href="http://regex.bastardsbook.com/"&gt;introducing regular expressions&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="3-analysis"&gt;3.&amp;nbsp;Analysis&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Excel is going to be your favorite tool ever. There are a number of
-    good tutorials on basic Excel and more advanced Pivot Tables [listed
-    here][], as well as a link to a great, free online course
+    good tutorials on basic Excel and more advanced Pivot Tables &lt;a href="http://www.hackjersey.com/2013/01/17/roadmap-to-data-skills/"&gt;listed
+    here&lt;/a&gt;, as well as a link to a great, free online course
     introducing&amp;nbsp;databases.&lt;/li&gt;
 &lt;li&gt;And don&amp;#8217;t forget the formula for percent change =&amp;nbsp;(new-old)/old&lt;/li&gt;
 &lt;li&gt;Only for a few more days, you can get 50-percent off of all Excel
-    e-books from O&amp;#8217;Reilly here: &lt;a href="http://bit.ly/R1C13EXCEL" title="50 percent off Excel ebooks at O'Reilly"&gt;bit.ly/&lt;span class="caps"&gt;R1C13EXCEL&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+    e-books from O&amp;#8217;Reilly here: &lt;a href="http://bit.ly/R1C13EXCEL"&gt;bit.ly/&lt;span class="caps"&gt;R1C13EXCEL&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id="wzxhzdk04-visualizationwzxhzdk1"&gt;&lt;span style="font-size: 1.17em;"&gt;4.&amp;nbsp;Visualization&lt;/span&gt;&lt;/h3&gt;
+&lt;h3 id="4-visualization"&gt;4.&amp;nbsp;Visualization&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Sharon Machlis of ComputerWorld&amp;#8217;s great list of [30 free dataviz&amp;nbsp;tools][].&lt;/li&gt;
+&lt;li&gt;Sharon Machlis of ComputerWorld&amp;#8217;s great list of &lt;a href="http://www.computerworld.com/s/article/9214755/Chart_and_image_gallery_30_free_tools_for_data_visualization_and_analysis"&gt;30 free dataviz
+    tools&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;A favorite for making embeddable maps and charts, Google&amp;#8217;s
     experimental &lt;a href="https://www.google.com/fusiontables/"&gt;Fusion Tables&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://blog.tommeagher.com/2012/12/talking-data-in-the-nutmeg-state/"&gt;Fusion Tables tutorial&lt;/a&gt; (on the second half of the&amp;nbsp;post).&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tommeagher.com/blog/2012/12/talking-data-in-the-nutmeg-state.html"&gt;Fusion Tables tutorial&lt;/a&gt; (on the second half of the&amp;nbsp;post).&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://support.google.com/fusiontables/answer/184641/?hl=en&amp;amp;"&gt;More Fusion Tables tutorials&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.computerworld.com/s/article/9215504/22_free_tools_for_data_visualization_and_analysis?pageNumber=4#tableau"&gt;Tableau Public&lt;/a&gt;, another free data viz&amp;nbsp;program.&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://datawrapper.de/" title="DataWrapper"&gt;DataWrapper&lt;/a&gt;, more free charts, powered by your Google&amp;nbsp;Spreadsheet&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://datawrapper.de/"&gt;DataWrapper&lt;/a&gt;, more free charts, powered by your Google&amp;nbsp;Spreadsheet&lt;/li&gt;
 &lt;li&gt;Google&amp;#8217;s new, free &lt;a href="http://google-latlong.blogspot.com/2013/03/create-collaborate-and-share-advanced.html"&gt;Map Engine&amp;nbsp;Lite&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Make searchable, sortable tables and embed them with &lt;a href="http://multimedia.journalism.berkeley.edu/tools/freedive/" title="FreeDive"&gt;FreeDive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Make searchable, sortable tables and embed them with &lt;a href="http://multimedia.journalism.berkeley.edu/tools/freedive/"&gt;FreeDive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="5-interaction"&gt;5.&amp;nbsp;Interaction&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;The &lt;a href="https://github.com/hackjersey"&gt;open source code from Hack Jersey&lt;/a&gt; on Github. (Remember the
     caveat that this is hackathon code and in most cases probably not
     ready for prime&amp;nbsp;time)&lt;/li&gt;
-&lt;li&gt;The wonderful &lt;a href="http://source.mozillaopennews.org/en-US/" title="Source"&gt;Source blog&lt;/a&gt; from Knight-Mozilla &lt;a href="http://www.mozillaopennews.org/" title="OpenNews"&gt;Open&amp;nbsp;News&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;The wonderful &lt;a href="http://source.mozillaopennews.org/en-US/"&gt;Source blog&lt;/a&gt; from Knight-Mozilla &lt;a href="http://www.mozillaopennews.org/"&gt;Open&amp;nbsp;News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="support-groups"&gt;Support&amp;nbsp;groups&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href="http://ire.org/" title="IRE"&gt;Investigative Reporters &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Editors&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.ire.org/resource-center/listservs/subscribe-nicar-l/" title="NICAR-L"&gt;&lt;span class="caps"&gt;IRE&lt;/span&gt;&amp;#8217;s &lt;span class="caps"&gt;NICAR&lt;/span&gt;-L email list&lt;/a&gt;for computer-assisted reporting and data
+&lt;li&gt;&lt;a href="http://ire.org/"&gt;Investigative Reporters &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Editors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ire.org/resource-center/listservs/subscribe-nicar-l/"&gt;&lt;span class="caps"&gt;IRE&lt;/span&gt;&amp;#8217;s &lt;span class="caps"&gt;NICAR&lt;/span&gt;-L email list&lt;/a&gt; for computer-assisted reporting and data
     journalism&amp;nbsp;discussion&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://hackshackers.com/" title="Hacks/Hackers"&gt;Hacks/Hackers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://journalists.org/" title="ONA"&gt;Online News&amp;nbsp;Association&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;And for more advanced topics, &lt;a href="http://www.chryswu.com/blog/2013/02/27/tools-slides-links-tutorials-nicar13/" title="Chrys Wu's Ricochet"&gt;Chrys Wu&amp;#8217;s blog posts&lt;/a&gt; rounding up
+&lt;li&gt;&lt;a href="http://hackshackers.com/"&gt;Hacks/Hackers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://journalists.org/"&gt;Online News&amp;nbsp;Association&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;And for more advanced topics, &lt;a href="http://blog.chryswu.com/2013/02/27/tools-slides-links-tutorials-nicar13/"&gt;Chrys Wu&amp;#8217;s blog posts&lt;/a&gt; rounding up
     all the tools, classes and workshops at &lt;span class="caps"&gt;IRE&lt;/span&gt;&amp;#8217;s &lt;span class="caps"&gt;CAR&lt;/span&gt; conference are&amp;nbsp;must-reads.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;What are your favorite data techniques, tools and tutorials? Please
-share them with me. I&amp;#8217;d love to check them&amp;nbsp;out.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 12 Apr 2013 17:26:00 -0400</pubDate><guid>tag:www.tommeagher.com,2013-04-12:blog/2013/04/diving-in-to-data-with-spj.html</guid></item><item><title>What I learned organizing a hackathon</title><link>http://www.tommeagher.com/blog/2013/04/organizing-my-first-hackathon.html</link><description>&lt;p&gt;It all started in September, at the &lt;a href="http://ona12.journalists.org/"&gt;Online News Association&lt;/a&gt;&amp;#8216;s
-conference in San Francisco. I crashed the [#wjchat][] party and ended
+share them with me. I&amp;#8217;d love to check them&amp;nbsp;out.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Fri, 12 Apr 2013 17:26:00 -0400</pubDate><guid>tag:www.tommeagher.com,2013-04-12:blog/2013/04/diving-into-data-with-spj.html</guid></item><item><title>What I learned organizing a hackathon</title><link>http://www.tommeagher.com/blog/2013/04/organizing-my-first-hackathon.html</link><description>&lt;p&gt;It all started in September, at the &lt;a href="http://ona12.journalists.org/"&gt;Online News Association&lt;/a&gt;&amp;#8216;s
+conference in San Francisco. I crashed the &lt;a href="http://wjchat.webjournalist.org/"&gt;#wjchat&lt;/a&gt; party and ended
 up meeting the infamous &lt;a href="http://www.debragalant.com/"&gt;Debbie Galant&lt;/a&gt;, the force of nature behind
 &lt;a href="http://www.baristanet.com/"&gt;Baristanet&lt;/a&gt; who was just starting the &lt;a href="http://njnewscommons.org/"&gt;&lt;span class="caps"&gt;NJ&lt;/span&gt; News Commons&lt;/a&gt;. We talked
 about journalism in Jersey. I floated the idea of a news hackathon, and
@@ -166,7 +155,7 @@ data in new ways. Among those&amp;nbsp;lessons:&lt;/p&gt;
 &lt;li&gt;It was a serious miscalculation on my part to try to start at 9 a.m.
     on a Saturday. Neither journalists nor developers are early risers.
     As we waited for folks to drift in, we had to start late and rush
-    some of &lt;a href="http://www.hackjersey.com/2013/03/11/rounding-up-our-hack-weekend/"&gt;the presentations&lt;/a&gt;.&lt;/li&gt;
+    some of &lt;a href="http://www.hackjersey.com/2013/03/rounding-up-our-hack-weekend/"&gt;the presentations&lt;/a&gt;.&lt;/li&gt;
 &lt;li&gt;One of the biggest challenges was trying to manage people&amp;#8217;s
     expectations of what they&amp;#8217;d get out of giving up a weekend to stare
     at a computer screen on a college campus. Some people wanted to
@@ -206,7 +195,7 @@ data in new ways. Among those&amp;nbsp;lessons:&lt;/p&gt;
     of the &lt;span class="caps"&gt;CAR&lt;/span&gt; veterans had a hard time translating their expertise in
     analyzing data to the idea of developing a reusable&amp;nbsp;application.&lt;/li&gt;
 &lt;li&gt;To my surprise, many of the programmers were not really familiar
-    &lt;a href="http://blog.tommeagher.com/2013/03/learning-to-commit-to-version-control/"&gt;with version control or git&lt;/a&gt;. Only Sunday morning, as the
+    &lt;a href="/blog/2013/03/learning-to-commit-to-version-control.html"&gt;with version control or git&lt;/a&gt;. Only Sunday morning, as the
     deadline loomed, did some teams ask about how to use Github, leaving
     me to run around and teach people. Some teams also didn&amp;#8217;t have
     server space to host a demo site, something I assumed was a given. A
@@ -221,7 +210,7 @@ data in new ways. Among those&amp;nbsp;lessons:&lt;/p&gt;
     Suggestions were made for a pre-networking event a week before or a
     forum or email list for people to talk ahead of&amp;nbsp;time.&lt;/li&gt;
 &lt;li&gt;I realized far too late that &lt;a href="http://www.hackjersey.com/"&gt;our website&lt;/a&gt; was good for displaying
-    details on the event planning, but &lt;a href="http://www.hackjersey.com/blog-2/"&gt;the blog&lt;/a&gt; was completely
+    details on the event planning, but &lt;a href="http://old.hackjersey.com/blog-2/"&gt;the blog&lt;/a&gt; was completely
     unusable. The commenting system didn&amp;#8217;t work at all. Next time, we
     need to test that earlier or set up a functional blog at&amp;nbsp;blog.hackjersey.com.&lt;/li&gt;
 &lt;li&gt;Of &lt;a href="https://github.com/hackjersey"&gt;our 11 projects&lt;/a&gt;, three teams didn&amp;#8217;t finish enough to present
