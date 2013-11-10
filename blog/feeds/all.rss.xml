@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tom Meagher</title><link>http://www.tommeagher.com/</link><description></description><atom:link href="http://www.tommeagher.com/blog/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 19 Oct 2013 08:27:00 -0400</lastBuildDate><item><title>Hack Jersey chases the 8 hour app</title><link>http://www.tommeagher.com/blog/2013/10/hack-jersey-chases-the-8-hour-app.html</link><description>&lt;!--Tags: Hack Jersey, campaign finance, hackathons, news apps, open data, Sunlight Foundation, civic hacking--&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tom Meagher</title><link>http://www.tommeagher.com/</link><description></description><atom:link href="http://www.tommeagher.com/blog/feeds/all.rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 19 Oct 2013 08:27:00 -0400</lastBuildDate><item><title>Chasing the 8-hour app</title><link>http://www.tommeagher.com/blog/2013/10/hack-jersey-chases-the-8-hour-app.html</link><description>&lt;!--Tags: Hack Jersey, campaign finance, hackathons, news apps, open data, Sunlight Foundation, civic hacking--&gt;
 
 &lt;p&gt;&lt;em&gt;Cross-posted from the &lt;a href="http://sunlightfoundation.com/blog/2013/10/11/opengov-voices-chasing-the-8-hour-app/" target="_blank"&gt;Sunlight Foundation&amp;#8217;s OpenGov Voices blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
@@ -243,7 +243,7 @@ leads us to think about what&amp;#8217;s next. We have a few&amp;nbsp;ideas:&lt;
 would be most useful to you as a journalist? If you&amp;#8217;re a developer, what
 kind of projects would you be interested in working on with us? I&amp;#8217;d love
 to hear your ideas. Please share them in the comments, or email us at&amp;nbsp;hackinfo(at)hackjersey(dot)com.&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Tom</dc:creator><pubDate>Thu, 04 Apr 2013 11:08:00 -0400</pubDate><guid>tag:www.tommeagher.com,2013-04-04:blog/2013/04/organizing-my-first-hackathon.html</guid></item><item><title>Learning to commit to version control</title><link>http://www.tommeagher.com/blog/2013/03/learning-to-commit-to-version-control.html</link><description>&lt;p&gt;At this week&amp;#8217;s &lt;a href="http://www.ire.org/conferences/nicar-2013/"&gt;computer-assisted reporting conference&lt;/a&gt; in Louisville,
-&lt;span class="caps"&gt;IRE&lt;/span&gt; has me doing double-duty. In addition to my class on &lt;a href="bit.ly/car13refine"&gt;OpenRefine&lt;/a&gt;,
+&lt;span class="caps"&gt;IRE&lt;/span&gt; has me doing double-duty. In addition to my class on &lt;a href="http://bit.ly/car13refine"&gt;OpenRefine&lt;/a&gt;,
 I&amp;#8217;m also teaching a hands-on session on &lt;a href="http://git-scm.com/"&gt;git&lt;/a&gt; and &lt;a href="http://www.github.com"&gt;Github&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This assumes you&amp;#8217;ve already &lt;a href="https://help.github.com/articles/set-up-git"&gt;downloaded git&lt;/a&gt; and created an account on
 Github. I use the command line, although if you master that, the &lt;span class="caps"&gt;GUI&lt;/span&gt;
@@ -264,9 +264,8 @@ are here: &lt;span&gt;&lt;a href="http://bit.ly/car13gitslides"&gt;http://bit.l
 &lt;li&gt;not so great with images, audio,&amp;nbsp;video&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id="what-does-git-do"&gt;What does git&amp;nbsp;do?&lt;/h2&gt;
-&lt;p&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;In a broad
-oversimplification, it uses &lt;a href="http://en.wikipedia.org/wiki/Diff"&gt;diff&lt;/a&gt; to compare every addition and
-subtraction in your code and shows you how your files&amp;nbsp;evolve.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;In a broad oversimplification, it uses &lt;a href="http://en.wikipedia.org/wiki/Diff"&gt;diff&lt;/a&gt; to compare every addition and
+subtraction in your code and shows you how your files&amp;nbsp;evolve.&lt;/p&gt;
 &lt;p&gt;It lets you take snapshots of your code and roll through them over time
 (or back in time) as needed to follow how a file changes from save to
 save to save. And you can have several authors of a file branch off
@@ -304,27 +303,20 @@ changes&amp;nbsp;are.&lt;/p&gt;
 &lt;p&gt;Now all of your updates are saved in your file respository, and if you
 want to, you can your snapshot is made. You could very easily stop here
 and just keep the audit trail on your machine. But the other half of
-this happy marriage is &lt;a href="http://www.github.com"&gt;Github&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;&lt;br /&gt;
-What is&amp;nbsp;Github?&lt;/span&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;&lt;img alt="" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo-transparent.png" title="Github" /&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;Github
-is a social coding site, and it&amp;#8217;s a hosted remote repository.&lt;br /&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;It
-lets you back up all of your code online (for free if it&amp;#8217;s open source),
-and it lets you see how other developers do it and learn from their&amp;nbsp;work. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;Here&amp;#8217;s
-how you do&amp;nbsp;it: &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+this happy marriage is&amp;nbsp;[Github][].&lt;/p&gt;
+&lt;h2 id="what-is-github"&gt;What is&amp;nbsp;Github?&lt;/h2&gt;
+&lt;p&gt;Github is a social coding site, and it&amp;#8217;s a hosted remote&amp;nbsp;repository.  &lt;/p&gt;
+&lt;p&gt;It lets you back up all of your code online (for free if it&amp;#8217;s open source),
+and it lets you see how other developers do it and learn from their&amp;nbsp;work.&lt;/p&gt;
+&lt;p&gt;Here&amp;#8217;s how you do&amp;nbsp;it:&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;push&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;u&lt;/span&gt; &lt;span class="n"&gt;origin&lt;/span&gt; &lt;span class="n"&gt;master&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;&lt;span id="internal-source-marker_0.4894332503899932"&gt;You
-&amp;#8220;push&amp;#8221; your code from the &amp;#8220;master&amp;#8221; branch that&amp;#8217;s on your machine to your
+&lt;p&gt;You &amp;#8220;push&amp;#8221; your code from the &amp;#8220;master&amp;#8221; branch that&amp;#8217;s on your machine to your
 remote repository on Github, which we call &amp;#8220;origin.&amp;#8221; (This may have
 already been configured for you if you cloned your repo from github.
-Otherwise, you would have&amp;nbsp;to &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+Otherwise, you would have&amp;nbsp;to&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;&lt;span class="n"&gt;git&lt;/span&gt; &lt;span class="n"&gt;remote&lt;/span&gt; &lt;span class="n"&gt;add&lt;/span&gt; &lt;span class="n"&gt;origin&lt;/span&gt; &lt;span class="n"&gt;git&lt;/span&gt;&lt;span class="err"&gt;@&lt;/span&gt;&lt;span class="n"&gt;github&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;com&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="n"&gt;tommeagher&lt;/span&gt;&lt;span class="o"&gt;/&lt;/span&gt;&lt;span class="n"&gt;myrepo&lt;/span&gt;&lt;span class="p"&gt;.&lt;/span&gt;&lt;span class="n"&gt;git&lt;/span&gt;
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -351,7 +343,7 @@ you want to &amp;#8220;merge&amp;#8221; the changes from the master branch on yo
 have a cheat sheet for the most common basic uses and commands and more
 in-depth&amp;nbsp;tutorials.&lt;/p&gt;
 &lt;p&gt;This really just deals with the basics. We haven&amp;#8217;t even had a chance to
-talk about &lt;a href="http://githowto.com/resolving_conflicts"&gt;merge problems&lt;/a&gt;, &lt;a href="http://gitref.org/branching/"&gt;branching&lt;/a&gt;, &lt;a href="https://help.github.com/articles/fork-a-repo"&gt;forking&lt;/a&gt;or &lt;a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html"&gt;cloning&lt;/a&gt;,
+talk about &lt;a href="http://githowto.com/resolving_conflicts"&gt;merge problems&lt;/a&gt;, &lt;a href="http://gitref.org/branching/"&gt;branching&lt;/a&gt;, &lt;a href="https://help.github.com/articles/fork-a-repo"&gt;forking&lt;/a&gt; or &lt;a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html"&gt;cloning&lt;/a&gt;,
 but you know how to Google, so you can figure it out. Fork my repo,
 improve the cheat sheet and send me a pull&amp;nbsp;request.&lt;/p&gt;
 &lt;p&gt;What&amp;#8217;s your favorite tip or cheat in git? Leave me a comment. I&amp;#8217;d love
@@ -363,7 +355,7 @@ amazingly powerful and free tool for cleaning and standardizing
 difficult data. If you ever find yourself frustrated with typos,
 misspellings or any number of other mistakes in the data you get from
 government agencies, OpenRefine will change your&amp;nbsp;life.&lt;/p&gt;
-&lt;p&gt;I won&amp;#8217;t repeat verbatim my Refine tutorial, &lt;a href="http://blog.tommeagher.com/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes/"&gt;which you can find here&lt;/a&gt;,
+&lt;p&gt;I won&amp;#8217;t repeat verbatim my Refine tutorial, &lt;a href="/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html"&gt;which you can find here&lt;/a&gt;,
 but I will share some of the resources again and point you to a few
 other&amp;nbsp;tutorials.&lt;/p&gt;
 &lt;p&gt;First, check out the updated &lt;a href="http://bit.ly/car13refineslides"&gt;slides for my class&lt;/a&gt;. If you&amp;#8217;d like to

@@ -67,7 +67,7 @@
             <div class="span8 offset2 article-content">
             
             <p>At this week&#8217;s <a href="http://www.ire.org/conferences/nicar-2013/">computer-assisted reporting conference</a> in Louisville,
-<span class="caps">IRE</span> has me doing double-duty. In addition to my class on <a href="bit.ly/car13refine">OpenRefine</a>,
+<span class="caps">IRE</span> has me doing double-duty. In addition to my class on <a href="http://bit.ly/car13refine">OpenRefine</a>,
 I&#8217;m also teaching a hands-on session on <a href="http://git-scm.com/">git</a> and <a href="http://www.github.com">Github</a>.</p>
 <p>This assumes you&#8217;ve already <a href="https://help.github.com/articles/set-up-git">downloaded git</a> and created an account on
 Github. I use the command line, although if you master that, the <span class="caps">GUI</span>
@@ -88,9 +88,8 @@ are here: <span><a href="http://bit.ly/car13gitslides">http://bit.ly/car13gitsl
 <li>not so great with images, audio,&nbsp;video</li>
 </ul>
 <h2 id="what-does-git-do">What does git&nbsp;do?</h2>
-<p><span id="internal-source-marker_0.4894332503899932">In a broad
-oversimplification, it uses <a href="http://en.wikipedia.org/wiki/Diff">diff</a> to compare every addition and
-subtraction in your code and shows you how your files&nbsp;evolve.</span></p>
+<p>In a broad oversimplification, it uses <a href="http://en.wikipedia.org/wiki/Diff">diff</a> to compare every addition and
+subtraction in your code and shows you how your files&nbsp;evolve.</p>
 <p>It lets you take snapshots of your code and roll through them over time
 (or back in time) as needed to follow how a file changes from save to
 save to save. And you can have several authors of a file branch off
@@ -128,27 +127,20 @@ changes&nbsp;are.</p>
 <p>Now all of your updates are saved in your file respository, and if you
 want to, you can your snapshot is made. You could very easily stop here
 and just keep the audit trail on your machine. But the other half of
-this happy marriage is <a href="http://www.github.com">Github</a>.</p>
-<p><span id="internal-source-marker_0.4894332503899932"><br />
-What is&nbsp;Github?</span></p>
-<hr />
-<p><span id="internal-source-marker_0.4894332503899932"><img alt="" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo-transparent.png" title="Github" /><span id="internal-source-marker_0.4894332503899932">Github
-is a social coding site, and it&#8217;s a hosted remote repository.<br />
-</span></span></p>
-<p><span id="internal-source-marker_0.4894332503899932"><span id="internal-source-marker_0.4894332503899932">It
-lets you back up all of your code online (for free if it&#8217;s open source),
-and it lets you see how other developers do it and learn from their&nbsp;work. </span></span></p>
-<p><span id="internal-source-marker_0.4894332503899932"><span id="internal-source-marker_0.4894332503899932">Here&#8217;s
-how you do&nbsp;it: </span></span></p>
+this happy marriage is&nbsp;[Github][].</p>
+<h2 id="what-is-github">What is&nbsp;Github?</h2>
+<p>Github is a social coding site, and it&#8217;s a hosted remote&nbsp;repository.  </p>
+<p>It lets you back up all of your code online (for free if it&#8217;s open source),
+and it lets you see how other developers do it and learn from their&nbsp;work.</p>
+<p>Here&#8217;s how you do&nbsp;it:</p>
 <div class="highlight"><pre><span class="n">git</span> <span class="n">push</span> <span class="o">-</span><span class="n">u</span> <span class="n">origin</span> <span class="n">master</span>
 </pre></div>
 
 
-<p><span id="internal-source-marker_0.4894332503899932"><span id="internal-source-marker_0.4894332503899932">You
-&#8220;push&#8221; your code from the &#8220;master&#8221; branch that&#8217;s on your machine to your
+<p>You &#8220;push&#8221; your code from the &#8220;master&#8221; branch that&#8217;s on your machine to your
 remote repository on Github, which we call &#8220;origin.&#8221; (This may have
 already been configured for you if you cloned your repo from github.
-Otherwise, you would have&nbsp;to </span></span></p>
+Otherwise, you would have&nbsp;to</p>
 <div class="highlight"><pre><span class="n">git</span> <span class="n">remote</span> <span class="n">add</span> <span class="n">origin</span> <span class="n">git</span><span class="err">@</span><span class="n">github</span><span class="p">.</span><span class="n">com</span><span class="o">:</span><span class="n">tommeagher</span><span class="o">/</span><span class="n">myrepo</span><span class="p">.</span><span class="n">git</span>
 </pre></div>
 
@@ -175,7 +167,7 @@ you want to &#8220;merge&#8221; the changes from the master branch on your remot
 have a cheat sheet for the most common basic uses and commands and more
 in-depth&nbsp;tutorials.</p>
 <p>This really just deals with the basics. We haven&#8217;t even had a chance to
-talk about <a href="http://githowto.com/resolving_conflicts">merge problems</a>, <a href="http://gitref.org/branching/">branching</a>, <a href="https://help.github.com/articles/fork-a-repo">forking</a>or <a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html">cloning</a>,
+talk about <a href="http://githowto.com/resolving_conflicts">merge problems</a>, <a href="http://gitref.org/branching/">branching</a>, <a href="https://help.github.com/articles/fork-a-repo">forking</a> or <a href="http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html">cloning</a>,
 but you know how to Google, so you can figure it out. Fork my repo,
 improve the cheat sheet and send me a pull&nbsp;request.</p>
 <p>What&#8217;s your favorite tip or cheat in git? Leave me a comment. I&#8217;d love
