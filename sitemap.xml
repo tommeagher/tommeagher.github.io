@@ -5,7 +5,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.tommeagher.com/index.html</loc>
-<lastmod>2013-11-10T06:25:28-00:00</lastmod>
+<lastmod>2013-11-10T19:55:16-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -419,13 +419,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.tommeagher.com/blog/2007/08/brooklyn-reporter-eaten-by-vampires.html</loc>
 <lastmod>2007-08-02T23:52:00-00:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.tommeagher.com/blog/1999/10/test.html</loc>
-<lastmod>1999-10-29T12:17:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
