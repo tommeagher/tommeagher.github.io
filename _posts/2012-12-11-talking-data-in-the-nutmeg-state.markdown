@@ -34,16 +34,16 @@ _The first class was an overview discussion of "data journalism" and the many an
 * * *
 
 
-Hands-on Excel & Fusion Tables class
+###Hands-on Excel & Fusion Tables class
 
-Data for Excel exercises
+####Data for Excel exercises
 
-  * [Schoolsdatav1.xlsx](http://blog.tommeagher.com/wp-content/uploads/2012/11/schoolsdatav1.xlsx)	
-  * [2010-2011hs-prresults.xlsx](http://blog.tommeagher.com/wp-content/uploads/2012/11/2010-2011hs-prresults.xlsx)
-  * [DemographicSnapshotEdited.xlsx](http://blog.tommeagher.com/wp-content/uploads/2012/11/demographicsnapshot2012public.xlsx)
-  * [Appointments.xls](http://blog.tommeagher.com/wp-content/uploads/2008/09/3appointmentsclass.xls)
-  * [Crony.xls](http://blog.tommeagher.com/wp-content/uploads/2008/09/8crony.xls)
-  * [citybud.xls](http://blog.tommeagher.com/wp-content/uploads/2008/09/10citybud.xls)
+  * [Schoolsdatav1.xlsx](/files/2012/11/schoolsdatav1.xlsx)	
+  * [2010-2011hs-prresults.xlsx](/files/2012/11/2010-2011hs-prresults.xlsx)
+  * [DemographicSnapshotEdited.xlsx](/files/2012/11/demographicsnapshot2012public.xlsx)
+  * [Appointments.xls](/files/2008/09/3appointmentsclass.xls)
+  * [Crony.xls](/files/2008/09/8crony.xls)
+  * [citybud.xls](/files/2008/09/10citybud.xls)
 
 Let’s do something fun and map the data for a story, using Google's experimental (and free) [Fusion Tables](http://tables.googlelabs.com/) program. We're going to download a spreadsheet in the CSV format of the violent crime rates for every town in Connecticut.
 
@@ -68,7 +68,7 @@ Click on the title to change the attribution and background info for the merged 
 
 Once you get the hang of this, you can but producing web-ready interactive maps in 20-30 minutes, a task that would have taken hours or days not all that long ago. This is an awesome tool.
 
-
+<p><iframe width="500" height="300" scrolling="no" frameborder="no" src="https://www.google.com/fusiontables/embedviz?viz=MAP&amp;q=select+col0%3E%3E1+from+1hJY9IspBzWrEx5csZTISYn_r4JKlbTBIlGZyyyI&amp;h=false&amp;lat=41.620240308269935&amp;lng=-72.47735563281253&amp;z=8&amp;t=1&amp;l=col0%3E%3E1&amp;y=2&amp;tmplt=2"></iframe></p>
 
 There are a few more things that you can tweak, if you like. You can go to Tools>Change info window layout, to tweak the information that's displayed when you click on a polygon.
 

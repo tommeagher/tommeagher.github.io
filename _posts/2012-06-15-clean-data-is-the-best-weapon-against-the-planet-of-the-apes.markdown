@@ -136,33 +136,9 @@ Because these monkeys are not geniuses.
 
 They are enemies of good data.
 
-
-
-
-![](http://pwwwblog.ibeatyou.com/blog/wp-content/uploads/2010/03/the-wizard-of-oz-monkey-2.jpg)
-
-
-
-
-
-
-
-
-
-
-
-
 These monkeys are mean, and they hate puppies and clean data (and water). To be fair, in my completely unscientific survey, the data has gotten better in the past decade, but it's not where it should be.
 
-
-
-
 Every data entry mistake possible will be made. Often you fill find new mistakes that you never, ever would have considered or imagined in your wildest dreams.
-
-
-
-
-
 
 These clerical errors will make your life miserable. You can either welcome our new monkey overlords or you can arm yourself.
 
