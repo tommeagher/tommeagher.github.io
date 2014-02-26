@@ -3,26 +3,26 @@
 <title type="text">Tom Meagher</title>
 <subtitle type="text">News nerd-ery</subtitle>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
-<link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2014-02-25T19:45:53-05:00</updated>
-<id>http://localhost:4000/</id>
+<link rel="self" type="application/atom+xml" href="http://www.tommeagher.com//feed.xml" />
+<link rel="alternate" type="text/html" href="http://www.tommeagher.com/" />
+<updated>2014-02-25T19:49:59-05:00</updated>
+<id>http://www.tommeagher.com//</id>
 <author>
   <name>Tom Meagher</name>
-  <uri>http://localhost:4000/</uri>
+  <uri>http://www.tommeagher.com//</uri>
   <email>hello+site@tommeagher.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[Chasing the 8-hour app]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2013/10/chasing-8-hour-app.html" />
-  <id>http://localhost:4000/blog/2013/10/chasing-8-hour-app</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2013/10/chasing-8-hour-app.html" />
+  <id>http://www.tommeagher.com//blog/2013/10/chasing-8-hour-app</id>
   <published>2013-10-19T00:00:00-04:00</published>
   <updated>2013-10-19T00:00:00-04:00</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Cross-posted from the &lt;a href=&quot;http://sunlightfoundation.com/blog/2013/10/11/opengov-voices-chasing-the-8-hour-app/&quot; target=&quot;_blank&quot;&gt;Sunlight Foundation's OpenGov Voices blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -70,19 +70,19 @@
 
 &lt;p&gt;We couldn't grow an orchard in a day, but we planted a lot of good seeds. And that's a pretty good place to start.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2013/10/chasing-8-hour-app.html&quot;&gt;Chasing the 8-hour app&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on October 19, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2013/10/chasing-8-hour-app.html&quot;&gt;Chasing the 8-hour app&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on October 19, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Diving in to Data with SPJ]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2013/04/diving-in-to-data-with-spj.html" />
-  <id>http://localhost:4000/blog/2013/04/diving-in-to-data-with-spj</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2013/04/diving-in-to-data-with-spj.html" />
+  <id>http://www.tommeagher.com//blog/2013/04/diving-in-to-data-with-spj</id>
   <published>2013-04-12T21:26:15Z</published>
   <updated>2013-04-12T21:26:15Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;Today, I had a chance to speak at the Society of Professional Journalists&amp;#8217; &lt;a href=&quot;http://www.spjr1c.org/&quot;&gt;Region 1 Spring conference&lt;/a&gt;, held at Rutgers University in New Brunswick. &lt;a href=&quot;http://www.twitter.com/debgalant&quot;&gt;Debbie Galant&lt;/a&gt; of the &lt;a href=&quot;http://njnewscommons.org/&quot;&gt;NJ News Commons&lt;/a&gt; and I talked about &lt;a href=&quot;http://www.hackjersey.com/2013/03/11/rounding-up-our-hack-weekend/&quot;&gt;the projects that came out of&lt;/a&gt; our &lt;a href=&quot;http://www.hackjersey.com/&quot;&gt;Hack Jersey&lt;/a&gt; hackathon. Then I laid out a map for building data skills in the newsroom.&lt;/p&gt;
@@ -167,19 +167,19 @@
 
 &lt;p&gt;What are your favorite data techniques, tools and tutorials? Please share them with me. I&amp;#8217;d love to check them out.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2013/04/diving-in-to-data-with-spj.html&quot;&gt;Diving in to Data with SPJ&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on April 12, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2013/04/diving-in-to-data-with-spj.html&quot;&gt;Diving in to Data with SPJ&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on April 12, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[What I learned organizing a hackathon]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2013/04/organizing-my-first-hackathon.html" />
-  <id>http://localhost:4000/blog/2013/04/organizing-my-first-hackathon</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2013/04/organizing-my-first-hackathon.html" />
+  <id>http://www.tommeagher.com//blog/2013/04/organizing-my-first-hackathon</id>
   <published>2013-04-04T15:08:14Z</published>
   <updated>2013-04-04T15:08:14Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;It all started in September, at the &lt;a href=&quot;http://ona12.journalists.org/&quot;&gt;Online News Association&lt;/a&gt;&amp;#8217;s conference in San Francisco. I crashed the &lt;a href=&quot;http://wjchat.webjournalist.org/&quot;&gt;#wjchat&lt;/a&gt; party and ended up meeting the infamous &lt;a href=&quot;http://www.debragalant.com/&quot;&gt;Debbie Galant&lt;/a&gt;, the force of nature behind &lt;a href=&quot;http://www.baristanet.com/&quot;&gt;Baristanet&lt;/a&gt; who was just starting the &lt;a href=&quot;http://njnewscommons.org/&quot;&gt;NJ News Commons&lt;/a&gt;. We talked about journalism in Jersey. I floated the idea of a news hackathon, and she was intrigued.&lt;/p&gt;
@@ -217,19 +217,19 @@
 
 &lt;p&gt;What do you think &lt;a href=&quot;http://www.hackjersey.com/&quot;&gt;Hack Jersey&lt;/a&gt; should work on next? What would be most useful to you as a journalist? If you&amp;#8217;re a developer, what kind of projects would you be interested in working on with us? I&amp;#8217;d love to hear your ideas. Please share them in the comments, or email us at hackinfo(at)hackjersey(dot)com.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2013/04/organizing-my-first-hackathon.html&quot;&gt;What I learned organizing a hackathon&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on April 04, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2013/04/organizing-my-first-hackathon.html&quot;&gt;What I learned organizing a hackathon&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on April 04, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Learning to commit to version control]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2013/03/learning-to-commit-to-version-control.html" />
-  <id>http://localhost:4000/blog/2013/03/learning-to-commit-to-version-control</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2013/03/learning-to-commit-to-version-control.html" />
+  <id>http://www.tommeagher.com//blog/2013/03/learning-to-commit-to-version-control</id>
   <published>2013-03-01T04:33:24Z</published>
   <updated>2013-03-01T04:33:24Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;At this week&amp;#8217;s &lt;a href=&quot;http://www.ire.org/conferences/nicar-2013/&quot;&gt;computer-assisted reporting conference&lt;/a&gt; in Louisville, IRE has me doing double-duty. In addition to my class on &lt;a href=&quot;bit.ly/car13refine&quot;&gt;OpenRefine&lt;/a&gt;, I&amp;#8217;m also teaching a hands-on session on &lt;a href=&quot;http://git-scm.com/&quot;&gt;git&lt;/a&gt; and &lt;a href=&quot;http://www.github.com&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
@@ -335,19 +335,19 @@
 
 &lt;p&gt;What&amp;#8217;s your favorite tip or cheat in git? Leave me a comment. I&amp;#8217;d love to read it.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2013/03/learning-to-commit-to-version-control.html&quot;&gt;Learning to commit to version control&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on March 01, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2013/03/learning-to-commit-to-version-control.html&quot;&gt;Learning to commit to version control&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on March 01, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[More tips for using OpenRefine]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2013/02/more-tips-for-using-openrefine.html" />
-  <id>http://localhost:4000/blog/2013/02/more-tips-for-using-openrefine</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2013/02/more-tips-for-using-openrefine.html" />
+  <id>http://www.tommeagher.com//blog/2013/02/more-tips-for-using-openrefine</id>
   <published>2013-02-27T03:37:54Z</published>
   <updated>2013-02-27T03:37:54Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;At IRE&amp;#8217;s &lt;a href=&quot;http://www.ire.org/conferences/nicar-2013/&quot;&gt;computer-assisted reporting conference&lt;/a&gt; this week in Louisville, I am once again teaching a course on using &lt;a href=&quot;http://openrefine.org/&quot;&gt;OpenRefine&lt;/a&gt; to clean data. Although the program has changed names over the last few months, its features are pretty much the same, and it&amp;#8217;s still an amazingly powerful and free tool for cleaning and standardizing difficult data. If you ever find yourself frustrated with typos, misspellings or any number of other mistakes in the data you get from government agencies, OpenRefine will change your life.&lt;/p&gt;
@@ -362,19 +362,19 @@
 
 &lt;p&gt;What&amp;#8217;s your favorite use for OpenRefine? Leave a comment here, drop me an email or mention me on Twitter. I&amp;#8217;d love to hear what you think.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2013/02/more-tips-for-using-openrefine.html&quot;&gt;More tips for using OpenRefine&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on February 27, 2013.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2013/02/more-tips-for-using-openrefine.html&quot;&gt;More tips for using OpenRefine&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on February 27, 2013.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Talking data in the Nutmeg State]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/12/talking-data-in-the-nutmeg-state.html" />
-  <id>http://localhost:4000/blog/2012/12/talking-data-in-the-nutmeg-state</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/12/talking-data-in-the-nutmeg-state.html" />
+  <id>http://www.tommeagher.com//blog/2012/12/talking-data-in-the-nutmeg-state</id>
   <published>2012-12-11T17:08:02Z</published>
   <updated>2012-12-11T17:08:02Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;Update: In mid-December, I led two days of training in data journalism techniques for my colleagues at the New Haven Register. On a Thursday evening, I took the Amtrak train home to New Jersey, feeling good about turning a group of journalists on to the power and fun of incorporating data into their reporting.&lt;/em&gt;&lt;/p&gt;
@@ -456,19 +456,19 @@ Select all towns and hit the submit button. Click &amp;#8220;All years&amp;#8221
   &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/fusiontablestalks/stories&quot;&gt;Examples of cool uses of Fusion Tables&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/12/talking-data-in-the-nutmeg-state.html&quot;&gt;Talking data in the Nutmeg State&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on December 11, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/12/talking-data-in-the-nutmeg-state.html&quot;&gt;Talking data in the Nutmeg State&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on December 11, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Not another blinking PDF!]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/08/pdfs.html" />
-  <id>http://localhost:4000/blog/2012/08/pdfs</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/08/pdfs.html" />
+  <id>http://www.tommeagher.com//blog/2012/08/pdfs</id>
   <published>2012-08-05T10:50:40Z</published>
   <updated>2012-08-05T10:50:40Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;There are few things more frustrating than trying to get a simple spreadsheet from a government agency and being told by a spokesman that the data (say, a table of property tax rates in municipalities that was clearly created in Excel) only exists in a locked PDF format.&lt;/p&gt;
@@ -491,19 +491,19 @@ Select all towns and hit the submit button. Click &amp;#8220;All years&amp;#8221
 
 &lt;p&gt;Good luck!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/08/pdfs.html&quot;&gt;Not another blinking PDF!&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on August 05, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/08/pdfs.html&quot;&gt;Not another blinking PDF!&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on August 05, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[How to get a head count at the parade]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/07/crowd-estimates.html" />
-  <id>http://localhost:4000/blog/2012/07/crowd-estimates</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/07/crowd-estimates.html" />
+  <id>http://www.tommeagher.com//blog/2012/07/crowd-estimates</id>
   <published>2012-07-28T16:01:01Z</published>
   <updated>2012-07-28T16:01:01Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;This is another in the series of &amp;#8220;Best Practices&amp;#8221; posts from my archives from the Herald News. This was also written by &lt;a href=&quot;http://www.tommeagher.com/2008/02/maslow-mourned/&quot;&gt;Jonathan Maslow&lt;/a&gt;, and offers some solid street reporting tips for counting the crowd at any large public event.&lt;/em&gt;&lt;/p&gt;
@@ -548,19 +548,19 @@ estimate of density: 3 sq. feet/per person
   &lt;li&gt;&lt;em&gt;Jonathan Maslow&lt;/em&gt;, Herald News, Nov. 2003&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/07/crowd-estimates.html&quot;&gt;How to get a head count at the parade&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on July 28, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/07/crowd-estimates.html&quot;&gt;How to get a head count at the parade&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on July 28, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Nerds need credit too]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/07/nerds-need-credit-too.html" />
-  <id>http://localhost:4000/blog/2012/07/nerds-need-credit-too</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/07/nerds-need-credit-too.html" />
+  <id>http://www.tommeagher.com//blog/2012/07/nerds-need-credit-too</id>
   <published>2012-07-22T02:57:56Z</published>
   <updated>2012-07-22T02:57:56Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;It seems odd in 2012 that in some newsrooms the data journalists don&amp;#8217;t get the same kind of credit for their work that other reporters receive. I suppose it&amp;#8217;s understandable, if NICAR-L is any indication, because to some of our colleagues data work is a mysterious and opaque contribution to a story and thus they don&amp;#8217;t quite know how or when to give us a byline.&lt;/p&gt;
@@ -577,19 +577,19 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;-Tom Meagher, Herald News, July 2006, via Rob Gebeloff at The Star-Ledger&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/07/nerds-need-credit-too.html&quot;&gt;Nerds need credit too&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on July 22, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/07/nerds-need-credit-too.html&quot;&gt;Nerds need credit too&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on July 22, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Waking from an election results nightmare]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/07/waking-from-the-election-results-nightmare.html" />
-  <id>http://localhost:4000/blog/2012/07/waking-from-the-election-results-nightmare</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/07/waking-from-the-election-results-nightmare.html" />
+  <id>http://www.tommeagher.com//blog/2012/07/waking-from-the-election-results-nightmare</id>
   <published>2012-07-01T03:14:53Z</published>
   <updated>2012-07-01T03:14:53Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;Sometimes, especially after a particularly trying election night, it starts to feel like we may be suffering from post-polls PTSD.&lt;/p&gt;
@@ -604,19 +604,19 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;What do you think? We&amp;#8217;d love to hear your experiences, both good and bad, from the election nights you&amp;#8217;ve covered. What&amp;#8217;s worked for you to get results online and what hasn&amp;#8217;t? Leave a comment here or &lt;a href=&quot;http://www.twitter.com/ultracasual&quot;&gt;tweet at me&lt;/a&gt;. And, most importantly, tell us what VOTER will need to do to make it useful for your organization.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/07/waking-from-the-election-results-nightmare.html&quot;&gt;Waking from an election results nightmare&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on July 01, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/07/waking-from-the-election-results-nightmare.html&quot;&gt;Waking from an election results nightmare&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on July 01, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Bolstering transparency in our reporting]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/06/transparency.html" />
-  <id>http://localhost:4000/blog/2012/06/transparency</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/06/transparency.html" />
+  <id>http://www.tommeagher.com//blog/2012/06/transparency</id>
   <published>2012-06-24T15:55:45Z</published>
   <updated>2012-06-24T15:55:45Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;Back at the Herald News, several of the editors and reporters wrote a regular series of columns for the newsroom called &amp;#8220;Best Practices.&amp;#8221; In digging through my archives, I&amp;#8217;ve found several that are timeless that I will gradually repost. This first one was written by &lt;a href=&quot;/blog/2008/02/maslow-mourned.html&quot;&gt;Jonathan Maslow&lt;/a&gt;, and his tips for being transparent in our reporting and writing continue to ring true.&lt;/p&gt;
@@ -637,19 +637,19 @@ estimate of density: 3 sq. feet/per person
   &lt;li&gt;&lt;em&gt;Jonathan Maslow&lt;/em&gt;, Herald News, June, 2004&lt;/li&gt;
 &lt;/ul&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/06/transparency.html&quot;&gt;Bolstering transparency in our reporting&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on June 24, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/06/transparency.html&quot;&gt;Bolstering transparency in our reporting&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on June 24, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Clean data is the best weapon against the monkey insurrection]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html" />
-  <id>http://localhost:4000/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html" />
+  <id>http://www.tommeagher.com//blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes</id>
   <published>2012-06-15T04:06:43Z</published>
   <updated>2012-06-15T04:06:43Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Updated:&lt;/strong&gt; I added the link to the rough cheat sheet of handy and common Refine tasks at &lt;a href=&quot;http://bit.ly/ire12refinecheats&quot;&gt;http://bit.ly/ire12refinecheats&lt;/a&gt;. Send me your favorite tricks to add to the list!&lt;/em&gt;&lt;/p&gt;
@@ -900,19 +900,19 @@ estimate of density: 3 sq. feet/per person
 &lt;p&gt;&lt;em&gt;Tip of the hat to &lt;a href=&quot;http://twitter.com/lizdday&quot;&gt;Liz Day of ProPublica&lt;/a&gt; for demanding more Simpsons and suggesting I add Troy McClure&amp;#8217;s star turn in &amp;#8220;Stop the Planet of the Apes, I want to get off!&amp;#8221;&lt;/em&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html&quot;&gt;Clean data is the best weapon against the monkey insurrection&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on June 15, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html&quot;&gt;Clean data is the best weapon against the monkey insurrection&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on June 15, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Checklist to bulletproof your data work]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2012/06/checklist.html" />
-  <id>http://localhost:4000/blog/2012/06/checklist</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2012/06/checklist.html" />
+  <id>http://www.tommeagher.com//blog/2012/06/checklist</id>
   <published>2012-06-03T14:30:27Z</published>
   <updated>2012-06-03T14:30:27Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;&lt;em&gt;&lt;strong&gt;Updated on 6/23&lt;/strong&gt;: I&amp;#8217;ve included, marked by an asterisk, several fantastic checklist suggestions offered by David Donald at the &lt;a href=&quot;http://www.ire.org/blog/2012-ire-conference-blog/&quot;&gt;IRE &amp;#8216;12 conference&lt;/a&gt; in Boston.&lt;/em&gt;&lt;/p&gt;
@@ -962,19 +962,19 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;A * indicates questions added after hearing David Donald speak about bulletproofing CAR work at IRE &amp;#8216;12 in Boston.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2012/06/checklist.html&quot;&gt;Checklist to bulletproof your data work&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on June 03, 2012.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2012/06/checklist.html&quot;&gt;Checklist to bulletproof your data work&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on June 03, 2012.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Help Wanted]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2011/06/help-wanted.html" />
-  <id>http://localhost:4000/blog/2011/06/help-wanted</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2011/06/help-wanted.html" />
+  <id>http://www.tommeagher.com//blog/2011/06/help-wanted</id>
   <published>2011-06-24T19:12:32Z</published>
   <updated>2011-06-24T19:12:32Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;We have a job opening up on our CAR team here at The Star-Ledger.&lt;/p&gt;
@@ -995,19 +995,19 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;If you&amp;#8217;re interested, send me a cover letter, resume and clips to my work email, tmeagher(at)starledger(dot)com.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2011/06/help-wanted.html&quot;&gt;Help Wanted&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on June 24, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2011/06/help-wanted.html&quot;&gt;Help Wanted&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on June 24, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Hacks, Cops and the Internet]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2011/05/cops-and-social-media.html" />
-  <id>http://localhost:4000/blog/2011/05/cops-and-social-media</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2011/05/cops-and-social-media.html" />
+  <id>http://www.tommeagher.com//blog/2011/05/cops-and-social-media</id>
   <published>2011-05-20T15:50:46Z</published>
   <updated>2011-05-20T15:50:46Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;About six months ago now, I started a new job, taking over as The Star-Ledger&amp;#8217;s Computer-Assisted Reporting Editor. For anyone who follows me on Twitter, this may help explain why many of my online comments lately have dealt with statistics, data visualizations and programming.&lt;/p&gt;
@@ -1061,19 +1061,19 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;Leave a comment below or follow me on Twitter &lt;a href=&quot;http://www.twitter.com/ultracasual/&quot;&gt;@ultracasual&lt;/a&gt; and tell me about your experience working with police or journalists on social media networks.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2011/05/cops-and-social-media.html&quot;&gt;Hacks, Cops and the Internet&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on May 20, 2011.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2011/05/cops-and-social-media.html&quot;&gt;Hacks, Cops and the Internet&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on May 20, 2011.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Story Tips Short And Long]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2010/10/story-tips-short-and-long.html" />
-  <id>http://localhost:4000/blog/2010/10/story-tips-short-and-long</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2010/10/story-tips-short-and-long.html" />
+  <id>http://www.tommeagher.com//blog/2010/10/story-tips-short-and-long</id>
   <published>2010-10-06T00:00:00-04:00</published>
   <updated>2010-10-06T00:00:00-04:00</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;1.Write tight. Maybe the most important thing you can do to increase your productivity without doing more work is to write tight and trim your own work. Write briefs instead of 8 inchers. Write 8 inchers instead of 10 inchers. Write 10-12s instead of 12-15s. Write 12-15s instead of 15-18s. The tighter you write, the less time it takes and the more time you free up for other stuff. Time is a gift to the news reporter. Use that extra hour or half hour to stop in on your beat, talk to a couple sources on the phone, read online what other newspapers are doing, or skim-read documents or reports.&lt;/p&gt;
@@ -1259,19 +1259,19 @@ News on Aug. 14, 2004.&lt;/em&gt;&lt;/p&gt;
 &lt;/ul&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2010/10/story-tips-short-and-long.html&quot;&gt;Story Tips Short And Long&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on October 06, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2010/10/story-tips-short-and-long.html&quot;&gt;Story Tips Short And Long&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on October 06, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Documents every gov't reporter needs]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2010/10/documents-every-reporter-needs.html" />
-  <id>http://localhost:4000/blog/2010/10/documents-every-reporter-needs</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2010/10/documents-every-reporter-needs.html" />
+  <id>http://www.tommeagher.com//blog/2010/10/documents-every-reporter-needs</id>
   <published>2010-10-05T00:00:00-04:00</published>
   <updated>2010-10-05T00:00:00-04:00</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;The way to keep your politicians honest, or even better to prove when
@@ -1314,19 +1314,19 @@ the future.&lt;/p&gt;
   &lt;li&gt;&lt;strong&gt;Lobbyist data&lt;/strong&gt; - ELEC also compiles required lobbyist disclosure reports. See what firms that work with your city are lobbying in New Jersey and what issues they’re spending money on.&lt;/li&gt;
 &lt;/ol&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2010/10/documents-every-reporter-needs.html&quot;&gt;Documents every gov't reporter needs&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on October 05, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2010/10/documents-every-reporter-needs.html&quot;&gt;Documents every gov't reporter needs&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on October 05, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Accuracy checklist]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2010/09/accuracy-checklist.html" />
-  <id>http://localhost:4000/blog/2010/09/accuracy-checklist</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2010/09/accuracy-checklist.html" />
+  <id>http://www.tommeagher.com//blog/2010/09/accuracy-checklist</id>
   <published>2010-09-23T00:00:00-04:00</published>
   <updated>2010-09-23T00:00:00-04:00</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;The accuracy checklist is intended primarily for beginning reporters on
@@ -1383,19 +1383,19 @@ to hold story?&lt;/p&gt;
 not, tell editor when you will be available&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2010/09/accuracy-checklist.html&quot;&gt;Accuracy checklist&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on September 23, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2010/09/accuracy-checklist.html&quot;&gt;Accuracy checklist&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on September 23, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Who's minding the goal?]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2010/05/whos-minding-the-goal.html" />
-  <id>http://localhost:4000/blog/2010/05/whos-minding-the-goal</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2010/05/whos-minding-the-goal.html" />
+  <id>http://www.tommeagher.com//blog/2010/05/whos-minding-the-goal</id>
   <published>2010-05-13T12:27:48Z</published>
   <updated>2010-05-13T12:27:48Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;After &lt;a href=&quot;/blog/2010/05/no-cheering-in-the-press-box.html&quot;&gt;yesterday&amp;#8217;s discussion&lt;/a&gt;, some might ask the obvious question: aren&amp;#8217;t there already people doing this?&lt;/p&gt;
@@ -1468,19 +1468,19 @@ not, tell editor when you will be available&lt;/p&gt;
 
 &lt;p&gt;Leave a comment below or follow me on Twitter &lt;a href=&quot;http://www.twitter.com/ultracasual/&quot;&gt;@ultracasual&lt;/a&gt; and tell me what you think.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2010/05/whos-minding-the-goal.html&quot;&gt;Who's minding the goal?&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on May 13, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2010/05/whos-minding-the-goal.html&quot;&gt;Who's minding the goal?&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on May 13, 2010.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[No cheering in the press box]]></title>
-  <link rel="alternate" type="text/html" href="http://localhost:4000/blog/2010/05/no-cheering-in-the-press-box.html" />
-  <id>http://localhost:4000/blog/2010/05/no-cheering-in-the-press-box</id>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com//blog/2010/05/no-cheering-in-the-press-box.html" />
+  <id>http://www.tommeagher.com//blog/2010/05/no-cheering-in-the-press-box</id>
   <published>2010-05-12T12:03:55Z</published>
   <updated>2010-05-12T12:03:55Z</updated>
   <author>
     <name>Tom Meagher</name>
-    <uri>http://localhost:4000</uri>
+    <uri>http://www.tommeagher.com/</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
   <content type="html">&lt;p&gt;As anyone who&amp;#8217;s stumbled upon my &lt;a href=&quot;http://www.twitter.com/ultracasual/&quot;&gt;Twitter feed&lt;/a&gt; can tell you, I&amp;#8217;m a soccer fan whose zeal for the sport approaches fanaticism. But over the last 15 years, I&amp;#8217;ve driven myself crazy trying to find news about the professional game in all its domestic incarnations, whether it be &lt;a href=&quot;http://www.mlssoccer.com&quot;&gt;Major League Soccer&lt;/a&gt;, &lt;a href=&quot;http://www.womensprosoccer.com/&quot;&gt;Women&amp;#8217;s Professional Soccer&lt;/a&gt; or one of the &lt;a href=&quot;http://www.ussoccer.com/USSF-D2-Pro-League/USSF-D2-Pro-League.aspx&quot;&gt;lower divisions&lt;/a&gt;.&lt;/p&gt;
@@ -1569,7 +1569,7 @@ not, tell editor when you will be available&lt;/p&gt;
 
 &lt;p&gt;Leave a comment below or follow me on Twitter &lt;a href=&quot;http://www.twitter.com/ultracasual/&quot;&gt;@ultracasual&lt;/a&gt; and tell me what you think.&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/blog/2010/05/no-cheering-in-the-press-box.html&quot;&gt;No cheering in the press box&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://localhost:4000&quot;&gt;Tom Meagher&lt;/a&gt; on May 12, 2010.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com//blog/2010/05/no-cheering-in-the-press-box.html&quot;&gt;No cheering in the press box&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com/&quot;&gt;Tom Meagher&lt;/a&gt; on May 12, 2010.&lt;/p&gt;</content>
 </entry>
 
 </feed>
