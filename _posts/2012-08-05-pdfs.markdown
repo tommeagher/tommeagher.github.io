@@ -1,0 +1,31 @@
+---
+author: Tom
+comments: true
+date: 2012-08-05 10:50:40+00:00
+layout: post
+category: blog
+slug: pdfs
+title: Not another blinking PDF!
+wordpress_id: 630
+tags: [pdfs]
+---
+
+There are few things more frustrating than trying to get a simple spreadsheet from a government agency and being told by a spokesman that the data (say, a table of property tax rates in municipalities that was clearly created in Excel) only exists in a locked PDF format.
+
+For the sake of expediency, you sometimes just have to bite the bullet and try to wrestle the data free from the PDF's clutches so that you can gently guide it into a more useful spreadsheet.
+
+It's not always easy, but here are a few resources to do just that:
+
+Dan Nguyen at [ProPublica](http://www.propublica.org/) crafted this very helpful and comprehensive [guide to the various strategies for unlocking data from PDFs](http://www.propublica.org/nerds/item/turning-pdfs-to-text-doc-dollars-guide).
+
+I've also had some success using [CometDocs](http://www.cometdocs.com/), a free site that had a surprisingly high accuracy rate for converting documents on one particularly labor-intensive project.
+
+If you're not afraid of installing a simple command line program, I've also had some luck with PDF2text. Here's a [nice tutorial from IRE](http://www.ire.org/resourcecenter/nettour/PDFTOTEXT.pdf) (looks like the link may be temporarily broken), as well as a guide to how to [automate the conversions](http://ire.org/blog/on-the-road/2010/09/01/quick-fix-to-tame-pdfs/) and not be bothered by the pesky command line.
+
+I've heard good things about the commercial software [DeskUnPDF](http://www.docudesk.com/deskpdf/pdf-converter), but I haven't had an opportunity to use it myself.
+
+When you don't have the time or patience to negotiate with an agency to give you what you want how you want it, give these solutions a try.
+
+If you have other techniques for culling data from PDFs, please share them.
+
+Good luck!

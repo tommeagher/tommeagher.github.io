@@ -1,0 +1,15 @@
+---
+author: Tom
+comments: true
+date: 2007-08-21 21:33:13+00:00
+layout: post
+slug: a-little-reading-while-i-clear-my-throat
+title: A little reading while I clear my throat
+wordpress_id: 30
+category: blog
+tags: [personal, news]
+---
+
+One of the benefits of having no readers is that no one will be impatiently demanding that I have all my ducks in a row while I continue to get the new site up and running. I'd say I'm about 80 percent of the way there. I have a few design features I need to tweak (anybody notice that the word HOME disappears when you roll over it on the navigation bar? Any suggestions?), and some more background content to add before I'm completely happy with this site going forward. Once the backend is set, my hope is to post on here about once or twice a week.
+
+That said, right now you can check out the Best Practices section. Today, I added about a dozen short write-ups I've collected over the years. That part of the site is intended as a repository of tips, techniques and guidelines for tasks many reporters are faced with. From how to cover a municipal beat, to how to cover a weather story, to some basic statistical analysis. A few of the beginner Best Practices are up right now. Over the next few weeks, I'll put up the rest of my archives. Enjoy.

@@ -1,0 +1,19 @@
+---
+author: Tom
+comments: false
+date: 2009-04-21 15:36:06+00:00
+layout: post
+slug: moving-on
+title: Moving on
+wordpress_id: 106
+category: blog
+tags: [jobs, personal]
+---
+
+As with many things on this site, it's taken me a little while to get around to posting this note.
+
+In February, after a very successful stint at the Herald News--which included helping to lead it to win the award for best small daily in the state from the [New Jersey Press Association](http://njpa.org/njpa/better_newspaper_contest/2008/2008%20Editorial%20Results%20-%20Daily.pdf)--I left to join a start-up newsroom. (Alas, I also left behind my neglected soccer blog) Now I am one of the news editors at the New Jersey Local News Service. Owned by [Advance Publications](http://www.advance.net/index.ssf?/advance_publications/about_advance_publications.html), we have a team of 15 reporters who cover municipal beats across six counties here in the Garden State.
+
+On top of that, as part of [my fellowship](/blog/2008/09/10/back-to-school.html) at Fairleigh Dickinson, I've been taking a course this spring on Web programming, specifically with ASP.net. I've also been lucky enough to play a good amount of soccer and DJ a couple of times with friends.
+
+At a time when many newspapers are convulsing or collapsing, working for LNS has been a really unique opportunity to help build a news gathering outfit from the ground up. We provide all of our stories to the Newark Star-Ledger and its Web site [NJ.com](http://www.nj.com/). So far, we've been having a blast. I have a feeling that we're going to see more news organizations following this model: start an outside company to focus intensely on local news and provide content for print and online. It'll be great to set the precedent for how it can be done.

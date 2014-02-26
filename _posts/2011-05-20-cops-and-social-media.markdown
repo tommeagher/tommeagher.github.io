@@ -1,0 +1,65 @@
+---
+author: Tom
+comments: true
+date: 2011-05-20 15:50:46+00:00
+layout: post
+slug: cops-and-social-media
+title: Hacks, Cops and the Internet
+wordpress_id: 673
+category: blog
+tags: [reporting, news, police, crime, justice]
+---
+
+About six months ago now, I started a new job, taking over as The Star-Ledger's Computer-Assisted Reporting Editor. For anyone who follows me on Twitter, this may help explain why many of my online comments lately have dealt with statistics, data visualizations and programming.
+
+In a slight departure from my day-to-day role working with numbers, I was asked to fill in for one of my bosses at a symposium hosted by John Jay College's [Center on Media, Crime and Justice](http://www.jjay.cuny.edu/centers/media_crime_justice/3411.htm). The round table discussion brought together police and journalists from across New Jersey to talk about working together and how using social media tools can help all of us do our jobs.
+
+It was an interesting day to say the least. I sat in a room with 45 cops, reporters and editors who often have an adversarial relationship. I met cops who my reporters have been interviewing for years, as well as competitors whose bylines I knew well. It was refreshing to step out of the daily grind for a few hours and talk about our shared frustrations and how we can do things better, particularly with the explosion of social media tools at our fingertips.
+
+After the jump, some of my prepared remarks, without the slight diversions I took when I delivered them.
+<!-- more -->
+
+
+## What the public and the news media want from the police on the internet
+
+
+1) Speed. Like news organizations and police departments everywhere, we have seen our resources dwindle. At the same time, competition has grown exponentially. We want the information fast. We want to know what's happening before it happens and then we want to be able to alert our readers.
+
+It can buy police departments time. If you get a tweet out quickly to alert the public or confirm or deny an event, then you can avoid calls from dozens of media outlets hounding you in the short term. It'll give you breathing room to gather the facts on the investigation before responding to follow-up questions or releasing more details. We know the scanner chatter is often wrong, but often we can't afford not to chase a story unless the police confirm that it's wrong.
+
+A tweet is a starting point. It can be a great way to immediately alert a lot of people to a major news issue (a high-profile arrest) or a public safety or infrastructure concern (tunnel closing, fire or tornado). But there needs to be....
+
+2) Interaction. The nature of the internet has changed communication. It is not a one-way platform. For it to have any relevance, you have to interact.
+
+People will come to you looking for answers. if you don't provide them, lots of other people on the internet will try to fill in the gaps, often with misinformation. A tweet from a passerby that says something like, "I drove by a fire on Main St., and it looks like a plane hit a house. It's carnage everywhere." could have just been a small kitchen fire that sent lots of smoke into a residential street. There is no replacement for an investigation from the authorities.
+
+This will inevitably raise a number of questions in departments large and small: Who is in charge of the Twitter feed? Who is empowered to post on it? Is there a policy for replying to tweets or Facebook comments? It can be time consuming to keep up to date. But a social media presence isn't particularly useful as simply an archive of static press releases. (As I learned at the event, the [International Association of Chiefs of Police Center on Social Media](http://www.iacpsocialmedia.org/) has drafted [a model policy](http://www.iacpsocialmedia.org/GettingStarted/PolicyDevelopment.aspx) for law enforcement agencies on how to adopt social media tools).
+
+Being on the internet has to be faster than telling reporters that they have to wait three days to talk to the designated PIO about a homicide (which we hear far more often than one would expect). And posting a single statement online isn't sufficient. It's a good place to start so we know what kind of story we're dealing with, but we need to be able to follow up. We need to be able to ask questions to clarify statements and probe for more detail. You don't have to answer all of the questions, but we need to be able to ask them.
+
+We don't want to ever have to attribute information to an agency's website or Twitter feed. We use these as planning tools. Then we want to confirm the information with a real person in the department to make sure we got it right.
+
+And the police can use these social media platforms to their advantage. The LAPD used Twitter to seek information in a hit and run of a valet at a restaurant, for instance. They later arrested an elderly man in the case, although it's not clear if the tip that led to his arrest came from a Twitter user.
+
+The [NJ State Police](http://twitter.com/#!/njsp) has used Twitter to dispel rumors and bad information from scanner reports about a plane crash in South Jersey or SEALs training in the Delaware River. They've also used it to get out initial information on fatal accidents and crimes before being bombarded by reporters.
+
+3) The internet is just a tool. If your department or PIO refuses to share public information with the public, then there's no point in being online. You have to have information that people want for it to be worthwhile. Posting about park closures or issues of minor significance are not good enough. Users on social media, particularly Twitter and Facebook are voracious news consumers. They want substance and lots of it. If you're not answering phone calls from reporters who need information, there's no reason you'd do it online.
+
+The benefit of encouraging an air of transparency in your department however is that it can help demystify the process of police work and humanize law enforcement officers.
+
+4) Facebook and Twitter can also be investigative tools. When we background a subject of a story, a crime or otherwise, these sites are among the first things we look at.
+
+In several cases in New Jersey lately, it's been a key component of criminal charges against young people. In the [Tyler Clementi case](http://www.nj.com/news/index.ssf/2010/09/hold_new_rutgers_post.html), his former roommate is charged with trying to doctor his Twitter account to remove incriminating information. In the case of a group of Old Bridge teens accused of beating a man to death, they allegedly [held extensive conversations on Facebook](http://www.nj.com/news/index.ssf/2010/11/teens_bragged_about_beating_of.html) about the night in question and the beating.
+
+And it helps us track people down, like the Hoboken woman who shot [the amazing picture of the Space Shuttle](http://www.nj.com/news/index.ssf/2011/05/hoboken_womans_iphone_photos_o.html) from the window of her airplane. We found her on Facebook.
+----
+
+My talk went well, although it was a bit disconcerting to notice that one of my fellow panelists, [Capt. Mike Parker](http://twitter.com/#!/MPLASD) of the Los Angeles County Sheriff's Department, was looking up [my resume](http://linkedin.com/in/tommeagher) on his laptop as I spoke. Even though I post all these things to the whole world on the internet, it's easy to forget sometimes that anyone actually looks at it.
+
+The rest of the day's discussions offered a good opportunity to see some of these sources in a less-heated environment and learn from the other attendees and panelists (including Ted Gest of [Criminal Justice Journalists](http://reporters.net/cjj/whoweare.html) and Nancy Kolb of the [International Association of Chiefs of Police](http://www.theiacp.org/)) about some of the resources we all have at our fingertips. I found out about [The Crime Report](http://www.thecrimereport.org/), put together by Criminal Justice Journalists and The Center on Media, Crime and Justice. I also heard about IACP's handy directory of [police agencies with a presence on social media](http://www.iacpsocialmedia.org/Directory.aspx).
+
+Probably the best reminder I heard all day though came from one of the other panelists, [Capt. Jeff Paul](http://twitter.com/#!/CaptainJeffPaul), public information officer for the Morris County Prosecutor's Office.  He bristled at receiving calls from reporters asking for information, in some cases demanding answers, without ever coming to introduce themselves to him. 
+
+Even with all of this magic from the interwebs to help us communicate faster and easier, there really is no replacement for building a personal relationship, face-to-face, with a police source, before you're on deadline in the middle of a catastrophe.
+
+Leave a comment below or follow me on Twitter [@ultracasual](http://www.twitter.com/ultracasual/) and tell me about your experience working with police or journalists on social media networks.
