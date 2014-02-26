@@ -17,10 +17,10 @@ image:
 1.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
 2.  [What I'm obsessing over](https://pinboard.in/u:tommeagher)
 3.  Clips I've written or edited
-4.  News apps I've worked on.
+4.  News apps I worked on
 5.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
 6.  [Newsrooms I've visited](newsrooms.html)
-7.  Places I've been lately.
-8.  Burgers I ate.
-9.  [Beers I've drank.](https://untappd.com/user/tommeagher)
-10. [Classes I've taught.](classes.html)
+7.  Places I've been lately
+8.  Burgers I ate
+9.  [Beers I drank](https://untappd.com/user/tommeagher)
+10. [Classes I've taught](classes.html)
