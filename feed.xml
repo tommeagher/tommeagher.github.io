@@ -5,7 +5,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.tommeagher.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.tommeagher.com" />
-<updated>2014-02-25T21:07:28-05:00</updated>
+<updated>2014-02-25T21:17:07-05:00</updated>
 <id>http://www.tommeagher.com/</id>
 <author>
   <name>Tom Meagher</name>
@@ -403,17 +403,17 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;Hands-on Excel &amp;amp; Fusion Tables class&lt;/p&gt;
+&lt;h3 id=&quot;hands-on-excel--fusion-tables-class&quot;&gt;Hands-on Excel &amp;amp; Fusion Tables class&lt;/h3&gt;
 
-&lt;p&gt;Data for Excel exercises&lt;/p&gt;
+&lt;h4 id=&quot;data-for-excel-exercises&quot;&gt;Data for Excel exercises&lt;/h4&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/11/schoolsdatav1.xlsx&quot;&gt;Schoolsdatav1.xlsx&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/11/2010-2011hs-prresults.xlsx&quot;&gt;2010-2011hs-prresults.xlsx&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/11/demographicsnapshot2012public.xlsx&quot;&gt;DemographicSnapshotEdited.xlsx&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2008/09/3appointmentsclass.xls&quot;&gt;Appointments.xls&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2008/09/8crony.xls&quot;&gt;Crony.xls&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2008/09/10citybud.xls&quot;&gt;citybud.xls&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2012/11/schoolsdatav1.xlsx&quot;&gt;Schoolsdatav1.xlsx&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2012/11/2010-2011hs-prresults.xlsx&quot;&gt;2010-2011hs-prresults.xlsx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2012/11/demographicsnapshot2012public.xlsx&quot;&gt;DemographicSnapshotEdited.xlsx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2008/09/3appointmentsclass.xls&quot;&gt;Appointments.xls&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2008/09/8crony.xls&quot;&gt;Crony.xls&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2008/09/10citybud.xls&quot;&gt;citybud.xls&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Let’s do something fun and map the data for a story, using Google&amp;#8217;s experimental (and free) &lt;a href=&quot;http://tables.googlelabs.com/&quot;&gt;Fusion Tables&lt;/a&gt; program. We&amp;#8217;re going to download a spreadsheet in the CSV format of the violent crime rates for every town in Connecticut.&lt;/p&gt;
@@ -438,6 +438,8 @@ Select all towns and hit the submit button. Click &amp;#8220;All years&amp;#8221
 &lt;p&gt;Click on the title to change the attribution and background info for the merged table. Share the merged table and make it public. Then click Tools&amp;gt; Publish. This gives you the embed code for you to put it in your story.&lt;/p&gt;
 
 &lt;p&gt;Once you get the hang of this, you can but producing web-ready interactive maps in 20-30 minutes, a task that would have taken hours or days not all that long ago. This is an awesome tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe width=&quot;500&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://www.google.com/fusiontables/embedviz?viz=MAP&amp;amp;q=select+col0%3E%3E1+from+1hJY9IspBzWrEx5csZTISYn_r4JKlbTBIlGZyyyI&amp;amp;h=false&amp;amp;lat=41.620240308269935&amp;amp;lng=-72.47735563281253&amp;amp;z=8&amp;amp;t=1&amp;amp;l=col0%3E%3E1&amp;amp;y=2&amp;amp;tmplt=2&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 
 &lt;p&gt;There are a few more things that you can tweak, if you like. You can go to Tools&amp;gt;Change info window layout, to tweak the information that&amp;#8217;s displayed when you click on a polygon.&lt;/p&gt;
 
@@ -709,8 +711,6 @@ estimate of density: 3 sq. feet/per person
 &lt;p&gt;&lt;img src=&quot;http://images.wikia.com/planetoftheapes/images/a/a3/Zaius_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;They are enemies of good data.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://pwwwblog.ibeatyou.com/blog/wp-content/uploads/2010/03/the-wizard-of-oz-monkey-2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;These monkeys are mean, and they hate puppies and clean data (and water). To be fair, in my completely unscientific survey, the data has gotten better in the past decade, but it&amp;#8217;s not where it should be.&lt;/p&gt;
 
