@@ -5,7 +5,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.tommeagher.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.tommeagher.com" />
-<updated>2014-02-25T19:53:25-05:00</updated>
+<updated>2014-02-25T21:06:04-05:00</updated>
 <id>http://www.tommeagher.com/</id>
 <author>
   <name>Tom Meagher</name>
@@ -354,7 +354,7 @@
 
 &lt;p&gt;I won&amp;#8217;t repeat verbatim my Refine tutorial, &lt;a href=&quot;/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html&quot;&gt;which you can find here&lt;/a&gt;, but I will share some of the resources again and point you to a few other tutorials.&lt;/p&gt;
 
-&lt;p&gt;First, check out the updated &lt;a href=&quot;http://bit.ly/car13refineslides&quot;&gt;slides for my class&lt;/a&gt;. If you&amp;#8217;d like to follow along with the class, you can download our data for the &lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/lotterywinners.csv&quot;&gt;lottery winners&lt;/a&gt;, the &lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/nj-hospital-2012.xls&quot;&gt;hospital report cards&lt;/a&gt;, and the &lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/nassau_police_union_contribs.xls&quot;&gt;campaign finance data&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;First, check out the updated &lt;a href=&quot;http://bit.ly/car13refineslides&quot;&gt;slides for my class&lt;/a&gt;. If you&amp;#8217;d like to follow along with the class, you can download our data for the &lt;a href=&quot;/files/uploads/2012/06/lotterywinners.csv&quot;&gt;lottery winners&lt;/a&gt;, the &lt;a href=&quot;/files/2012/06/nj-hospital-2012.xls&quot;&gt;hospital report cards&lt;/a&gt;, and the &lt;a href=&quot;/files/2012/06/nassau_police_union_contribs.xls&quot;&gt;campaign finance data&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;If you&amp;#8217;re just looking for a good cheat sheet of Refine&amp;#8217;s key functions, &lt;a href=&quot;http://bit.ly/car13refinecheats&quot;&gt;try this&lt;/a&gt;.&lt;/p&gt;
 
@@ -676,7 +676,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;When I worked on the dangerous intersections story, I got something that looked like this:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/refine.jpg&quot; alt=&quot;refine&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/refine.jpg&quot; alt=&quot;refine&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;(This is a dramatization)&lt;/p&gt;
 
@@ -765,7 +765,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;We&amp;#8217;ll start with a dataset of lottery winners from New Jersey. Say you want to know what areas spend the most on lottery tickets but win the least.&lt;/p&gt;
 
-&lt;p&gt;Download &lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/lotterywinners.csv&quot;&gt;the lottery dataset here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Download &lt;a href=&quot;/files/2012/06/lotterywinners.csv&quot;&gt;the lottery dataset here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Refine runs through your web browser, but don&amp;#8217;t worry, it works offline as well.&lt;/p&gt;
 
@@ -773,7 +773,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;You&amp;#8217;ll see a preview of what the data looks like. When you pull in the CSV of lottery data, make sure to uncheck the &amp;#8220;Parse cell data&amp;#8230;&amp;#8221; option.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/importcsv.jpg&quot; alt=&quot;importcsv&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/importcsv.jpg&quot; alt=&quot;importcsv&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;New Jersey zip codes start with zero. If Refine guesses that column is a number, it will drop the leading zero, so unchecking the option will preserve the zips as text.&lt;/p&gt;
 
@@ -781,7 +781,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;Enter a name for the new column. We&amp;#8217;ll use &amp;#8220;TOWN.&amp;#8221; Original, I know.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/copycolumn.jpg&quot; alt=&quot;copycolumn&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/copycolumn.jpg&quot; alt=&quot;copycolumn&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now, initially Refine will only display 10 rows, but there are 3,100 in this dataset, so let&amp;#8217;s look at a for more. Click the number 50 next to &amp;#8220;Show as&amp;#8221; to see more.&lt;/p&gt;
 
@@ -793,7 +793,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;Scroll through the text facet box a little ways into the Bs. See the option for &amp;#8220;BELEE MEAD&amp;#8221;? It has one occurrence. Notice that two lines later appears &amp;#8220;BELLE MEAD,&amp;#8221; the actual name of the town. If you hover over &amp;#8220;BELEE MEAD,&amp;#8221; you will see the option to &amp;#8220;edit&amp;#8221; appear to the right. Click on that and then fix the spelling of the name in the box that appears. Notice that the choice count drops to 607.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/facet.jpg&quot; alt=&quot;facet&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/facet.jpg&quot; alt=&quot;facet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Let&amp;#8217;s look at another way to clean data. Scroll down a few more lines. Notice that there are two lines in a row for &amp;#8220;BERKELEY HEIGHTS.&amp;#8221; They&amp;#8217;re spelled the same, so why are they listed separately? Because one of them has an extra space at the end of it that screws up the grouping. This is the kind of thing that back in the bad old days would make you throw your PC out the window two weeks into a data project. Instead, let&amp;#8217;s get rid of all the extra, invisible spaces. Click at the top of the TOWN column, edit cells&amp;gt; common transforms&amp;gt; Trim leading and trailing whitespace. Notice again how the choice count dropped. We&amp;#8217;re down to 573 town names now. We&amp;#8217;re getting there.&lt;/p&gt;
 
@@ -801,7 +801,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;Click on the &amp;#8220;Cluster&amp;#8221; button in the facet box. Click it and you&amp;#8217;ll see something like this. The default method is &amp;#8220;key collision.&amp;#8221; That should only show a couple of options. Try changing it to &amp;#8220;nearest neighbor.&amp;#8221; I can&amp;#8217;t exactly explain the algorithm behind it, but it&amp;#8217;s obvious that it finds town names with similar names that should probably have the same name. You see similar sets like &amp;#8220;POMPTON LAKES&amp;#8221; and &amp;#8220;POMPTON LAKE&amp;#8221; or &amp;#8220;E. ORANGE,&amp;#8221; &amp;#8220;E ORANGE&amp;#8221; and &amp;#8220;E.ORANGE.&amp;#8221; Click the &amp;#8220;merge&amp;#8221; button next to each grouping and type the name you want them all to be changed to in the &amp;#8220;New Cell Value&amp;#8221; column and hit the &amp;#8220;Merge selected and recluster&amp;#8221; button at the bottom. You&amp;#8217;ve just cleaned those messy columns to a single value.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/cluster.jpg&quot; alt=&quot;cluster&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/cluster.jpg&quot; alt=&quot;cluster&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Scroll through the list, reclustering and editing whole chunks at a time. This is a huge time saver. When you&amp;#8217;re done with the &amp;#8220;nearest neighbor&amp;#8221; clusters, experiment with &amp;#8220;key collision&amp;#8221; and see if it picks up any other similar names.&lt;/p&gt;
 
@@ -811,7 +811,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;hr /&gt;
 
-&lt;p&gt;As cool as this is, Refine has a few more tricks for the beginner. Let&amp;#8217;s look at this file of &lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/nj-hospital-2012.xls&quot;&gt;NJ hospital report cards&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;As cool as this is, Refine has a few more tricks for the beginner. Let&amp;#8217;s look at this file of &lt;a href=&quot;/files/2012/06/nj-hospital-2012.xls&quot;&gt;NJ hospital report cards&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Create a new project and import it into Refine.&lt;/p&gt;
 
@@ -819,7 +819,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;When the wizard menu pops up, choose  a semicolon as the separator and uncheck &amp;#8220;remove this column,&amp;#8221; because we always want to be compare against our original data, right?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/splitcolumns.jpg&quot; alt=&quot;splitcolumns&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/splitcolumns.jpg&quot; alt=&quot;splitcolumns&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;So this looks better, with the name, street, town, state and zip code in separate columns. But something isn&amp;#8217;t quite right. What about the zip code? Why is it only four digits? Oh yeah, New Jersey zip codes start with zeroes. Refine assumed that column was an integer and lopped off the zero at the front.&lt;/p&gt;
 
@@ -827,7 +827,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;Look at the list and click on the item at the top, &amp;#8220;0. Create project&amp;#8221; to jump back to that step.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/undo.jpg&quot; alt=&quot;undo&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/undo.jpg&quot; alt=&quot;undo&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Now, redo the &amp;#8220;Split into several columns&amp;#8230;&amp;#8221; step and this time uncheck &amp;#8220;Guess cell type&amp;#8221; to preserve the zips as text.&lt;/p&gt;
 
@@ -837,13 +837,13 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;Click on the arrow at the top of the Hospital column and choose Edit cells&amp;gt; Common transforms &amp;gt; To titlecase.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/titlecase.jpg&quot; alt=&quot;titlecase&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/titlecase.jpg&quot; alt=&quot;titlecase&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Voila. A cleaned dataset. You&amp;#8217;re welcome.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Let&amp;#8217;s try one last dataset, this one looking at contributions from &lt;a href=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/nassau_police_union_contribs.xls&quot;&gt;Nassau County, N.Y. police unions&lt;/a&gt; to political candidates.&lt;/p&gt;
+&lt;p&gt;Let&amp;#8217;s try one last dataset, this one looking at contributions from &lt;a href=&quot;/files/2012/06/nassau_police_union_contribs.xls&quot;&gt;Nassau County, N.Y. police unions&lt;/a&gt; to political candidates.&lt;/p&gt;
 
 &lt;p&gt;Import the data into Refine and let&amp;#8217;s start by trying to clean up the town names.&lt;/p&gt;
 
@@ -853,7 +853,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;Now, let&amp;#8217;s cluster the city names to see if we can consolidate any entries.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/copcluster.jpg&quot; alt=&quot;copcluster&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/copcluster.jpg&quot; alt=&quot;copcluster&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;How do you see the count change in the city column?&lt;/p&gt;
 
@@ -863,7 +863,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;For the sake of argument, let&amp;#8217;s say we&amp;#8217;re interested in looking at how much Sen. Joe Bruno got from Nassau police groups. There appear to be 10 groups here with similar names receiving donations for Bruno. Seems like a good chance that many of these are the same organization. For the sake of argument, let&amp;#8217;s say your reporting shows that yes, these are the same group and we want them to all have the same name for our analysis. Hover your cursor over each one and when the option to &amp;#8220;include&amp;#8221; appears on the right, click it. Once you&amp;#8217;ve &amp;#8220;included&amp;#8221; them all, click the cluster button.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://blog.tommeagher.com/wp-content/uploads/2012/06/subfacet.jpg&quot; alt=&quot;subfacet&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/files/2012/06/subfacet.jpg&quot; alt=&quot;subfacet&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This will attempt to cluster the choices just in this selection to offer suggestions on names that could b the same. Change the method to &amp;#8220;nearest neighbor&amp;#8221; and the distance function to &amp;#8220;PPM.&amp;#8221; If you merge all of the offered suggestions under the same name, it will condense six of the 10 choices into one name. Then you can merge and re-cluster. Once you clean up all the suggestions, you can browse the data in the facet one last time and clean up any stragglers individually as needed. Believe it or not, Refine has just saved you a massive amount of time and energy.&lt;/p&gt;
 

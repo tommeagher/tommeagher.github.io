@@ -136,7 +136,7 @@
 
 <p>When I worked on the dangerous intersections story, I got something that looked like this:</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/refine.jpg" alt="refine" /></p>
+<p><img src="/files/2012/06/refine.jpg" alt="refine" /></p>
 
 <p>(This is a dramatization)</p>
 
@@ -225,7 +225,7 @@
 
 <p>We&#8217;ll start with a dataset of lottery winners from New Jersey. Say you want to know what areas spend the most on lottery tickets but win the least.</p>
 
-<p>Download <a href="http://blog.tommeagher.com/wp-content/uploads/2012/06/lotterywinners.csv">the lottery dataset here</a>.</p>
+<p>Download <a href="/files/2012/06/lotterywinners.csv">the lottery dataset here</a>.</p>
 
 <p>Refine runs through your web browser, but don&#8217;t worry, it works offline as well.</p>
 
@@ -233,7 +233,7 @@
 
 <p>You&#8217;ll see a preview of what the data looks like. When you pull in the CSV of lottery data, make sure to uncheck the &#8220;Parse cell data&#8230;&#8221; option.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/importcsv.jpg" alt="importcsv" /></p>
+<p><img src="/files/2012/06/importcsv.jpg" alt="importcsv" /></p>
 
 <p>New Jersey zip codes start with zero. If Refine guesses that column is a number, it will drop the leading zero, so unchecking the option will preserve the zips as text.</p>
 
@@ -241,7 +241,7 @@
 
 <p>Enter a name for the new column. We&#8217;ll use &#8220;TOWN.&#8221; Original, I know.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/copycolumn.jpg" alt="copycolumn" /></p>
+<p><img src="/files/2012/06/copycolumn.jpg" alt="copycolumn" /></p>
 
 <p>Now, initially Refine will only display 10 rows, but there are 3,100 in this dataset, so let&#8217;s look at a for more. Click the number 50 next to &#8220;Show as&#8221; to see more.</p>
 
@@ -253,7 +253,7 @@
 
 <p>Scroll through the text facet box a little ways into the Bs. See the option for &#8220;BELEE MEAD&#8221;? It has one occurrence. Notice that two lines later appears &#8220;BELLE MEAD,&#8221; the actual name of the town. If you hover over &#8220;BELEE MEAD,&#8221; you will see the option to &#8220;edit&#8221; appear to the right. Click on that and then fix the spelling of the name in the box that appears. Notice that the choice count drops to 607.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/facet.jpg" alt="facet" /></p>
+<p><img src="/files/2012/06/facet.jpg" alt="facet" /></p>
 
 <p>Let&#8217;s look at another way to clean data. Scroll down a few more lines. Notice that there are two lines in a row for &#8220;BERKELEY HEIGHTS.&#8221; They&#8217;re spelled the same, so why are they listed separately? Because one of them has an extra space at the end of it that screws up the grouping. This is the kind of thing that back in the bad old days would make you throw your PC out the window two weeks into a data project. Instead, let&#8217;s get rid of all the extra, invisible spaces. Click at the top of the TOWN column, edit cells&gt; common transforms&gt; Trim leading and trailing whitespace. Notice again how the choice count dropped. We&#8217;re down to 573 town names now. We&#8217;re getting there.</p>
 
@@ -261,7 +261,7 @@
 
 <p>Click on the &#8220;Cluster&#8221; button in the facet box. Click it and you&#8217;ll see something like this. The default method is &#8220;key collision.&#8221; That should only show a couple of options. Try changing it to &#8220;nearest neighbor.&#8221; I can&#8217;t exactly explain the algorithm behind it, but it&#8217;s obvious that it finds town names with similar names that should probably have the same name. You see similar sets like &#8220;POMPTON LAKES&#8221; and &#8220;POMPTON LAKE&#8221; or &#8220;E. ORANGE,&#8221; &#8220;E ORANGE&#8221; and &#8220;E.ORANGE.&#8221; Click the &#8220;merge&#8221; button next to each grouping and type the name you want them all to be changed to in the &#8220;New Cell Value&#8221; column and hit the &#8220;Merge selected and recluster&#8221; button at the bottom. You&#8217;ve just cleaned those messy columns to a single value.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/cluster.jpg" alt="cluster" /></p>
+<p><img src="/files/2012/06/cluster.jpg" alt="cluster" /></p>
 
 <p>Scroll through the list, reclustering and editing whole chunks at a time. This is a huge time saver. When you&#8217;re done with the &#8220;nearest neighbor&#8221; clusters, experiment with &#8220;key collision&#8221; and see if it picks up any other similar names.</p>
 
@@ -271,7 +271,7 @@
 
 <hr />
 
-<p>As cool as this is, Refine has a few more tricks for the beginner. Let&#8217;s look at this file of <a href="http://blog.tommeagher.com/wp-content/uploads/2012/06/nj-hospital-2012.xls">NJ hospital report cards</a>.</p>
+<p>As cool as this is, Refine has a few more tricks for the beginner. Let&#8217;s look at this file of <a href="/files/2012/06/nj-hospital-2012.xls">NJ hospital report cards</a>.</p>
 
 <p>Create a new project and import it into Refine.</p>
 
@@ -279,7 +279,7 @@
 
 <p>When the wizard menu pops up, choose  a semicolon as the separator and uncheck &#8220;remove this column,&#8221; because we always want to be compare against our original data, right?</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/splitcolumns.jpg" alt="splitcolumns" /></p>
+<p><img src="/files/2012/06/splitcolumns.jpg" alt="splitcolumns" /></p>
 
 <p>So this looks better, with the name, street, town, state and zip code in separate columns. But something isn&#8217;t quite right. What about the zip code? Why is it only four digits? Oh yeah, New Jersey zip codes start with zeroes. Refine assumed that column was an integer and lopped off the zero at the front.</p>
 
@@ -287,7 +287,7 @@
 
 <p>Look at the list and click on the item at the top, &#8220;0. Create project&#8221; to jump back to that step.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/undo.jpg" alt="undo" /></p>
+<p><img src="/files/2012/06/undo.jpg" alt="undo" /></p>
 
 <p>Now, redo the &#8220;Split into several columns&#8230;&#8221; step and this time uncheck &#8220;Guess cell type&#8221; to preserve the zips as text.</p>
 
@@ -297,13 +297,13 @@
 
 <p>Click on the arrow at the top of the Hospital column and choose Edit cells&gt; Common transforms &gt; To titlecase.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/titlecase.jpg" alt="titlecase" /></p>
+<p><img src="/files/2012/06/titlecase.jpg" alt="titlecase" /></p>
 
 <p>Voila. A cleaned dataset. You&#8217;re welcome.</p>
 
 <hr />
 
-<p>Let&#8217;s try one last dataset, this one looking at contributions from <a href="http://blog.tommeagher.com/wp-content/uploads/2012/06/nassau_police_union_contribs.xls">Nassau County, N.Y. police unions</a> to political candidates.</p>
+<p>Let&#8217;s try one last dataset, this one looking at contributions from <a href="/files/2012/06/nassau_police_union_contribs.xls">Nassau County, N.Y. police unions</a> to political candidates.</p>
 
 <p>Import the data into Refine and let&#8217;s start by trying to clean up the town names.</p>
 
@@ -313,7 +313,7 @@
 
 <p>Now, let&#8217;s cluster the city names to see if we can consolidate any entries.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/copcluster.jpg" alt="copcluster" /></p>
+<p><img src="/files/2012/06/copcluster.jpg" alt="copcluster" /></p>
 
 <p>How do you see the count change in the city column?</p>
 
@@ -323,7 +323,7 @@
 
 <p>For the sake of argument, let&#8217;s say we&#8217;re interested in looking at how much Sen. Joe Bruno got from Nassau police groups. There appear to be 10 groups here with similar names receiving donations for Bruno. Seems like a good chance that many of these are the same organization. For the sake of argument, let&#8217;s say your reporting shows that yes, these are the same group and we want them to all have the same name for our analysis. Hover your cursor over each one and when the option to &#8220;include&#8221; appears on the right, click it. Once you&#8217;ve &#8220;included&#8221; them all, click the cluster button.</p>
 
-<p><img src="http://blog.tommeagher.com/wp-content/uploads/2012/06/subfacet.jpg" alt="subfacet" /></p>
+<p><img src="/files/2012/06/subfacet.jpg" alt="subfacet" /></p>
 
 <p>This will attempt to cluster the choices just in this selection to offer suggestions on names that could b the same. Change the method to &#8220;nearest neighbor&#8221; and the distance function to &#8220;PPM.&#8221; If you merge all of the offered suggestions under the same name, it will condense six of the 10 choices into one name. Then you can merge and re-cluster. Once you clean up all the suggestions, you can browse the data in the facet one last time and clean up any stragglers individually as needed. Believe it or not, Refine has just saved you a massive amount of time and energy.</p>
 

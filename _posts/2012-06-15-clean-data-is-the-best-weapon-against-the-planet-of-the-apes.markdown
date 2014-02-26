@@ -12,15 +12,12 @@ tags: [cleaning, Open Refine, Refine]
 
 _**Updated:** I added the link to the rough cheat sheet of handy and common Refine tasks at [http://bit.ly/ire12refinecheats](http://bit.ly/ire12refinecheats). Send me your favorite tricks to add to the list!_
 
-
-
 * * *
 
 This is a rough walkthrough of the class I'm teaching at the [2012 IRE conference](http://ire.org/conferences/ire-2012/) in Boston on how to use Google Refine to clean data. If you'd like to see them, these are the slides from the session, [http://bit.ly/ire12refineslides](http://bit.ly/ire12refineslides). Please forgive the weird line returns of WordPress. If you hit any hiccups or have suggestions for improvement, please leave a comment or mention me on Twitter [@ultracasual](http://www.twitter.com/ultracasual).
 
 
 ## You're faced with a dilemma that's fairly common in many newsrooms.
-
 
 Say, for example, a series of accidents kills a number of children crossing busy streets near you. Now, you want to know the deadliest roads or intersections in your area (this is not the dilemma, just wait for it). 
 
@@ -59,7 +56,7 @@ You laugh, but this is what I spent years believing, and every time I was--and c
 When I worked on the dangerous intersections story, I got something that looked like this:
 
 
-![refine](http://blog.tommeagher.com/wp-content/uploads/2012/06/refine.jpg)
+![refine](/files/2012/06/refine.jpg)
 
 
 
@@ -266,7 +263,7 @@ We'll start with a dataset of lottery winners from New Jersey. Say you want to k
 
 
 
-Download [the lottery dataset here](http://blog.tommeagher.com/wp-content/uploads/2012/06/lotterywinners.csv).
+Download [the lottery dataset here](/files/2012/06/lotterywinners.csv).
 
 
 
@@ -286,7 +283,7 @@ You'll see a preview of what the data looks like. When you pull in the CSV of lo
 
 
 
-![importcsv](http://blog.tommeagher.com/wp-content/uploads/2012/06/importcsv.jpg)
+![importcsv](/files/2012/06/importcsv.jpg)
 
 
 
@@ -303,7 +300,7 @@ Enter a name for the new column. We'll use "TOWN." Original, I know.
 
 
 
-![copycolumn](http://blog.tommeagher.com/wp-content/uploads/2012/06/copycolumn.jpg)
+![copycolumn](/files/2012/06/copycolumn.jpg)
 
 
 
@@ -334,7 +331,7 @@ Scroll through the text facet box a little ways into the Bs. See the option for 
 
 
 
-![facet](http://blog.tommeagher.com/wp-content/uploads/2012/06/facet.jpg)
+![facet](/files/2012/06/facet.jpg)
 
 
 
@@ -358,7 +355,7 @@ Click on the "Cluster" button in the facet box. Click it and you'll see somethin
 
 
 
-![cluster](http://blog.tommeagher.com/wp-content/uploads/2012/06/cluster.jpg)
+![cluster](/files/2012/06/cluster.jpg)
 
 
 
@@ -384,7 +381,7 @@ When you're satisfied that you're done, click on "Export" on the upper right cor
 
 
 
-As cool as this is, Refine has a few more tricks for the beginner. Let's look at this file of [NJ hospital report cards](http://blog.tommeagher.com/wp-content/uploads/2012/06/nj-hospital-2012.xls ).
+As cool as this is, Refine has a few more tricks for the beginner. Let's look at this file of [NJ hospital report cards](/files/2012/06/nj-hospital-2012.xls ).
 
 
 
@@ -404,7 +401,7 @@ When the wizard menu pops up, choose  a semicolon as the separator and uncheck 
 
 
 
-![splitcolumns](http://blog.tommeagher.com/wp-content/uploads/2012/06/splitcolumns.jpg)
+![splitcolumns](/files/2012/06/splitcolumns.jpg)
 
 
 
@@ -424,7 +421,7 @@ Another great feature of Refine is that it logs everything you do with the datas
 
 Look at the list and click on the item at the top, "0. Create project" to jump back to that step.
 
-![undo](http://blog.tommeagher.com/wp-content/uploads/2012/06/undo.jpg)
+![undo](/files/2012/06/undo.jpg)
 
 Now, redo the "Split into several columns..." step and this time uncheck "Guess cell type" to preserve the zips as text.
 
@@ -442,7 +439,7 @@ Click on the arrow at the top of the Hospital column and choose Edit cells> Comm
 
 
 
-![titlecase](http://blog.tommeagher.com/wp-content/uploads/2012/06/titlecase.jpg)
+![titlecase](/files/2012/06/titlecase.jpg)
 
 
 
@@ -452,7 +449,7 @@ Voila. A cleaned dataset. You're welcome.
 
 * * *
 
-Let's try one last dataset, this one looking at contributions from [Nassau County, N.Y. police unions](http://blog.tommeagher.com/wp-content/uploads/2012/06/nassau_police_union_contribs.xls) to political candidates.
+Let's try one last dataset, this one looking at contributions from [Nassau County, N.Y. police unions](/files/2012/06/nassau_police_union_contribs.xls) to political candidates.
 
 Import the data into Refine and let's start by trying to clean up the town names.
 
@@ -468,7 +465,7 @@ Now, let's cluster the city names to see if we can consolidate any entries.
 
 
 
-![copcluster](http://blog.tommeagher.com/wp-content/uploads/2012/06/copcluster.jpg)
+![copcluster](/files/2012/06/copcluster.jpg)
 
 
 
@@ -492,7 +489,7 @@ Keep in mind  that any changes we make from here on out will only affect the "A
 For the sake of argument, let's say we're interested in looking at how much Sen. Joe Bruno got from Nassau police groups. There appear to be 10 groups here with similar names receiving donations for Bruno. Seems like a good chance that many of these are the same organization. For the sake of argument, let's say your reporting shows that yes, these are the same group and we want them to all have the same name for our analysis. Hover your cursor over each one and when the option to "include" appears on the right, click it. Once you've "included" them all, click the cluster button.
 
 
-![subfacet](http://blog.tommeagher.com/wp-content/uploads/2012/06/subfacet.jpg)
+![subfacet](/files/2012/06/subfacet.jpg)
 
 
 This will attempt to cluster the choices just in this selection to offer suggestions on names that could b the same. Change the method to "nearest neighbor" and the distance function to "PPM." If you merge all of the offered suggestions under the same name, it will condense six of the 10 choices into one name. Then you can merge and re-cluster. Once you clean up all the suggestions, you can browse the data in the facet one last time and clean up any stragglers individually as needed. Believe it or not, Refine has just saved you a massive amount of time and energy.
