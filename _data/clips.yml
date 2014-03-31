@@ -2,25 +2,25 @@
   date: 2/28/14
   url: http://www.twincities.com/nation/ci_25247140/where-insurance-premiums-are-highest-new-health-laws
   image: aca-map-big.png
-  description:
+  description: This story began with a pair of reporters at the St. Paul Pioneer Press looking at the costs of insurance premiums under the Affordable Care Act in Minnesota and Wisconsin. After they reached out to my team, we helped them gather data for the rest of the country and were the first news organization to do so. My team then helped build the news app to allow users to understand and explore the data.
 
 - title: Listening to the anguish of Newtown
   date: 12/6/13
   url: http://data.digitalfirstmedia.com/newtown911/
   image: newtown-911-big.png
-  description: 
+  description: We knew the police in Connecticut planned to release the audio from the 911 calls during the shootings at Sandy Hook Elementary, but we weren't sure when. The AP reported early that morning that the town had posted the calls on its website, but at first glance, they didn't appear to be there. With a little know-how (and a bit of luck that the site seemingly hadn't been redesigned since the 1990s), I found the files hidden in an unlisted, public section of the site that was difficult to navigate to. Shortly after we found the files, the town removed them from the web, but we had them for four-plus hours before they were officiailly "released" near the end of the day. That head start allowed us to build this engaging presentation to accompany the story.
       
 - title: Decoding JFK's assassination
   date: 11/20/13
   url: http://data.digitalfirstmedia.com/jfk/
   image: decoding-jfk-big.png
-  description:
+  description: We knew everyone in the world was going to be writing about the 50th anniversary of the assassination of President John F. Kennedy. Our goal was to find an engaging and unique way to commemorate this historic event. We decided to focus on the mythology around Kennedy's death that in some ways marked the beginning of the conspiracy theory in modern pop culture. We used this immersive, multimedia presentation to bring readers into the story and to debunk many of the more prominent--and fanciful--theories that emerged after the assassination. 
 
 - title: Tracking crime in Denver's neighborhoods
   date: 11/8/13
   url: http://crime.denverpost.com
   image: denver-crime-big.png
-  description:
+  description: Working with our colleagues at the Denver Post, my team created this app that tracks crime in the city's many neighborhoods. An iteration on an earlier map we built for the St. Paul Pioneer Press, this has led the Post to find a number of compelling crime stories and continues to lure visitors who want to track what's happening in their communities.
   
 #- title: Measuring the deluge in Colorado
 #  date: 9/19/13
@@ -28,38 +28,38 @@
 #  image: colorado-rains-big.png
 #  description:
 
-- title: The rising tide
+- title: Watching the tide rise
   date: 9/17/13
   url: http://www.denverpost.com/2013coloradofloods/ci_24106933/colorado-flood-map-2013-river-gauges
   image: river-gauges-snap-big.png
-  description: http://tdbeta.digitalfirstmedia.com/denver-flood-gauges/
+  description: As central Colorado was hammered by record flooding, my team worked with colleagues in the Denver Post newsroom to help visualize the extent of the flood. We tapped into river gauges operated by the U.S. Geological Survey and the National Weather Service to build this app. It tracks the levels of various rivers in the flooded area pulling live data from the gauges. If you look at <a href="http://tdbeta.digitalfirstmedia.com/denver-flood-gauges/" target="_blank">this snapshot</a> from the height of the flooding, you can see not only how extraordinary the deluge was, but also how much longer the flooded communities would have to wait for the waters to recede.
 
-- title: Gauging the backlog of disabled veterans
+- title: Measuring the backlog of disabled veterans
   date: 6/30/13
   url: http://www.sltrib.com/sltrib/news/56473395-78/claims-veterans-lake-salt.html.csp?page=1
   image: va-backlog-big.png
-  description:
+  description: My team came to this story while working on a piece for Digital First Media's American Homecomings project with colleagues at the Salt Lake Tribune. We wanted to know how long veterans home from Iraq and Afghanistan had to wait to receive disability benefits. We also wanted to see how the VA was dealing with what some in Congress were complaining was an excessive backlog of disability cases. We tapped into data collected by the Center for Investigative Reporting through their API and worked with the Tribune on analyzing nearly four years of VA disability cases. To accompany the resulting story, my team also built the interactive chart to show how every regional VA office in the country was faring against the national average. To its credit, after the reporting by us, CIR and many others, the VA worked to improve its systems and start to whittle down the massive backlog that kept injured veterans waiting for care.
     
-- title: The manhunt for the marathon bombers
+- title: Manhunt for marathon bombers
   date: 4/18/13
   url: http://www.elpasotimes.com/newupdated/ci_23062944/map-manhunt-boston-marathon-bombing-suspects
   image: manhunt-big.png
-  description:
+  description: Our data team built this interactive timeline on deadline as we helped our papers to understand what was happening during the extraordinary manhunt for the brothers accused in the Boston marathon bombings.
   Editing: True  
 
 - title: The people on Boylston Street
   date: 4/17/13
   url: http://www.sentinelandenterprise.com/webextras/ci_23055737/interactive-people-boylston-street-during-boston-marathon-bombing
   image: boylston-street-big.png
-  description:
+  description: After bombs exploded along Boylston Street near the finish line of the Boston marathon, my team was looking for ways to help tell that story. We ended up scraping the website of the Boston Athletic Association to identify runners who live in some of the 75 markets where Digital First Media owns newspapers. Working with reporters in our newsroom and across the country, we fanned out to interview runners who were near the finish line when the bombs went off, and we built this app to tell their stories.
   Editing: True
 
 - title: Bracket Advisor
   date: 3/16/13
   url: http://www.bracketadvisor.com/
   image: ba-big.png
-  description: 
-
+  description: If you're a college basketball fan, the NCAA's March Madness tournament is the highlight of the year. A producer on the sports desk at Thunderdome had an idea for how we might use historic NCAA data to predict how two teams in this year's tournament would fare against one another. This led us to build Bracket Advisor, our predictive game that pre-dates similar efforts by the likes of Yahoo and 538. This was a hit with visitors and continues to be the tent pole of our annual college basketball coverage.
+  
 - title: Your Oscar ballot
   date: 2/18/13
   url: http://www.mercurynews.com/entertainment/ci_22612415/
@@ -74,7 +74,7 @@
   description: An editor in Connecticut came to our data team for help. She had collected the contracts for every public school superintendent in the state; What could she do with them? We helped her clean and analyze her database. Then we put all of her contracts into DocumentCloud and built the interactive map and table to accompany her stories.
   Editing: True
 
-- title: The victims of Newtown shooting
+- title: The victims of the Newtown shooting
   date: 12/15/12
   url: http://www.mercurynews.com/ci_22194683
   image: newtown-big.png

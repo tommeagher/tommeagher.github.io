@@ -17,9 +17,9 @@ Modified: 2014-03-30
 
 {% for clip in site.data.clips %}
   <h3><a href="{{clip.url}}" target="_blank">{{clip.title}}</a></h3>
-  <figure class="half">     
-     <a href="http://0.0.0.0:4000/images/{{clip.image}}">
-        <img src="http://0.0.0.0:4000/images/{{clip.image}}"></a>
+  <figure>     
+     <a href="{{ site.url }}/images/{{clip.image}}">
+        <img src="{{ site.url }}/images/{{clip.image}}"></a>
         <figcaption><a style="text-decoration: underline" href="{{clip.url}}" target="_blank">Published on {{clip.date}}</a> <p> {{clip.description}} <a href="{{clip.url}}" target="_blank">Read the clip</a></p></figcaption>     
   </figure>
   <hr />
