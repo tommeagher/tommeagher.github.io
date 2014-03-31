@@ -1,0 +1,149 @@
+- title: ACA exchanges don't cover everyone the same
+  date: 2/28/14
+  url: http://www.twincities.com/nation/ci_25247140/where-insurance-premiums-are-highest-new-health-laws
+  image: aca-map-big.png
+  description:
+
+- title: Listening to the anguish of Newtown
+  date: 12/6/13
+  url: http://data.digitalfirstmedia.com/newtown911/
+  image: newtown-911-big.png
+  description: 
+      
+- title: Decoding JFK's assassination
+  date: 11/20/13
+  url: http://data.digitalfirstmedia.com/jfk/
+  image: decoding-jfk-big.png
+  description:
+
+- title: Tracking crime in Denver's neighborhoods
+  date: 11/8/13
+  url: http://crime.denverpost.com
+  image: denver-crime-big.png
+  description:
+  
+#- title: Measuring the deluge in Colorado
+#  date: 9/19/13
+#  url: http://www.denverpost.com/2013coloradofloods/ci_24132410/2013-colorado-flood-rainfall-totals-timeline-map
+#  image: colorado-rains-big.png
+#  description:
+
+- title: The rising tide
+  date: 9/17/13
+  url: http://www.denverpost.com/2013coloradofloods/ci_24106933/colorado-flood-map-2013-river-gauges
+  image: river-gauges-snap-big.png
+  description: http://tdbeta.digitalfirstmedia.com/denver-flood-gauges/
+
+- title: Gauging the backlog of disabled veterans
+  date: 6/30/13
+  url: http://www.sltrib.com/sltrib/news/56473395-78/claims-veterans-lake-salt.html.csp?page=1
+  image: va-backlog-big.png
+  description:
+    
+- title: The manhunt for the marathon bombers
+  date: 4/18/13
+  url: http://www.elpasotimes.com/newupdated/ci_23062944/map-manhunt-boston-marathon-bombing-suspects
+  image: manhunt-big.png
+  description:
+  Editing: True  
+
+- title: The people on Boylston Street
+  date: 4/17/13
+  url: http://www.sentinelandenterprise.com/webextras/ci_23055737/interactive-people-boylston-street-during-boston-marathon-bombing
+  image: boylston-street-big.png
+  description:
+  Editing: True
+
+- title: Bracket Advisor
+  date: 3/16/13
+  url: http://www.bracketadvisor.com/
+  image: ba-big.png
+  description: 
+
+- title: Your Oscar ballot
+  date: 2/18/13
+  url: http://www.mercurynews.com/entertainment/ci_22612415/
+  image: oscar-ballot-13-big.png
+  description: When it comes to the best movies of the year, everybody has an opinion. So our data team built this app to allow users to vote for their favorite movies in each of the Oscars' big categories and then print off a scoresheet to enter in an office pool or to keep tabs during the ceremony.
+  Editing: True
+
+- title: Comparing Connecticut superintendents' salaries
+  date: 12/30/12
+  url: http://nhregister.com/news/superintendents
+  image: ct-supers-big.png
+  description: An editor in Connecticut came to our data team for help. She had collected the contracts for every public school superintendent in the state; What could she do with them? We helped her clean and analyze her database. Then we put all of her contracts into DocumentCloud and built the interactive map and table to accompany her stories.
+  Editing: True
+
+- title: The victims of Newtown shooting
+  date: 12/15/12
+  url: http://www.mercurynews.com/ci_22194683
+  image: newtown-big.png
+  description: Within hours of reports about a mass shooting at an elementary school in Newtown, Conn., my data team at Project Thunderdome launched this app to collect the faces and profiles of the lives who were lost. The four of us then spent the next four days working with journalists in two states to help report out the stories and bring them into the app.
+  Editing: True
+
+#- title: College bowl season calendar
+#  date: 12/14/12
+#  url: http://www.mercurynews.com/ci_22185958/ncaa-bowl
+#  image: bowl-calendar-big.png
+#  description: Interactive calendar of the college bowl season, with previews and results.
+#  Editing: True
+    
+- title: Fishing's fortunes sinking in N.J.
+  date: 8/8/12
+  url: http://www.nj.com/news/index.ssf/2012/08/hurt_by_slumping_economy_fishi.html
+  image: fishing-big.png
+  description: Using federal and state data, my reporter reeled in this piece about the slow, precipitous decline of sport fishing in New Jersey. Once a major economic driver along the Shore, the erosion of saltwater sport fishing saw hundreds of millions of dollars disappear from the state's GDP.
+
+- title: Distracted driving still a problem, despite attempts to curtail cell phone use
+  date: 6/27/12
+  url: http://www.nj.com/news/index.ssf/2012/06/distracted_driving_still_a_pro.html
+  image: andymills.jpg
+  description: Lawmakers and law enforcers had not been shy about claiming a ban on cell phone use while driving was making New Jersey's roads safer. But my reporter found this simple, but effective story hiding in plain view. When we looked at the state's accident data, it showed that the number of crashes involving cell phones were unchanged in the years since stricter laws had gone into effect. 
+  
+- title: Driving club linked to 'Death Race' celebrates lifestyles of the rich and excessive
+  date: 4/11/12
+  url: http://www.nj.com/news/index.ssf/2012/04/driving_club_linked_to_death_r.html
+  image: driving-big.png
+  description: A story of State Police troopers escorting high speed races along the Garden State Parkway took an interesting turn when my reporters discovered the website of the car club behind the scandal. We were able to quickly scrape the club's site and begin analyzing the thousands of photos we found there before it went offline. And that analysis enabled us to write this gem of a story on excess and bad behavior in a case that ultimately led to several state troopers losing their jobs and pensions in the fallout.
+
+#- title: Median incomes dropping in NJ
+#  date: 9/22/11
+#  url: http://www.nj.com/news/index.ssf/2011/09/nj_median_household_income_dro.html
+#  image: median-big.png
+#  description:
+
+- title: Shore town populations are shrinking
+  date: 5/12/11
+  url: http://www.nj.com/news/index.ssf/2011/05/census_results_show_nj_shore_to.html
+  image: noahmurray.png
+  description: In a decade that saw Snooki and the Jersey Shore become household names around the world, how did most of the towns along the state's Atlantic shoreline shrink in the 2000s? Starting with a tip from the Census numbers, my reporters hit the boardwalks to report out this piece on a changing demographic and way of life in the Shore towns.
+
+- title: Mapping the Census
+  date: 5/6/11
+  url: http://www.starledger.com/str/indexpage/project/2010-Census-populations-by-town.htm
+  image: census-pop-big.png
+  description: With the release of population estimates from the 2010 Census, in addition to various stories our CAR team at the Star-Ledger pursued, I also built this interactive map and table breaking down the change in population for every town in New Jersey.
+
+- title: $30 million power plant project may be abandoned
+  date: 6/13/10
+  url: http://www.nj.com/news/index.ssf/2010/06/rahway_valley_sewerage_authori.html
+  image: eliot-big.png
+  description: One of my reporters was looking at a local sewer authority that served a number of the towns in his beat. The rates kept going up each year, and some town officials complained that a promised new power plant was way behind schedule. With the help of background sources, the reporter dug deep into internal audits and memos. It took weeks for us to bulletproof the story, but we were able to show that the professional staff believed that $30 million had been wasted on the power plant, and it would never operate.
+
+- title: The Poor Side of Town for Section 8 Tenants
+  date: 7/1/07
+  url: /files/clips/sec8map.pdf
+  image: sec8-big.png
+  description: In the wake of a corruption scandal in Paterson’s Section 8 office, we looked at how the federal rental subsidy program was being administered locally. I built a database of Paterson’s Section 8 payment records and the properties offered to needy renters in the program. By mapping the properties against Census data, we were able to demonstrate that Paterson officials steered voucher recipients into the poorest neighborhoods in the city, in opposition to the intent and regulations of the federal program.
+
+- title: Lien deal leaves Paterson in dire straits
+  date: 10/15/06
+  url: /files/clips/liens.pdf
+  image: liens-big.png
+  description: A tip from a source in Paterson’s city government led me to look into a deal in which the mayor sold liens against scores of abandoned lots to a developer. By digging through hundreds of documents and county land records, I built a database that tracked thousands of land transactions and analyzed how the city lost $13 million in potential revenue in the deal. Much to my dismay, due to the sands of time, the Google Map I built that showed data on each property in the scheme is no longer available on the internet.
+
+- title: A Temporary Life
+  date: 10/16/05
+  url: /files/clips/templife.pdf
+  image: temp-big.png
+  description: I wanted to find a compelling way to illustrate the challenges facing the working poor and immigrants in North Jersey. For one month, I gave up all my money, moved out of my apartment and got a low-wage job. The resulting story of how I made ends meet resonated with readers across the socioeconomic spectrum, won several state contests and was a finalist in the Deadline Club’s annual awards.

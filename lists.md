@@ -14,13 +14,11 @@ image:
   creditlink: http://www.couponclipinista.com/2012/08/free-samples-of-post-it-super-sticky-full-adhesive-notes-first-10000/
 ---
 
-1.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
-2.  [What I'm obsessing over](https://pinboard.in/u:tommeagher)
-3.  Clips I've written or edited
-4.  News apps I worked on
-5.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
-6.  [Newsrooms I've visited](newsrooms.html)
-7.  Places I've been lately
-8.  Burgers I ate
-9.  [Beers I drank](https://untappd.com/user/tommeagher)
-10. [Classes I've taught](classes.html)
+1.  [Stories and apps I worked on](clips.htmls)
+2.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
+3.  [Places I've worked](http://linkedin.com/in/tommeagher)
+4.  [Newsrooms I've visited](newsrooms.html)
+5.  [Classes I've taught](classes.html)
+6.  [What I'm obsessing over](https://pinboard.in/u:tommeagher)
+7.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
+8.  [Beers I drank](https://untappd.com/user/tommeagher)

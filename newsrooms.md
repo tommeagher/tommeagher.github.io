@@ -13,7 +13,7 @@ image:
   creditlink: http://www.photos-public-domain.com/
 ---
 
-This is not a comprehensive list. It is, however, chronological.
+This is probably not a comprehensive list. It is, however, chronological.
 
 1. The Frederick Post, Frederick, MD
 2. The Hagerstown Herald-Mail, Hagerstown, MD
@@ -54,5 +54,8 @@ This is not a comprehensive list. It is, however, chronological.
 36. The San Gabriel Valley Tribune, West Covina, CA
 37. The Pasadena Star-News, Pasadena, CA
 38. The Daily News, Los Angeles, CA
+39. The Daily Record, York, PA
+40. The Daily News, Lebanon, PA
+41. The Mercury, Pottstown, PA
 
 Let me know if you see any that I missed.
