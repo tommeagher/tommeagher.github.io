@@ -14,7 +14,7 @@ image:
   creditlink: http://www.couponclipinista.com/2012/08/free-samples-of-post-it-super-sticky-full-adhesive-notes-first-10000/
 ---
 
-1.  [Stories and apps I worked on](clips.htmls)
+1.  [Stories and apps I worked on](clips.html)
 2.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
 3.  [Places I've worked](http://linkedin.com/in/tommeagher)
 4.  [Newsrooms I've visited](newsrooms.html)
