@@ -8,10 +8,10 @@ Date: 2014-03-30 08:32
 Author: Tom
 Slug: clips
 Modified: 2014-03-30
-#image:
-#  feature: chalk.png
-#  credit: Five Sixteenths
-#  creditlink: http://www.fivesixteenthsblog.com/2012_12_01_archive.html
+image:
+  feature: chips.png
+  credit: Texture Palace
+  creditlink: http://www.texturepalace.com/wp-content/uploads/computer-texture-medium-8.jpg
 ---
 
 
