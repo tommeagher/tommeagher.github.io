@@ -57,5 +57,8 @@ This is probably not a comprehensive list. It is, however, chronological.
 39. The Daily Record, York, PA
 40. The Daily News, Lebanon, PA
 41. The Mercury, Pottstown, PA
+42. Buzzfeed, New York, NY
+43. Al Jazeera America, New York, NY
+44. The Guardian US, New York, NY
 
 Let me know if you see any that I missed.
