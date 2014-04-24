@@ -40,25 +40,27 @@ This is probably not a comprehensive list. It is, however, chronological.
 23. The New Haven Register, New Haven, CT
 24. The Denver Post, Denver, CO
 25. The Center for Public Integrity, Washington, DC
-26. The Santa Cruz Sentinel, Santa Cruz, CA
-27. The San Jose Mercury News, San Jose, CA
-28. The Center for Investigative Reporting, Berkeley, CA
-29. The Contra Costa Times, Walnut Creek, CA
-30. MinnPost, Minneapolis, MN
-31. St. Paul Pioneer Press, St. Paul, MN
-32. Axis Philly, Philadelphia, PA
-33. The Daily Breeze, Torrance, CA
-34. The Sun, San Bernardino, CA
-35. The Inland Valley Daily Bulletin, Ontario, CA
-36. KPCC, Pasadena, CA
-36. The San Gabriel Valley Tribune, West Covina, CA
-37. The Pasadena Star-News, Pasadena, CA
-38. The Daily News, Los Angeles, CA
-39. The Daily Record, York, PA
-40. The Daily News, Lebanon, PA
-41. The Mercury, Pottstown, PA
-42. Buzzfeed, New York, NY
-43. Al Jazeera America, New York, NY
-44. The Guardian US, New York, NY
+26. Reuters, New York, NY
+27. The Santa Cruz Sentinel, Santa Cruz, CA
+28. The San Jose Mercury News, San Jose, CA
+29. The Center for Investigative Reporting, Berkeley, CA
+30. The Contra Costa Times, Walnut Creek, CA
+31. MinnPost, Minneapolis, MN
+32. St. Paul Pioneer Press, St. Paul, MN
+33. Axis Philly, Philadelphia, PA
+34. The Daily Breeze, Torrance, CA
+35. The Sun, San Bernardino, CA
+36. The Inland Valley Daily Bulletin, Ontario, CA
+37. KPCC, Pasadena, CA
+38. The San Gabriel Valley Tribune, West Covina, CA
+39. The Pasadena Star-News, Pasadena, CA
+40. The Daily News, Los Angeles, CA
+41. The Daily Record, York, PA
+42. The Daily News, Lebanon, PA
+43. The Mercury, Pottstown, PA
+44. Buzzfeed, New York, NY
+45. Al Jazeera America, New York, NY
+46. The Guardian US, New York, NY
+47. Metro US, New York, NY
 
 Let me know if you see any that I missed.
