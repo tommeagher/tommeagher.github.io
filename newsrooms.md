@@ -62,5 +62,6 @@ This is probably not a comprehensive list. It is, however, chronological.
 45. Al Jazeera America, New York, NY
 46. The Guardian US, New York, NY
 47. Metro US, New York, NY
+48. The Texas Tribune, Austin, TX
 
 Let me know if you see any that I missed.
