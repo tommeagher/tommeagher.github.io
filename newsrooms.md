@@ -63,5 +63,6 @@ This is probably not a comprehensive list. It is, however, chronological.
 46. The Guardian US, New York, NY
 47. Metro US, New York, NY
 48. The Texas Tribune, Austin, TX
+49. NBC News, New York, NY
 
 Let me know if you see any that I missed.
