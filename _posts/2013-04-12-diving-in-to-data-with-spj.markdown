@@ -5,7 +5,7 @@ date: 2013-04-12 21:26:15+00:00
 layout: post
 category: blog
 slug: diving-in-to-data-with-spj
-title: Diving in to Data with SPJ
+title: Diving into data with SPJ
 wordpress_id: 1311
 tags: [Hack Jersey, news apps, open data, data journalism]
 ---

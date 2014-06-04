@@ -9,7 +9,7 @@
   date: 4/20/14
   url: http://data.digitalfirstmedia.com/waffler-pa/
   image: waffler.png
-  description: This local election game began as <a href="http://outsidethunderdome.com/2013/05/01/gaming-news/" target="_blank">a hackathon project</a>. We worked closely with colleagues at the York Daily Record to revise the game to make it into more than just a proof of concept. We redesigned the app to include reporting on the crowded 2014 Pennsylvania gubernatorial primary race, so users could compare their views on hot-button political issues in the Keystone State to the state positions of the candidates. This made for an informative and engaging app that was also a lot of fun to play.
+  description: This local election game began as <a href="http://outsidethunderdome.com/2013/05/01/gaming-news/" target="_blank">a hackathon project</a>. We worked closely with colleagues at the York Daily Record to make it into more than just a proof of concept. We redesigned the app to include reporting on the crowded 2014 Pennsylvania gubernatorial primary race, so users could compare their views on hot-button political issues in the Keystone State to the positions of the candidates. This made for an informative and engaging app that was also a lot of fun to play.
 
 - title: ACA exchanges don't cover everyone the same
   date: 2/28/14
@@ -45,7 +45,7 @@
   date: 9/17/13
   url: http://www.denverpost.com/2013coloradofloods/ci_24106933/colorado-flood-map-2013-river-gauges
   image: river-gauges-snap-big.png
-  description: As central Colorado was hammered by record flooding, my team worked with colleagues in the Denver Post newsroom to help visualize the extent of the flood. We tapped into river gauges operated by the U.S. Geological Survey and the National Weather Service to build this app. It tracks the levels of various rivers in the flooded area pulling live data from the gauges. If you look at <a href="http://tdbeta.digitalfirstmedia.com/denver-flood-gauges/" target="_blank">this snapshot</a> from the height of the flooding, you can see not only how extraordinary the deluge was, but also how much longer the flooded communities would have to wait for the waters to recede.
+  description: When central Colorado was hammered by record flooding, my team worked with colleagues in the Denver Post newsroom to help visualize the extent of the flood. We tapped into river gauges operated by the U.S. Geological Survey and the National Weather Service to build this app. It tracks the levels of various rivers in the flooded area pulling live data from the gauges. If you look at <a href="http://tdbeta.digitalfirstmedia.com/denver-flood-gauges/" target="_blank">this snapshot</a> from the height of the flooding, you can see not only how extraordinary the deluge was, but also how much longer the flooded communities would have to wait for the waters to recede.
 
 - title: Measuring the backlog of disabled veterans
   date: 6/30/13
