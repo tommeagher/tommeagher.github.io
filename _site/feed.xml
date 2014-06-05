@@ -5,7 +5,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.tommeagher.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.tommeagher.com" />
-<updated>2014-06-04T19:35:14-04:00</updated>
+<updated>2014-06-05T06:55:24-04:00</updated>
 <id>http://www.tommeagher.com/</id>
 <author>
   <name>Tom Meagher</name>
@@ -53,7 +53,7 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;This is a hard adjustment for newspaper reporters, who are used to having time to figure out what their story is and then file it at the last possible minute. They need to start thinking on a timeline that allows developers to help. We can build on deadline when news demands, but the rest of the time, we shouldn’t have to.&lt;/p&gt;
 
-&lt;p&gt;It took a while for the data team to figure this out, just as it did for our colleagues in Thunderdome and across Digital First Media. We noticed a turning point when we stopped waiting for other desks to pitch ideas on our timetable and began to pursue our own projects. Anyone else was free to join the fun, but we knew if we wanted to get something good done for the 50th anniversary of JFK’s assassination in November, for instance, we’d need to start working on it in August. &lt;a href=&quot;http://data.digitalfirstmedia.com/jfk/&quot;&gt;And it worked&lt;/a&gt;.
+&lt;p&gt;It took a while for the data team to figure out to deal with this. We noticed a turning point when we stopped waiting for other desks to pitch ideas on our timetable and began to pursue our own projects. Anyone else was free to join the fun, but we knew if we wanted to get something good done for the 50th anniversary of JFK’s assassination in November, for instance, we’d need to start working on it in August. &lt;a href=&quot;http://data.digitalfirstmedia.com/jfk/&quot;&gt;And it worked&lt;/a&gt;.
 &lt;br /&gt;
 &lt;br /&gt;&lt;/p&gt;
 
@@ -96,8 +96,9 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;Many of our most successful apps started off as more humble ones. We iterated and used most of what we learned from &lt;a href=&quot;http://data.digitalfirstmedia.com/jfk/&quot;&gt;the JFK project&lt;/a&gt; on the &lt;a href=&quot;http://data.digitalfirstmedia.com/guns/&quot;&gt;Firearms in the Family&lt;/a&gt;. &lt;a href=&quot;http://www.bracketadvisor.com/&quot;&gt;Bracket Advisor&lt;/a&gt; was the second or third iteration of a tool we originally created with our sports desk for &lt;a href=&quot;http://www.twincities.com/1000/ci_22346309/predict-nfl-playoffs?mobRedir=false&quot;&gt;the NFL playoffs&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;With each deployment, we’d pause to collect our thoughts, to write down what worked and what didn’t and to craft a list of features we’d want in the next project. At a daily newspaper, looking back at how well a story succeeded was never even considered. In the online newsroom, it’s critically important.
-&lt;br /&gt;
+&lt;p&gt;At a daily newspaper, looking back at how well a story succeeded was never even considered. To be fair, when you’re writing quick stories every day, you learn and adapt much faster. When your projects take weeks, or sometimes months, that learning process has to be more deliberate.&lt;/p&gt;
+
+&lt;p&gt;The key to good iteration was in our post-mortem reviews. After each deployment, we’d pause to collect our thoughts, to write down what worked and what didn’t and to craft a list of features we’d want in the next project. Then we’d use those ideas over and over again to make our work better.&lt;br /&gt;
 &lt;br /&gt;
 &lt;img src=&quot;/images/culture_is_contagious.png&quot; /&gt;&lt;/p&gt;
 

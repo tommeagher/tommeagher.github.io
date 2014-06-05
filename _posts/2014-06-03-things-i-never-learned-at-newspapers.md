@@ -34,7 +34,7 @@ This mindset, and the idea that interactive news developers should be a support 
 
 This is a hard adjustment for newspaper reporters, who are used to having time to figure out what their story is and then file it at the last possible minute. They need to start thinking on a timeline that allows developers to help. We can build on deadline when news demands, but the rest of the time, we shouldn't have to.
 
-It took a while for the data team to figure this out, just as it did for our colleagues in Thunderdome and across Digital First Media. We noticed a turning point when we stopped waiting for other desks to pitch ideas on our timetable and began to pursue our own projects. Anyone else was free to join the fun, but we knew if we wanted to get something good done for the 50th anniversary of JFK's assassination in November, for instance, we'd need to start working on it in August. [And it worked](http://data.digitalfirstmedia.com/jfk/).
+It took a while for the data team to figure out to deal with this. We noticed a turning point when we stopped waiting for other desks to pitch ideas on our timetable and began to pursue our own projects. Anyone else was free to join the fun, but we knew if we wanted to get something good done for the 50th anniversary of JFK's assassination in November, for instance, we'd need to start working on it in August. [And it worked](http://data.digitalfirstmedia.com/jfk/).
 <br />
 <br />
 
@@ -77,8 +77,9 @@ Failure is an option. Our data team was willing to try anything new, knowing tha
 
 Many of our most successful apps started off as more humble ones. We iterated and used most of what we learned from [the JFK project](http://data.digitalfirstmedia.com/jfk/) on the [Firearms in the Family](http://data.digitalfirstmedia.com/guns/). [Bracket Advisor](http://www.bracketadvisor.com/) was the second or third iteration of a tool we originally created with our sports desk for [the NFL playoffs](http://www.twincities.com/1000/ci_22346309/predict-nfl-playoffs?mobRedir=false).
 
-With each deployment, we'd pause to collect our thoughts, to write down what worked and what didn't and to craft a list of features we'd want in the next project. At a daily newspaper, looking back at how well a story succeeded was never even considered. In the online newsroom, it's critically important.
-<br />
+At a daily newspaper, looking back at how well a story succeeded was never even considered. To be fair, when you're writing quick stories every day, you learn and adapt much faster. When your projects take weeks, or sometimes months, that learning process has to be more deliberate.
+
+The key to good iteration was in our post-mortem reviews. After each deployment, we'd pause to collect our thoughts, to write down what worked and what didn't and to craft a list of features we'd want in the next project. Then we'd use those ideas over and over again to make our work better.<br />
 <br />
 <img src="/images/culture_is_contagious.png">
 
