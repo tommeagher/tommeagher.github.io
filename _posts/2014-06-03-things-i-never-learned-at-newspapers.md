@@ -32,7 +32,7 @@ The first misconception newspaper veterans have is the notion that interactive n
 
 This mindset, and the idea that interactive news developers should be a support desk, is counter-productive (pardon the pun). This work is too expensive, in terms of time and resources, to follow the old print graphics desk model. Journalist-developers must be woven into the assigning side of the newsroom and involved in stories from the very beginning, not sitting around waiting to pretty things up at the last minute. At ProPublica, the developers on Scott Klein's news apps team are expected to not only design and build interactives for the web, but also to help with the reporting. They're involved in the entire process, from start to finish.
 
-This is a hard adjustment for newspaper reporters, who are accustomed to having time to figure out what their story is before filing it at the last possible minute. They need to start thinking on a timeline that allows developers to help. We can build on deadline when news demands, but the rest of the time, we shouldn't have to.
+This is a hard adjustment for newspaper reporters, who are accustomed to having time to figure out what their story is before filing it at the last possible minute. They need to think on a timeline that allows developers to help. We can build on deadline when news demands, but the rest of the time, we shouldn't have to.
 
 It took a while for the data team to figure out how to deal with this. We noticed a turning point when we stopped waiting for other desks to pitch ideas on our timetable and began to pursue more of our own projects. Anyone was welcome to join the fun, but we knew if we wanted to get something good done for the 50th anniversary of JFK's assassination in November, for instance, we'd need to start working on it in August. [And it worked](http://data.digitalfirstmedia.com/jfk/).
 <br />
@@ -48,7 +48,7 @@ In the original plan for the newsroom, there was no data team. Thankfully, our e
 
 We also didn't initially think about web design, front-end programming or motion graphics. These were jobs we never had at any of the newspapers I worked at. But without the first two, our data team couldn't have done a single interactive project. Without our awesome motion graphics designer, our presentations for many of our later projects would have been lackluster, at best.
 
-The expertise that this new style of storytelling demands simply doesn't exist in most news organizations. Our job is to develop these skills where we can and to start hiring for them now, and the smart editors will recognize that you're probably not going to find people with these skills by only posting on journalismjobs.com.
+The expertise that this new style of storytelling demands simply doesn't exist in most news organizations. Our job is to develop these skills where we can and to hire for them now, and the smart editors will recognize that you're probably not going to find people with these skills by only posting on journalismjobs.com.
 <br />
 
 ##Herd all the cats
@@ -75,7 +75,7 @@ Most CMSes are designed to prevent the kind of monkeying around that this new ki
 
 Failure is an option. Our data team was willing to try anything new, knowing that even if it bombed spectacularly, we'd walk away with the know-how to make our next project work.
 
-Many of our most successful apps started off as more humble ones. We iterated and used most of what we learned from [the JFK project](http://data.digitalfirstmedia.com/jfk/) on the [Firearms in the Family](http://data.digitalfirstmedia.com/guns/). [Bracket Advisor](http://www.bracketadvisor.com/) was the second or third iteration of a tool we originally created with our sports desk for [the NFL playoffs](http://www.twincities.com/1000/ci_22346309/predict-nfl-playoffs?mobRedir=false).
+Many of our most successful apps began as more humble ones. We iterated and used most of what we learned from [the JFK project](http://data.digitalfirstmedia.com/jfk/) on the [Firearms in the Family](http://data.digitalfirstmedia.com/guns/). [Bracket Advisor](http://www.bracketadvisor.com/) was the second or third iteration of a tool we originally created with our sports desk for [the NFL playoffs](http://www.twincities.com/1000/ci_22346309/predict-nfl-playoffs?mobRedir=false).
 
 At a daily newspaper, looking back at how well a story succeeded was never even considered. To be fair, when you're writing quick stories every day, you learn and adapt much faster. When your projects take weeks, or sometimes months, that learning process has to be more deliberate.
 
@@ -87,9 +87,9 @@ The key to good iteration was in our post-mortem reviews. After each deployment,
 
 If you do good work, other journalists will pay attention. Every project was a learning opportunity for our team, for colleagues at Thunderdome and at our local papers.
 
-A big part of our data team's mission was to evangelize for smart watchdog reporting, strong data analysis and good online presentation. We wanted to share our ideas and to learn from our colleagues. It was gratifying to see others start to pick up on this, whether it was a producer in Thunderdome embracing [DocumentCloud](http://www.documentcloud.org/home) or an editor in Michigan asking for advice on tools for searchable tables and interactive maps.
+A big part of our data team's mission was to evangelize for smart watchdog reporting, strong data analysis and good online presentation. We wanted to share our ideas and to learn from our colleagues. It was gratifying to see others pick up on this, whether it was a producer in Thunderdome embracing [DocumentCloud](http://www.documentcloud.org/home) or an editor in Michigan asking for advice on tools for searchable tables and interactive maps.
 
-When we started, we inherited a small email list of a couple dozen local DFM journalists who were data-curious. By the time Thunderdome shut down, the listserv had grown to about 120 people, from San Jose to New Haven. Newspaper journalists want to learn how to do data analysis and develop for the web. A newsroom that supports them in practicing and mastering those skills will reap the benefits. You just have to start building the culture.
+When we began, we inherited a small email list of a couple dozen local DFM journalists who were data-curious. By the time Thunderdome shut down, the listserv had grown to about 120 people, from San Jose to New Haven. Newspaper journalists want to learn how to do data analysis and develop for the web. A newsroom that supports them in practicing and mastering those skills will reap the benefits. You have to start building that culture.
 <br />
 
 <br />
