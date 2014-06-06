@@ -5,7 +5,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.tommeagher.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.tommeagher.com" />
-<updated>2014-06-05T10:21:11-04:00</updated>
+<updated>2014-06-05T20:36:28-04:00</updated>
 <id>http://www.tommeagher.com/</id>
 <author>
   <name>Tom Meagher</name>
@@ -87,7 +87,7 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;An interactive team must have a space outside of the CMS to experiment and to be able to break shit without bringing down the entire system. At one point at Thunderdome, the local papers in our company had at least four CMSes. Trying to build interactives that would painlessly work in each system was a monstrous task. But without a sandbox of our own to experiment in, it would have been impossible.&lt;/p&gt;
 
-&lt;p&gt;Most CMSes are designed to prevent the kind of monkeying around that this new kind of online storytelling requires. News development teams that do this well all run their own servers, often in the cloud through something like &lt;a href=&quot;http://aws.amazon.com/&quot;&gt;Amazon Web Services&lt;/a&gt;. This give the flexibility to try new tools and to iterate at a speed that most corporate IT departments just can’t adapt to. If you’re starting a team from scratch, the very first thing you have to do is &lt;a href=&quot;http://thescoop.org/archives/2014/05/22/how-it-starts/&quot;&gt;give it the tools it needs to succeed&lt;/a&gt;, and an autonomous development sandbox is at the top of that list.
+&lt;p&gt;Most CMSes are designed to prevent the kind of monkeying around that this new kind of online storytelling requires. News development teams that do this well all run their own servers, often in the cloud through something like &lt;a href=&quot;http://aws.amazon.com/&quot;&gt;Amazon Web Services&lt;/a&gt;. This offers the flexibility to try new tools and to iterate at a speed that most corporate IT departments just can’t adapt to. If you’re starting a team from scratch, the very first thing you have to do is &lt;a href=&quot;http://thescoop.org/archives/2014/05/22/how-it-starts/&quot;&gt;give it the tools it needs to succeed&lt;/a&gt;, and an autonomous development sandbox is at the top of that list.
 &lt;br /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;iteration-leads-to-bigger-successes&quot;&gt;Iteration leads to bigger successes&lt;/h2&gt;
