@@ -5,13 +5,170 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.tommeagher.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.tommeagher.com" />
-<updated>2014-06-05T20:36:28-04:00</updated>
+<updated>2014-07-13T22:02:00-04:00</updated>
 <id>http://www.tommeagher.com/</id>
 <author>
   <name>Tom Meagher</name>
   <uri>http://www.tommeagher.com/</uri>
   <email>hello+site@tommeagher.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[U.S. World Cup Roundup for Source]]></title>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com/blog/2014/07/us-world-cup-roundup.html" />
+  <id>http://www.tommeagher.com/blog/2014/07/us-world-cup-roundup</id>
+  <published>2014-07-03T00:00:00-04:00</published>
+  <updated>2014-07-03T00:00:00-04:00</updated>
+  <author>
+    <name>Tom Meagher</name>
+    <uri>http://www.tommeagher.com</uri>
+    <email>hello+site@tommeagher.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Cross-posted from &lt;a href=&quot;https://source.opennews.org/en-US/articles/word-cup-roundup/&quot;&gt;OpenNews’ Source blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are few newsroom cliches more stale than the one that says “every night is election night on the sports desk.” But if there’s any grain of truth in it, then the World Cup must be a month of election nights.&lt;/p&gt;
+
+&lt;p&gt;For this year’s edition of the World Cup, the analogy holds up a little better, largely because this tournament has been a showcase for some of the best interactive storytelling and data visualization we’ve seen since, well, election night.&lt;/p&gt;
+
+&lt;h3 id=&quot;predictions-and-prognostication&quot;&gt;Predictions and Prognostication&lt;/h3&gt;
+
+&lt;p&gt;FiveThirtyEight brought its statistical models to the World Cup, &lt;a href=&quot;http://fivethirtyeight.com/interactives/world-cup/&quot;&gt;handicapping each team’s chances&lt;/a&gt; of advancing from the initial group stage to the knockout rounds and then deeper into the tournament.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/538.png&quot; alt=&quot;538&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Similarly, the New York Times’ Upshot &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/19/upshot/world-cup-2014-how-teams-can-advance-to-the-next-round.html&quot;&gt;offered odds&lt;/a&gt; on how likely teams were to progress. But what was even more cool about this piece from the Upshot, at least as I watched it during the workday afternoon matches, was that as each group played its final matches, the app offered a live breakdown of the current standings, along with the time left in the game.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&quot;...we at The Upshot have been obsessed with helping you understand the variety of possible outcomes: what teams must do to win their group, advance or, at the very least, spoil the fun for others.&quot;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Whenever a team scored, the app updated within seconds, showing the latest view of who would progress and who wouldn’t. It was a one-stop dashboard for the most pressing question that many fans had: &lt;em&gt;“Right now, will my team make it out of the group stage? And if not, how much time do we have left to try to win?”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/kevinq.png&quot; alt=&quot;The Upshot updating&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In a similar vein, for the United States’ game against Germany, the Upshot used a square pie chart to show the &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/25/upshot/984-ways-the-united-states-can-advance-to-the-next-round-of-the-world-cup.html&quot;&gt;984 possible score combinations&lt;/a&gt; that would determine whether the Yanks would keep going in the tournament. During the game, the app updated in real time, showing the current score along with the possible next scores and whether they would help or hurt the U.S.’s chances.&lt;/p&gt;
+
+&lt;h3 id=&quot;minute-by-minutes&quot;&gt;Minute-by-Minutes&lt;/h3&gt;
+
+&lt;p&gt;Several outlets covered every play in obsessively fine-grained detail.&lt;/p&gt;
+
+&lt;p&gt;The Huffington Post’s &lt;a href=&quot;http://data.huffingtonpost.com/2014/world-cup/matches/brazil-vs-croatia-731767&quot;&gt;live match reports&lt;/a&gt;, powered by a feed from the popular &lt;a href=&quot;http://www.optasports.com/&quot;&gt;Opta sports data vendor&lt;/a&gt; showed the shape of the teams and the location of every shot, along with touches, passing percentage and other stats for every player.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/huffpo.png&quot; alt=&quot;HuffPo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.chartball.com/&quot;&gt;Chartball.com&lt;/a&gt; also used a feed from Opta to craft &lt;a href=&quot;http://graphics.wsj.com/wc-game-recaps/#/?g=731811&quot;&gt;post-game recaps for the Wall Street Journal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/wsj2.png&quot; alt=&quot;WSJ&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A few other apps focused on a single critical play. Leading up to the World Cup, the Wall Street Journal profiled U.S. head coach Jurgen Klinsmann, and as part of the piece, &lt;a href=&quot;http://online.wsj.com/articles/with-his-eye-on-the-world-cup-soccer-coach-jurgen-klinsmann-overhauls-team-usa-1401899734?goTo=wc-goals-intx&quot;&gt;the Journal compared the differing playing styles of several national teams&lt;/a&gt;. The interactive graphic contrasted the straight forward tactics of a country like Portugal (get the ball to Cristiano Ronaldo and let him do his thing) with the elaborate passing of Spain. It’s one thing to read about Spain’s tiki-taka. It’s another altogether to see each of the 42 passes they strung together before scoring against Scotland in a game in 2011.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/wsj3.png&quot; alt=&quot;WSJ&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;extra-time&quot;&gt;Extra Time&lt;/h3&gt;
+
+&lt;p&gt;In the past three weeks, scads of great work has been done on other aspects of the Cup. The Washington Post analyzed whether the U.S. was really being punished &lt;a href=&quot;http://www.washingtonpost.com/wp-srv/special/sports/world-cup-2014/distance-traveled/&quot;&gt;when it drew the worst travel schedule in the tournament&lt;/a&gt;. The Wall Street Journal visualized how the &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/&quot;&gt;best penalty kick takers&lt;/a&gt; on each team in the round of 16 tend to shoot (for more on this project, see &lt;a href=&quot;https://source.opennews.org/en-US/articles/all-about-wsjs-penalty-kick-interactive/&quot;&gt;our chat with WSJ news developer Chris Canipe&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Two apps illustrated how the players on each nation’s team spend most of their professional life playing together &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/20/sports/worldcup/how-world-cup-players-are-connected.html&quot;&gt;on the same club teams&lt;/a&gt; and &lt;a href=&quot;http://www.washingtonpost.com/wp-srv/special/sports/leagues-of-the-world-cup/&quot;&gt;in the same leagues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Before the tournament started, the Guardian collected &lt;a href=&quot;http://www.theguardian.com/football/ng-interactive/2014/may/30/-sp-world-cup-kits&quot;&gt;the good, bad, and ugly jerseys from World Cups past&lt;/a&gt; for the 32 teams who qualified. The Guardian US’s interactive team has been tracking the race for &lt;a href=&quot;http://www.theguardian.com/football/ng-interactive/2014/jun/11/-sp-world-cup-goals-golden-boot-scorers-history&quot;&gt;the Golden Boot&lt;/a&gt;, which goes to the top scorer in the tournament. The app also looks at how often the Golden Boot winner has historically pushed his team to victory in the final.&lt;/p&gt;
+
+&lt;p&gt;The Wall Street Journal took an interesting approach for a static graphic and calculated its own telling metric about the sport. The Journal’s team counted the amount of time each team spent during its group stage games &lt;a href=&quot;http://online.wsj.com/articles/the-world-rankings-of-flopping-1403660175&quot;&gt;theatrically rolling around on the field with mysteriously fast-healing injuries&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While many have done fantastic work so far, the New York Times has released &lt;a href=&quot;http://www.niemanlab.org/2014/06/planning-a-set-piece-how-the-new-york-times-approaches-its-coverage-of-the-world-cup/&quot;&gt;an incredible stream of clever and engaging projects at a rate that is unmatched&lt;/a&gt;. The Times drilled into &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/13/sports/worldcup/world-cup-balls.html&quot;&gt;the history and construction of the iconic balls&lt;/a&gt; used at every World Cup since 1930. It employed animation and sound to tell the story of &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/08/magazine/world-cup-curse-of-maracana.html&quot;&gt;the goalkeeper who made all of Brazil weep in 1950&lt;/a&gt;. It explored &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/19/sports/worldcup/goooooooooooooal.html&quot;&gt;the exuberant commentators’ voices that become inextricably tied to the best gooooooooooooooals&lt;/a&gt;. One of the most fun news games of the year is the Times’ &lt;a href=&quot;http://projects.nytimes.com/interactive/sports/worldcup/spot-the-ball/2014/06/30&quot;&gt;Spot the Ball&lt;/a&gt; in which a user has to try to guess where the ball, which has been digitally erased, should be on a photograph. (Trust me, it’s addictive. You have to try it.)&lt;/p&gt;
+
+&lt;p&gt;With three rounds remaining in the Cup and games resuming on Friday, we can only hope that there will be even more great visualization work coming in the next couple of weeks.&lt;/p&gt;
+
+&lt;p&gt; &lt;br /&gt;
+&lt;em&gt;Did I miss one of your favorite interactive visualizations or World Cup apps? &lt;a href=&quot;http://www.twitter.com/ultracasual&quot;&gt;Tweet at me&lt;/a&gt; or share it in the comments.&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2014/07/us-world-cup-roundup.html&quot;&gt;U.S. World Cup Roundup for Source&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on July 03, 2014.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[All about the WSJ's penalty kicks interactive]]></title>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com/blog/2014/07/all-about-wsjs-penalty-kick-interactive.html" />
+  <id>http://www.tommeagher.com/blog/2014/07/all-about-wsjs-penalty-kick-interactive</id>
+  <published>2014-07-03T00:00:00-04:00</published>
+  <updated>2014-07-03T00:00:00-04:00</updated>
+  <author>
+    <name>Tom Meagher</name>
+    <uri>http://www.tommeagher.com</uri>
+    <email>hello+site@tommeagher.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Cross-posted from &lt;a href=&quot;https://source.opennews.org/en-US/articles/all-about-wsjs-penalty-kick-interactive/&quot;&gt;Open News’ Source blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;In the days before the World Cup’s knockout stages, with their potential for games to end in shootout finishes, The Wall Street Journal unveiled an app that visualized the tendencies of the top &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/&quot;&gt;penalty kicks takers&lt;/a&gt; on the teams advancing in the tournament. &lt;a href=&quot;https://twitter.com/ccanipe&quot;&gt;Chris Canipe&lt;/a&gt;, senior news apps developer on the Wall Street Journal’s interactive graphics desk, talked with me about the thinking behind the project and how he and his colleagues put it together. What follows are edited excerpts from our conversation.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-concept&quot;&gt;The Concept&lt;/h3&gt;
+
+&lt;p&gt;The World Cup [interactive coverage] working so well has been completely a product of working with great reporters, who knew what they wanted to do and had great ideas. That makes all the difference. Geoff Foster is one of our main sports guys, and Matthew Futterman, &lt;a href=&quot;http://online.wsj.com/articles/with-his-eye-on-the-world-cup-soccer-coach-jurgen-klinsmann-overhauls-team-usa-1401899734&quot;&gt;who wrote the Klinsmann profile&lt;/a&gt;, wanted to focus on penalty kicks. Geoff Foster had done &lt;a href=&quot;http://online.wsj.com/article/6BE4CA76-48F1-4519-8A12-8E5683D8CAAD.html#!6BE4CA76-48F1-4519-8A12-8E5683D8CAAD&quot;&gt;a video about saving penalty kicks&lt;/a&gt; where he went to the Red Bulls’ practice facility and talked to a goalkeeper about them.&lt;/p&gt;
+
+&lt;p&gt;Penalty kick success rates are very high. It’s almost paper, rock, scissors. You go right, you go left or you go middle.
+But very rarely people go middle. (Freakonomics &lt;a href=&quot;http://freakonomics.com/2010/06/14/what-to-do-with-your-penalty-kick/&quot;&gt;looked at this phenomenon&lt;/a&gt; in the run-up to the World Cup in South Africa, four years ago.)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/pk2.png&quot; alt=&quot;Penalty kicks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Overall success rates are about 78 percent. If you kick to the middle, that goes up 7 percent, because a goalie, they are diving to the left or diving to the right–they don’t have time to think about it.&lt;/p&gt;
+
+&lt;p&gt;I’m a baseball guy. [This penalty kick analysis is similar to] the idea of where to place fielders based on a hitter’s spray pattern.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-data&quot;&gt;The Data&lt;/h3&gt;
+
+&lt;p&gt;We have a pretty good data provider we work with called &lt;a href=&quot;http://www.optasports.com/&quot;&gt;Opta&lt;/a&gt;. They’re particularly good with soccer data. They gave us all kinds of stuff. Included in the game event summaries, they had X- Y- and Z- coordinates for penalty kicks. We were really impressed with the level of detail.&lt;/p&gt;
+
+&lt;p&gt;It was really easy to put in a request, “Here’s a list of players, can we get every penalty kick that they’ve ever taken?”&lt;/p&gt;
+
+&lt;p&gt;There were some limitations with the data set. Not everybody has a significant body of penalty kicks in their career. (Opta also doesn’t have comprehensive data for players on club teams outside the highest echelons, making it harder to get stats for someone who plays in the Iranian league, for instance).&lt;/p&gt;
+
+&lt;p&gt;We kind of wanted to do this at the beginning [of the tournament], but the more we played with the data, the more we sketched it out, we saw it would work better with a smaller number of teams.&lt;/p&gt;
+
+&lt;p&gt;[We settled on] two players for each team in the round of 16, but still we have a bunch of the guys in the set who only have one kick. Algeria, we only had one player [with data]. We were hoping for Russia to beat Algeria (to advance out of the group stage) because we had two guys for Russia.&lt;/p&gt;
+
+&lt;p&gt;This doesn’t comes as XML or JSON; this comes as a spreadsheet. You get the matchup, the date… X is length of the pitch, Y is the length of the goal side of the field, Z is up and down. [For a goal, you get the] end-Y and end-Z position, and end result or outcome. It’s either a goal, or it’s saved, or it hit the posts or it’s a miss.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/gameday.jpg&quot; alt=&quot;pitch-by-pitch&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As a baseball fan, I think of &lt;a href=&quot;http://mlb.mlb.com/mlb/gameday/index.jsp?gid=2014_07_02_phimlb_miamlb_1#gid=2014_07_02_colmlb_wasmlb_1&amp;amp;mode=gameday&quot;&gt;MLB’s pitch-by-pitch Gameday view&lt;/a&gt;.
+I always figured that part of [the data collection] was some computer recording the position. But it’s these data vendors [like Opta]. They employ rooms full of people who are watching every event of the game and coding it. That’s really interesting.&lt;/p&gt;
+
+&lt;p&gt;We ran into an issue initially where we had Y-positions that were reversed on the field, because Opta had not corrected–we caught it–which side of the field kicks were being taken from.&lt;/p&gt;
+
+&lt;p&gt;To catch problems in the data, you go and watch lots of videos and make sure everything is lining up. You find as many of these on YouTube as you can, so you have confidence all of them are correct.&lt;/p&gt;
+
+&lt;p&gt;When we got the [corrected] data back [from Opta], we watched maybe 10 kicks, random spot checks. It’s hard to find video of these. You have a shaky cell phone view of people watching on TV.&lt;/p&gt;
+
+&lt;p&gt;You’re working with data that is hand-coded, so any time you’re working with a vendor like this, you’re taking a little bit of a risk. There’s a lot of room for human error in something like this.&lt;/p&gt;
+
+&lt;p&gt;Design&lt;/p&gt;
+
+&lt;p&gt;The actual work itself, it was not hard to put together. The hard part was narrowing down and coming up with what we wanted to say with it.&lt;/p&gt;
+
+&lt;p&gt;It worked really well as a small multiples piece, because you get to compare all of these guys together, especially if they have a large enough sample size, like &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/#/?sel=19054&quot;&gt;Messi&lt;/a&gt;, &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/#/?sel=53645&quot;&gt;Hulk&lt;/a&gt;, &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/#/?sel=40720&quot;&gt;Cavani&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It’s built with D3. The &lt;a href=&quot;http://www.propublica.org/nerds/item/design-principles-for-news-apps-graphics&quot;&gt;small multiples&lt;/a&gt; approach was sort of obvious from the beginning. Part of the reasoning is that it reflows so easily for mobile. Small multiples rule.&lt;/p&gt;
+
+&lt;p&gt;You want to see guys side-by-side. Do guys spread out their kicks? How many guys actually do go to the middle? Most guys go left or right.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/pk1.png&quot; alt=&quot;PKs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s that filter in the top, “Trends Left” or “Trends Right.” Nobody trends to the middle, except for the guys who had two kicks in their set.&lt;/p&gt;
+
+&lt;p&gt;After launch, &lt;a href=&quot;http://graphics.wsj.com/wc-game-recaps/#/?g=731815&quot;&gt;that first game&lt;/a&gt;, was a shootout. It almost made us seem prescient. I was sitting at home, watching that game. The Journal main desk tweeted it out. We got a ton of traffic right at that moment. In that first game, you could see penalty kick patterns for &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/#/?sel=42565&quot;&gt;Vidal&lt;/a&gt; and Hulk.&lt;/p&gt;
+
+&lt;p&gt;This is definitely not a case where it goes up, and the traffic dies off immediately. All of our stuff, I’m really surprised how much social traffic things are getting.&lt;/p&gt;
+
+&lt;p&gt;This is the beauty of the World Cup stuff. It has this sort of long life.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://graphics.wsj.com/wc-penalty-kicks/images/goal.png&quot; alt=&quot;An open net&quot; /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2014/07/all-about-wsjs-penalty-kick-interactive.html&quot;&gt;All about the WSJ's penalty kicks interactive&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on July 03, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -1423,181 +1580,6 @@ News on Aug. 14, 2004.&lt;/em&gt;&lt;/p&gt;
 
 
   &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2010/10/story-tips-short-and-long.html&quot;&gt;Story Tips Short And Long&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on October 06, 2010.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Documents every gov't reporter needs]]></title>
-  <link rel="alternate" type="text/html" href="http://www.tommeagher.com/blog/2010/10/documents-every-reporter-needs.html" />
-  <id>http://www.tommeagher.com/blog/2010/10/documents-every-reporter-needs</id>
-  <published>2010-10-05T00:00:00-04:00</published>
-  <updated>2010-10-05T00:00:00-04:00</updated>
-  <author>
-    <name>Tom Meagher</name>
-    <uri>http://www.tommeagher.com</uri>
-    <email>hello+site@tommeagher.com</email>
-  </author>
-  <content type="html">&lt;p&gt;The way to keep your politicians honest, or even better to prove when
-they’re being dishonest, is to have the right paper (and electronic)
-documents. As you approach your beat, and learn it inside and out, try
-to compile as many of these documents and statistics as you can. Keep
-them on hand. They will prove to be immensely useful countless times in
-the future.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Personnel list and payrolls&lt;/strong&gt; - You need to get this in an electronic file. I don’t care if they tell you they only keep it in cuneiform. Make them show it to you. Ask them to see the screen. Ask for the column headings. OPRA it, and OPRA it again. You need this in an electronic form, preferably in an “ASCII text, delimited file, burned to a CD”. Any software should be able to save this to a text file relatively easily. Paterson and Passaic County, N.J. do this at a cost of $10 for the disc. Browbeat your town with that and make them do it too. You need from their personnel list, each and every employee’s first and last names, city of residence, date of hire, title, department, salary, overtime and total compensation. Get this every six months. You can and will use it again and again.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Property list&lt;/strong&gt; - You get this from your town’s tax assessor’s office. Pretty much everything in the rant for #1 applies here. This is a vital resource in covering a beat. Get it in an electronic format. Make sure you ask in your OPRA request for the list of every and all properties in the town, including the property’s address, block and lot number, owner’s name, owner’s address, size, zoning classification, assessed value of the land, assessed value of improvements and total assessed value.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Vendor lists&lt;/strong&gt; - This is another great thing to have. It shows every person who did business with the city (or got paid or reimbursed in anyway). You want to get this list for each of the last five years. It should have the city-issued vendor number, vendor name, and address; and the voucher number, check number, amount and date of each payment that vendor received.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Campaign contributions&lt;/strong&gt; - How do you know who the power players (and the wannabes) are in your town if you don’t know who’s giving money to the elected officials? You want to spend a good amount of time familiarizing yourself with the &lt;a href=&quot;http://www.elec.state.nj.us/&quot;&gt;NJ Election Law Enforcement Commission’s&lt;/a&gt; website, ELEC. Once you get used to reading the PDF files of the paper reports, then you can start to database them and really dig into it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lists of boards and committees&lt;/strong&gt; - This is something the town ought to have. You need to know the names of all of the appointed and elected officials on every board in town. If the town doesn’t keep this list, then you need to make it. Learn their names and phone numbers and call them.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;List of car and cell phone assignments&lt;/strong&gt; - Every town keeps a list of its cars and cell phones (if it doesn’t, that’s a good story). Get this with an OPRA request and see who has a car or a phone and how they use them.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Internal phone directories&lt;/strong&gt; - You don’t want the phone directory that the city publicizes for residents. You have to plead and cajole the city to get the listing for every extension in town. The clerk or main phone operator often has this. Beg for them for a copy.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tax delinquents&lt;/strong&gt; - At least once a year, the tax collector compiles a list of all the unpaid taxes in town. Ask her to give you the names (and amounts owed) of the 10 or 20 biggest delinquents.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Financial disclosure reports&lt;/strong&gt; - Every April 30, every elected official and department head in the state must file a &lt;a href=&quot;http://www.state.nj.us/dca/lgs/ethics/ethcmenu.shtml&quot;&gt;financial disclosure form&lt;/a&gt; with the state’s Department of Community Affairs’ Local Government Services division. Generally the municipal clerk will handle the collection of the forms to forward to the state. These contain information about properties owned, other employment, spouses and business interests.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Demographics&lt;/strong&gt; - You need to know the basic demographic profile of your towns. For more in-depth statistics, visit the U.S. Census’ &lt;a href=&quot;http://factfinder2.census.gov/&quot;&gt;American Factfinder&lt;/a&gt; or Fannie Mae’s &lt;a href=&quot;http://www.dataplace.org/&quot;&gt;Dataplace&lt;/a&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Budgets&lt;/strong&gt; - Try your best to get this in the electronic format in which the towns fill this out. If you can’t, at least get copies of the adopted budgets for the last five years. Familiarize yourself with what your town is spending money on and how expenses change over time.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Brownfields list&lt;/strong&gt; - The state’s Department of Environmental Protection maintains lists of all the polluted brownfields sites statewide. This list will help you figure out what companies left a mess behind and what lots local leaders might try to hawk to developers at a cut rate.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Tax-exempt organizations&lt;/strong&gt; - By looking at the IRS’s “&lt;a href=&quot;http://www.irs.gov/taxstats/charitablestats/article/0,,id=97186,00.html&quot;&gt;Master File&lt;/a&gt;” of tax-exempt groups, you can see what organizations have legitimate 501C-3 charity status. If you have a group calling itself non-profit in your community, it should probably be on this list (unless it’s brand new and still getting it’s paperwork filed). This list also includes great data on how much money charities are raising. It will point you toward which groups file &lt;a href=&quot;http://www.guidestar.org/&quot;&gt;990 tax forms&lt;/a&gt; that you can look to for more information.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Audits&lt;/strong&gt; - Every year, your town must have its financial records audited by an outside agency. Get a copy of the volumnious reports the auditor files.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Requests For Proposals&lt;/strong&gt; - Any time a city wants to spend a lot of money or something, buy something or put land up for development, it issues an RFP. Then a group of potential bidders, contractors or developers will submit their proposals in response to the city’s needs. You want to go through the RFPs your town issues each years. This is usually handled by different people depending on the city agency who wants the work done. You can OPRA a list of the RFPs from the custodian of records. For ones that catch your eye, OPRA the actual RFP, the list of those who picked up a copy from the city, any addenda and each and every response.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Biggest employers&lt;/strong&gt; - The county’s office of economic development keeps a list of the top hundred employers in the county. Your town should also have such a list. Look for correlations between the big employers and the big campaign donors.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Crime data&lt;/strong&gt; - Visit the &lt;a href=&quot;http://bjsdata.ojp.usdoj.gov/dataonline/&quot;&gt;Bureau of Justice Statistics&lt;/a&gt; site to look for the crime stats for your town. Every jurisdiction in the country is required to file a Uniform Crime Report each year to the state and federal governments. The problem with the data is that it is self-reported. So police departments could distort their crime problem by mis-reporting it. Still, it’s one of the best sources you have for this information.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Voting records&lt;/strong&gt; - The county’s &lt;a href=&quot;http://www.passaiccountynj.org/Departments/window-elections.htm&quot;&gt;Superintendent of Elections&lt;/a&gt; can give you much of what you need. You want to get the number of registered voters, by party and by district, ward or polling place. Then you want to get the election results by district, ward or polling place for the last five elections. You can compare these registrations and results to the demographics of those neighborhoods where the polling places are. Finally, get the addresses of each of the polling places in your town. Your municipal clerk may also have this information.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lawsuits&lt;/strong&gt; - You need to know the nature and status of all lawsuits in which your towns are involved. Start by first looking for federal suits at &lt;a href=&quot;https://pacer.login.uscourts.gov/cgi-bin/login.pl?court_id=00idx&quot;&gt;PACER&lt;/a&gt;. Search all suits, and in the party name enter “City of Paterson” or whatever town you cover. Then go to the &lt;a href=&quot;http://www.judiciary.state.nj.us/passaic/index.htm&quot;&gt;Superior Court&lt;/a&gt; and look for state cases.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lawyers&lt;/strong&gt; - Compile a list of all the lawyers who work for and with your towns. Also keep track of other major lawyers in the area. The &lt;a href=&quot;http://www.passaicbar.org/pcba_membership_directory.html&quot;&gt;County Bar Association&lt;/a&gt; is a good place to start.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Annual reports&lt;/strong&gt; - Many towns file annual reports. This may be done by individual agencies and submitted to the city manager, or it may be condensed in a State of the City address given by the mayor. Find out how your town keeps these reports and get copies of them.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Purchasing rules&lt;/strong&gt; - Start by going to the purchasing agent and finding out how your city puts contracts up for bid. There is a statuatory threshhold below which a town may give contracts without having to put it up to public bidding. Ask your town how it does it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Grants&lt;/strong&gt; - This is often summarized in the city budget as state or federal revenue. Your city must apply for each and every one of these grants before receiving them. OPRA the grant applications. They are chock full of background information that can prove useful.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Capital Improvements&lt;/strong&gt; - What projects are your city spending a lot of money on? Keep an eye on these.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Master plan&lt;/strong&gt; - This plan will govern zoning and development in your municipalities. Get a copy and check to see that the development that’s actually happening is following this plan.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Federal programs&lt;/strong&gt; - What federal agencies are spending money on programs in your town? A visit to the &lt;a href=&quot;http://www.gao.gov/&quot;&gt;Government Accountability Office&lt;/a&gt;’s web site at www.gao.gov can help you find who’s spending money locally.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;OPRA&lt;/strong&gt; - Learn what documents the Open Public Records Act allows you to get, and use it.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;OPMA&lt;/strong&gt; - Similarly, learn how the state’s &lt;a href=&quot;http://www.njstatelib.org/LDB/Library_Law/lwopnmtg.php&quot;&gt;Open Public Meetings Act&lt;/a&gt; works and how you can ensure access to public meetings. This can help you know when your town is breaking the law by closing meetings.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Reporter’s privilege&lt;/strong&gt; - The &lt;a href=&quot;http://www.rcfp.org/cgi-bin/privilege/contents.cgi?st=NJ&amp;amp;t=frame&quot;&gt;reporter’s privilege&lt;/a&gt; protects you from having to disclose information you’ve learned in the course of your news gathering.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Lobbyist data&lt;/strong&gt; - ELEC also compiles required lobbyist disclosure reports. See what firms that work with your city are lobbying in New Jersey and what issues they’re spending money on.&lt;/li&gt;
-&lt;/ol&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2010/10/documents-every-reporter-needs.html&quot;&gt;Documents every gov't reporter needs&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on October 05, 2010.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Advice on covering budgets for local reporters]]></title>
-  <link rel="alternate" type="text/html" href="http://www.tommeagher.com/blog/2010/09/budget-advice-for-local-reporters.html" />
-  <id>http://www.tommeagher.com/blog/2010/09/budget-advice-for-local-reporters</id>
-  <published>2010-09-30T00:00:00-04:00</published>
-  <updated>2010-09-30T00:00:00-04:00</updated>
-  <author>
-    <name>Tom Meagher</name>
-    <uri>http://www.tommeagher.com</uri>
-    <email>hello+site@tommeagher.com</email>
-  </author>
-  <content type="html">&lt;p&gt;These notes on how to cover municipal finance and budgeting were compiled from several discussions over the years with The Record&amp;#8217;s Passaic County bureau editor Claude Deltieure. He is very knowledgeable about local and school budgets in New Jersey and has been incredibly generous with his time.&lt;/p&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;
-Budgets are made up of two main sections, revenues (income) and appropriations (spending). In an ideal world, these two would match up.&lt;/p&gt;
-
-&lt;table border=&quot;0&quot;&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;&lt;strong&gt;Revenues&lt;/strong&gt;&lt;br /&gt;
-Property taxes&lt;br /&gt;
-State &amp;amp; Federal aid (fluctuates and may not come)&lt;br /&gt;
-Miscellaneous revenues (fees, licenses, court costs)&lt;br /&gt;
-Surplus (carried over from last year)&lt;/td&gt;
-&lt;td&gt;&lt;strong&gt;Appropriations&lt;/strong&gt;&lt;br /&gt;
-Current expenses (salaries and other expenses)&lt;br /&gt;
-Capital outlay (big ticket repairs)&lt;br /&gt;
-Debt service (payment on municipal loans)&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;As Claude is fond of saying, municipal finance in New Jersey is &amp;#8220;built for idiots.&amp;#8221; You have to &amp;#8220;appropriate&amp;#8221; the public dollar to use it for a specific purpose. The governing body must vote to do this to pay any and all bills. Capital outlay is defined as durable goods that last more than three years.&lt;/p&gt;
-
-&lt;p&gt;Your job, as a reporter, is to give readers an idea of how their taxes are going to go up and explain why.&lt;/p&gt;
-
-&lt;p&gt;The total property tax bill is made up of several components:&lt;/p&gt;
-&lt;ul&gt;&lt;li&gt;municipal services&lt;/li&gt;
-&lt;li&gt;schools&lt;/li&gt;
-&lt;li&gt;county&lt;/li&gt;
-&lt;li&gt;open space tax&lt;/li&gt;
-&lt;li&gt;regional district tax&lt;/li&gt;
-&lt;li&gt;fire&lt;/li&gt;
-&lt;li&gt;garbage&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;http://www.state.nj.us/dca/divisions/dlgs/programs/losap_docs/about_losap.pdf&quot; target=&quot;_blank&quot;&gt;Length of service award program&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;
-
-&lt;p&gt;The Length of Service annuity is meant to help support volunteer firefighters and ambulance corps. Each town will pay for a volunteer&amp;#8217;s equipment, and this money must cover that. One-penny on the tax rate goes to the annuities to be paid to a volunteer upon retirement.&lt;/p&gt;
-
-&lt;p&gt;New Jersey also ran out of landfill space 20 years ago, so it must pay astronomical amounts to handle its garbage.&lt;/p&gt;
-
-&lt;p&gt;Regional districts are shared and provide rural schools that cover several towns. The towns that &amp;#8220;send&amp;#8221; their students to school in another town must pay for those services.&lt;/p&gt;
-
-&lt;p&gt;You have to tell your readers that the municipal services tax is going up, not just that taxes as a whole are rising.&lt;/p&gt;
-
-&lt;p&gt;The state overseer of all issues regarding local finance is the &lt;a href=&quot;http://www.state.nj.us/dca/divisions/dlgs/&quot; target=&quot;_blank&quot;&gt;Division of Local Government Services&lt;/a&gt; under the &lt;a href=&quot;http://www.state.nj.us/dca/&quot; target=&quot;_new&quot;&gt;Department of Community Affairs&lt;/a&gt;. In many ways, it functions like a state version of the &lt;a href=&quot;http://www.gao.gov/&quot; target=&quot;_new&quot;&gt;GAO&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The LGS reviews every municipal budget and must approve it.&lt;/p&gt;
-
-&lt;p&gt;The council does not &amp;#8220;pass&amp;#8221; a budget. It first &amp;#8220;introduces&amp;#8221; it to the town&amp;#8217;s residents. Once the council introduces a budget, you as a reporter must be allowed to get a copy. They cannot give you a summary version. The council will then go on to &amp;#8220;adopt&amp;#8221; the budget. A governing body in New Jersey must have a two-thirds majority to pass a spending matter.&lt;/p&gt;
-
-&lt;h3&gt;&lt;strong&gt;The impact in dollars and sense&lt;/strong&gt;&lt;/h3&gt;
-
-&lt;p&gt;The amount of your property taxes is based on the value of one-penny per $100 of the taxable value of your property. Each town hires an independent assessment firm every few years to perform a &amp;#8220;revaluation&amp;#8221; of its properties. On that, it bases its property tax assessments.&lt;/p&gt;
-
-&lt;p&gt;The tax rate is based on how much money your town collected last year. If you only collected 95 percent of the taxes last year, you can collect 105 percent this year.&lt;/p&gt;
-
-&lt;p&gt;That extra 5 percent, if you can collect it, is set aside as a &amp;#8220;reserve for uncollected taxes&amp;#8221;. If this year you collect 98 percent of your taxes, that extra 2 percent goes into your surplus and reserve. The reserve is anything you didn&amp;#8217;t spend last year.&lt;/p&gt;
-
-&lt;p&gt;The surplus in the current budget comes out of last year&amp;#8217;s reserve. Towns will often underestimate their expected tax collection rate, or overestimate their appropriations so that at the end of the fiscal year, they will have money left over to build their surplus. A surplus should be between 3 and 5 percent of the total budget. You need to be able to communicate to your readers this pull-and-tug of making the revenues and appropriations match up.&lt;/p&gt;
-
-&lt;p&gt;You need to know how many tax dollars come into your town if you collect one penny per $100 of assessed valuation.&lt;/p&gt;
-
-&lt;p&gt;First, call your town&amp;#8217;s tax assessor and ask for the total valuation of your town. You can also find it on the LGS&amp;#8217; Web site &lt;a href=&quot;http://www.state.nj.us/dca/divisions/dlgs/resources/property_tax.html&quot; target=&quot;_new&quot;&gt;here&lt;/a&gt;. If the total value of your town is $3 billion, one tax point will raise $300,000. So for every $300,000 in spending the city plans, it will levy one point in taxes.&lt;/p&gt;
-
-&lt;p&gt;To apply that to the average reader, multiply the tax-point times the average assessed value of a property in your town. Again, you can find this out from your tax assessor (who really should become your best friend), or from the LGS.&lt;/p&gt;
-
-&lt;p&gt;So if the average property in your town is worth $100,000, and your council wants to buy a $1.2 million jet for the mayor, how much will that cost your average taxpayer?&lt;/p&gt;
-
-&lt;p&gt;To find the average tax rate for each person: Divide $100,000 by $100 and then by 100 pennies. That gives you $10. So for each tax point that the town raises its taxes, the average homeowner will pay $10 more. If the municipality pays for the entire $1.2 million jet, that will cost 4 tax points ($1.2 million divided by $300,000 per tax point). That will cost your average taxpayer $40 more each year (4 tax points times $10 per point for the average home).&lt;/p&gt;
-
-&lt;p&gt;Figuring this out can help you paint spending decisions in a way readers can grasp. You should have these base figures&amp;#8211;the total valuation, the tax point and the average value of a home&amp;#8211;handy for each of your towns.&lt;/p&gt;
-
-&lt;p&gt;School districts also receive state aid based on a formula. The state expects each district to pay $10,000 each year to educate each student. The state looks at the average income and property values of each town to see how much it can afford of that $10,000 per student. If it doesn&amp;#8217;t have the money, the state will pay for the essentials. But arts and other programs, such as music, can not receive this &amp;#8220;state equalization aid&amp;#8221; from Trenton.&lt;/p&gt;
-
-&lt;p&gt;These budgets can be very confusing, but as a reporter, you need to learn as much as you can about how they work. You must be able to talk shop with elected officials about the budgets to be able to detect attempts at slipping items through without the public&amp;#8217;s notice.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h3&gt;Additional notes from Tom&lt;/h3&gt;
-&lt;p&gt;When we&amp;#8217;re writing budget stories, local officials often omit key numbers that every reader wants to know. To help ensure that you don&amp;#8217;t forget to press them to fill in the blanks, here&amp;#8217;s a handy checklist of the key figures you need to ask for. Every budget story must include this graf:&lt;/p&gt;
-&lt;blockquote&gt;&lt;p&gt;&lt;em&gt;Under the adopted (proposed) 2010 budget, the owner of a home assessed at the borough average of $65,000 will pay $2,395 in municipal (school/county) taxes, a rise of $99.70 from last year or 4.4 percent.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Remember:&lt;br /&gt;
-&lt;ol&gt;
-&lt;li&gt;The fiscal year&lt;/li&gt;
-&lt;li&gt;The average home assessment&lt;/li&gt;
-&lt;li&gt;The total amount of that average municipal/school/county tax bill&lt;/li&gt;
-&lt;li&gt;The total dollar increase in the average tax bill&lt;/li&gt;
-&lt;li&gt;The percent increase in the average tax bill&lt;/li&gt;&lt;/ol&gt;
-&lt;hr /&gt;
-
-&lt;h3&gt;&lt;strong&gt;Additional Tipsheets&lt;/strong&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;/files/tips/journguide.pdf&quot; target=&quot;_new&quot;&gt;Guide to NJ budgets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/tips/claude.pdf&quot; target=&quot;_new&quot;&gt;Budget primer&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/tips/budgworksheet.pdf&quot; target=&quot;_new&quot;&gt;Great worksheet&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/tips/budwksht.xls&quot;&gt;Spreadsheet version&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/tips/rutgers.pdf&quot; target=&quot;_new&quot;&gt;Rutgers&amp;#8217; intro to budgeting&lt;br /&gt;
-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/tips/budtips.pdf&quot; target=&quot;_new&quot;&gt;More tips from Claude&lt;br /&gt;
-&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;/files/tips/20budtips.doc&quot;&gt;20 more tips from IRE&lt;br /&gt;
-&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;-
-&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2010/09/budget-advice-for-local-reporters.html&quot;&gt;Advice on covering budgets for local reporters&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on September 30, 2010.&lt;/p&gt;</content>
 </entry>
 
 </feed>
