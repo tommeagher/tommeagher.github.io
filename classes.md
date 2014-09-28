@@ -23,3 +23,4 @@ image:
 * [Version control with Github](/blog/2013/03/learning-to-commit-to-version-control.html)
 * [DocumentCloud](http://bit.ly/dfmdoccloud)
 * [Python mini boot camp](http://www.github.com/tommeagher/pycar14)
+* Digital security and encryption for the newsroom
