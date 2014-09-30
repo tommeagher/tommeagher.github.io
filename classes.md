@@ -19,8 +19,8 @@ image:
 * [Cleaning dirty data with OpenRefine](/blog/2013/02/more-tips-for-using-openrefine.html)
 * Mapping with Arcview
 * [Interactive maps with Fusion Tables](/blog/2012/12/talking-data-in-the-nutmeg-state.html)
-* [Resources for learning data journalism](/blog/2013/04/diving-into-data-with-spj.html)
-* [Version control with Github](/blog/2013/03/learning-to-commit-to-version-control.html)
+* [Resources for learning data journalism](/blog/2013/04/diving-in-to-data-with-spj.html)
+* [Version control with Github](/blog/2013/02/learning-to-commit-to-version-control.html)
 * [DocumentCloud](http://bit.ly/dfmdoccloud)
 * [Python mini boot camp](http://www.github.com/tommeagher/pycar14)
 * Digital security and encryption for the newsroom
