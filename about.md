@@ -22,5 +22,7 @@ If you'd like to talk, my email address is _hello_ at _the_domain_name_of_this_s
 
 If you want to email me securely, you can download [my PGP public key](files/tmeagher.asc). The short ID is ```9dab58d8``` and the fingerprint is ```BAEF EF88 07C9 C5B4 DF79 EF36 CB0B DD46 9DAB 58D8```.
 
+I'm also available for [OTR instant messaging](https://otr.cypherpunks.ca/) at ultracasual@jabber.ccc.de.
+
 ---
 Not too long ago, this site migrated from a previous version. If you see anything weird, please help me out by filing [a bug report](https://github.com/tommeagher/tommeagher.github.io/issues) on Github.

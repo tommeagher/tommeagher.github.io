@@ -151,19 +151,19 @@
 
 <p>The first thing you want to know is</p>
 
-<div class="highlight"><pre><code class="html">git status</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">git status</code></pre></div>
 
 <p>This will orient you to where you are, what files have changed and whether you’ve saved your snapshot of your project (which we’ll soon start calling a “commit”). This is your friend.</p>
 
 <p>Where you work and where you edit your code is the working directory. When you’re ready to take a snapshot of your code, you “add” your file to the staging area.</p>
 
-<div class="highlight"><pre><code class="html">git add foo.py</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">git add foo.py</code></pre></div>
 
 <p><img src="http://codingdomain.com/git/partial-commits/git-staging-area.png" alt="" /></p>
 
 <p>After you’ve made all the changes you want, and you’ve “added” all of your updated files to the staging area, it’s time to make a commit. And with each commit, you want to add a short message describing what the changes are.</p>
 
-<div class="highlight"><pre><code class="html">git commit -m &quot;finally debugged my own idiocy. maybe...&quot;</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">git commit -m &quot;finally debugged my own idiocy. maybe...&quot;</code></pre></div>
 
 <p>Now all of your updates are saved in your file respository, and if you want to, you can your snapshot is made. You could very easily stop here and just keep the audit trail on your machine. But the other half of this happy marriage is <a href="http://www.github.com">Github</a>.</p>
 
@@ -177,11 +177,11 @@
 
 <p>Here’s how you do it: </p>
 
-<div class="highlight"><pre><code class="html">git push -u origin master</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">git push -u origin master</code></pre></div>
 
 <p>You “push” your code from the “master” branch that’s on your machine to your remote repository on Github, which we call “origin.” (This may have already been configured for you if you cloned your repo from github. Otherwise, you would have to </p>
 
-<div class="highlight"><pre><code class="html">git remote add origin git@github.com:tommeagher/myrepo.git</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">git remote add origin git@github.com:tommeagher/myrepo.git</code></pre></div>
 
 <p>)</p>
 
@@ -191,11 +191,11 @@
 
 <p>You can use</p>
 
-<div class="highlight"><pre><code class="html">git fetch origin</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">git fetch origin</code></pre></div>
 
 <p>to gather the updated files from your remote “origin” repository. Now you want to “merge” the changes from the master branch on your remote “origin” repository into your master branch on your machine.</p>
 
-<div class="highlight"><pre><code class="html">git merge origin/master</code></pre></div>
+<div class="highlight"><pre><code class="language-html" data-lang="html">git merge origin/master</code></pre></div>
 
 <p>Now your files are updated from the remote repository. Now keep coding.</p>
 
