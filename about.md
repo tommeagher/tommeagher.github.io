@@ -11,9 +11,9 @@ image:
 #  creditlink: http://www.flickr.com/photos/49968232@N00
 ---
 
-An investigative journalist and news hacker, I'm the data editor at [The Marshall Project](http://www.themarshallproject.org/), a nonprofit, non-partisan news organization covering crime and justice in America.
+A journalist and news hacker, I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, non-partisan news organization covering crime and justice in America.
 
-I specialize in several aspects of investigative and interactive journalism, including data analysis, Freedom of Information requests, computer-assisted reporting, editing, visualization, interactive graphics and news applications.
+I specialize in investigative and interactive journalism, including data analysis, Freedom of Information requests, computer-assisted reporting, visualization, interactive graphics and news applications.
 
 I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers dedicated to working together to improve the news.
 
@@ -25,4 +25,4 @@ If you'd like to email me securely (and I encourage you to do so), you can downl
 For [OTR instant messaging](https://otr.cypherpunks.ca/), you can find me at ultracasual@jabber.ccc.de.
 
 ---
-Not too long ago, this site migrated from a previous version. If you see anything weird, please help me out by filing [a bug report](https://github.com/tommeagher/tommeagher.github.io/issues) on Github.
+If you see any typos, broken links or other weirdness on the site, please help me out by filing [a bug report](https://github.com/tommeagher/tommeagher.github.io/issues) on Github.
