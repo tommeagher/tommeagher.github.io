@@ -25,6 +25,7 @@ image:
 * [Python mini boot camp](http://www.github.com/ireapps/pycar)
 * Digital security and encryption for the newsroom
 * Python for data analysis [class](https://tswicegood.github.io/python-data-science-intro/) and [exercise notebook](http://nbviewer.ipython.org/github/tswicegood/python-data-science-intro/blob/gh-pages/Python%20for%20Data%20Analysis%20at%20NICAR15.ipynb)
+* Introduction to [coding in the newsroom with Python](http://www.tommeagher.com/pythonIRE15)
 
 I've trained hundreds of journalists and students over the years, and I've spoken about reporting and data analysis at many conferences, including:
 
@@ -39,6 +40,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [NJ Open Data Summit](http://www.hackjersey.com/event/open-data-nj/), 2014
 * [Hack Jersey 2.0 hackathon](http://www.hackjersey.com/2015/03/hack-jersey-2-0-is-officially-underway/)
 * [NICAR 2015](http://ire.org/conferences/nicar2015/) in Atlanta, Ga.
+* [IRE 2015](http://ire.org/conferences/ire-2015/) in Philadelphia, Pa.
 
 In addition, I've spoken to students and faculty at...
 
