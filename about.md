@@ -15,7 +15,9 @@ A journalist and news hacker, I'm the deputy managing editor at [The Marshall Pr
 
 I specialize in investigative and interactive journalism, including data analysis, Freedom of Information requests, computer-assisted reporting, visualization, interactive graphics and news applications.
 
-I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers dedicated to working together to improve the news.
+I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers working together to improve the news.
+
+In my free time, I enjoy playing and watching soccer and [brewing my own beer](http://carboy.tommeagher.com/).
 
 ###Contact
 My email address is _hello_ at _the_domain_name_of_this_site_.
