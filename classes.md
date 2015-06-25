@@ -38,6 +38,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [NICAR 2014](http://ire.org/conferences/nicar-2014/) in Baltimore, Md. 
 * [Innovating the Local News Ecosystem](http://njnewscommons.org/innovatelocalconference/), 2014 
 * [NJ Open Data Summit](http://www.hackjersey.com/event/open-data-nj/), 2014
+* [SRCCON](http://srccon.org/) 2014 in Philadelphia, Pa.
 * [Hack Jersey 2.0 hackathon](http://www.hackjersey.com/2015/03/hack-jersey-2-0-is-officially-underway/), 2015
 * [NICAR 2015](http://ire.org/conferences/nicar2015/) in Atlanta, Ga.
 * [IRE 2015](http://ire.org/conferences/ire-2015/) in Philadelphia, Pa.
