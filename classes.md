@@ -29,6 +29,7 @@ image:
 
 I've trained hundreds of journalists and students over the years, and I've spoken about reporting and data analysis at many conferences, including:
 
+
 * John Jay College of Criminal Justice's [social media and local journalism roundtable](http://www.tommeagher.com/blog/2011/05/cops-and-social-media.html), 2011
 * [NICAR 2012](https://www.ire.org/conferences/nicar-2012/) in St. Louis, Mo.
 * [IRE 2012](https://www.ire.org/conferences/ire-2012/) in Boston, Mass.
@@ -42,6 +43,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [Hack Jersey 2.0 hackathon](http://www.hackjersey.com/2015/03/hack-jersey-2-0-is-officially-underway/), 2015
 * [NICAR 2015](http://ire.org/conferences/nicar2015/) in Atlanta, Ga.
 * [IRE 2015](http://ire.org/conferences/ire-2015/) in Philadelphia, Pa.
+
 
 In addition, I've spoken to students and faculty at...
 

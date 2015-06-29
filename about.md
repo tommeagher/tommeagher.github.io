@@ -13,7 +13,7 @@ image:
 
 A journalist and news hacker, I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, non-partisan news organization covering crime and justice in America.
 
-I specialize in investigative and interactive journalism, including data analysis, Freedom of Information requests, computer-assisted reporting, visualization, interactive graphics and news applications.
+I specialize in investigative and interactive journalism, including data analysis, Freedom of Information requests, [computer-assisted reporting, visualization, interactive graphics and news applications](clips.html). A veteran reporter and editor, I've taught these skills to journalists at [conferences and universities across the country](classes.html).
 
 I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers working together to improve the news.
 
