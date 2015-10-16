@@ -25,6 +25,7 @@ image:
 * Introduction to [coding in the newsroom with Python](http://www.tommeagher.com/pythonIRE15)
 * [Python mini boot camp](http://www.github.com/ireapps/pycar)
 * Python for data analysis [class](https://tswicegood.github.io/python-data-science-intro/) and [exercise notebook](http://nbviewer.ipython.org/github/tswicegood/python-data-science-intro/blob/gh-pages/Python%20for%20Data%20Analysis%20at%20NICAR15.ipynb)
+* [Scraping with Python in the newsroom](http://www.tommeagher.com/pythonGIJC15/#/)
 * [Version control with Github](/blog/2013/02/learning-to-commit-to-version-control.html)
 
 I've trained hundreds of journalists and students over the years, and I've spoken about reporting and data analysis at many conferences, including:
@@ -43,6 +44,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [Hack Jersey 2.0 hackathon](http://www.hackjersey.com/2015/03/hack-jersey-2-0-is-officially-underway/), 2015
 * [NICAR 2015](http://ire.org/conferences/nicar2015/) in Atlanta, Ga.
 * [IRE 2015](http://ire.org/conferences/ire-2015/) in Philadelphia, Pa.
+* [GIJC 2015](http://gijc2015.org/) in Lillehammer, Norway.
 
 
 In addition, I've spoken to students and faculty at...
