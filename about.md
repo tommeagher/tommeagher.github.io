@@ -22,7 +22,7 @@ I specialize in investigative and interactive journalism, including:
 * [interactive graphics](clips.html)
 * and [news applications](clips.html)
 
-A veteran reporter and editor, I've taught these skills to journalists and students at [conferences and universities across the country](classes.html).
+A veteran reporter and editor, I've taught these skills to journalists and students at [conferences and universities around the world](classes.html).
 
 I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers working together to improve the news.
 
