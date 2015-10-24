@@ -11,7 +11,7 @@ image:
 #  creditlink: http://www.flickr.com/photos/49968232@N00
 ---
 
-A journalist and news hacker, I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, non-partisan news organization covering crime and justice in America.
+A journalist and news hacker, I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, nonpartisan news organization covering crime and justice in America.
 
 I specialize in investigative and interactive journalism, including:
 
