@@ -14,7 +14,7 @@ image:
   creditlink: http://www.texturepalace.com/wp-content/uploads/computer-texture-medium-8.jpg
 ---
 
-*You can read my recent stories at **[The Marshall Project's website](https://www.themarshallproject.org/staff/tom-meagher)** and see the data and code behind them **[on Github](https://github.com/themarshallproject/)**.*
+*You can read my recent stories at **[The Marshall Project](https://www.themarshallproject.org/staff/tom-meagher)** and see the data and code behind them **[on Github](https://github.com/themarshallproject/)**.*
 
 {% for clip in site.data.clips %}
   <h3><a href="{{clip.url}}" target="_blank">{{clip.title}}</a></h3>
