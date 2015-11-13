@@ -15,6 +15,7 @@ image:
 ---
 
 * [Building a data state of mind](http://bit.ly/1fgIP6x)
+* [Data 1](https://github.com/tommeagher/data1-fall2015)
 * [Resources for learning data journalism](/blog/2013/04/diving-in-to-data-with-spj.html)
 * Basic Excel
 * [Cleaning dirty data with OpenRefine](/blog/2013/02/more-tips-for-using-openrefine.html)
