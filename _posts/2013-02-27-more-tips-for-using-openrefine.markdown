@@ -14,7 +14,7 @@ At IRE's [computer-assisted reporting conference](http://www.ire.org/conferences
 
 I won't repeat verbatim my Refine tutorial, [which you can find here](/blog/2012/06/clean-data-is-the-best-weapon-against-the-planet-of-the-apes.html), but I will share some of the resources again and point you to a few other tutorials.
 
-First, check out the updated [slides for my class](http://bit.ly/car13refineslides). If you'd like to follow along with the class, you can download our data for the [lottery winners](/files/uploads/2012/06/lotterywinners.csv), the [hospital report cards](/files/2012/06/nj-hospital-2012.xls), and the [campaign finance data](/files/2012/06/nassau_police_union_contribs.xls).
+First, check out the updated [slides for my class](http://bit.ly/car13refineslides). If you'd like to follow along with the class, you can download our data for the [lottery winners](/files/data/lotterywinners.csv), the [hospital report cards](/files/data/nj-hospital-2012.xls), and the [campaign finance data](/files/data/nassau_police_union_contribs.xls).
 
 If you're just looking for a good cheat sheet of Refine's key functions, [try this](http://bit.ly/car13refinecheats).
 
