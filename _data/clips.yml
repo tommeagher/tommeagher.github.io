@@ -3,7 +3,7 @@
   date: 9/10/1514
   url: https://www.themarshallproject.org/next-to-die
   image: ntd.png
-  description: The Marshall Project is tracking every execution in the U.S., counting down until each one is carried out or stayed. Partnering with reporters and editors at eight other news organizations, we're examining how executions happen in death penalty states, in near-real-time. This application is powered by a PostGreSQL database and Django admin I built. It also features an automated [Twitter feed](https://www.twitter.com/thenexttodie) I created from the data we've collected.
+  description: The Marshall Project is tracking every execution in the U.S., counting down until each one is carried out or stayed. Partnering with reporters and editors at eight other news organizations, we're examining how executions happen in death penalty states, in near-real-time. This application is powered by a PostGreSQL database and Django admin I built. It also features an automated <a href="https://www.twitter.com/thenexttodie">Twitter feed</a> I created from the data we've collected.
 
 - title: Fighting heroin "epidemic" made harder by lack of accurate overdose data
   date: 5/12/14
