@@ -15,17 +15,17 @@ image:
 ---
 
 * [Building a data state of mind](http://bit.ly/1fgIP6x)
-* [Data 1](https://github.com/tommeagher/data1-fall2015)
-* [Resources for learning data journalism](/blog/2013/04/diving-in-to-data-with-spj.html)
 * Basic Excel
 * [Cleaning dirty data with OpenRefine](/blog/2013/02/more-tips-for-using-openrefine.html)
-* Mapping with Arcview
-* [Interactive maps with Fusion Tables](/blog/2012/12/talking-data-in-the-nutmeg-state.html)
-* [DocumentCloud](http://bit.ly/dcslides)
+* [Data 1](https://github.com/tommeagher/data1-fall2015)
 * Digital security and encryption for the newsroom
+* [DocumentCloud](http://bit.ly/dcslides)
+* [Interactive maps with Fusion Tables](/blog/2012/12/talking-data-in-the-nutmeg-state.html)
 * Introduction to [coding in the newsroom with Python](http://www.tommeagher.com/pythonIRE15)
+* Mapping with Arcview
 * [Python mini boot camp](http://www.github.com/ireapps/pycar)
-* Python for data analysis [class](https://tswicegood.github.io/python-data-science-intro/) and [exercise notebook](http://nbviewer.ipython.org/github/tswicegood/python-data-science-intro/blob/gh-pages/Python%20for%20Data%20Analysis%20at%20NICAR15.ipynb)
+* Python for data analysis ([class](https://tswicegood.github.io/python-data-science-intro/) and [exercise notebook](http://nbviewer.ipython.org/github/tswicegood/python-data-science-intro/blob/gh-pages/Python%20for%20Data%20Analysis%20at%20NICAR15.ipynb))
+* [Resources for learning data journalism](/blog/2013/04/diving-in-to-data-with-spj.html)
 * [Scraping with Python in the newsroom](http://www.tommeagher.com/pythonGIJC15/#/)
 * [Version control with Github](/blog/2013/02/learning-to-commit-to-version-control.html)
 
