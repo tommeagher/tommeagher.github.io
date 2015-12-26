@@ -11,18 +11,18 @@ image:
 #  creditlink: http://www.flickr.com/photos/49968232@N00
 ---
 
-A journalist and news hacker, I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, nonpartisan news organization covering crime and justice in America. I'm part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project tracking executions in 10 states.
+A journalist and news hacker, I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, nonpartisan news organization covering crime and justice in America. At the Marshall Project, I'm part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project tracking executions in 10 states.
 
 I specialize in investigative and interactive journalism, including:
 
-* data analysis 
+* data analysis
 * Freedom of Information requests
 * [computer-assisted reporting](https://www.themarshallproject.org/staff/tom-meagher)
 * [visualizations](https://www.themarshallproject.org/staff/tom-meagher)
 * [interactive graphics](clips.html)
-* and [news applications](clips.html)
+* and [news applications](https://www.themarshallproject.org/next-to-die)
 
-A [veteran reporter and editor](http://linkedin.com/in/tommeagher), I've taught these skills to journalists and students at [conferences and universities around the world](classes.html).
+A [veteran reporter and editor](http://linkedin.com/in/tommeagher), I've taught data and investigative reporting skills to journalists and students at [conferences and universities around the world](classes.html).
 
 I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers working together to improve the news.
 
