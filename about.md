@@ -11,9 +11,9 @@ image:
 #  creditlink: http://www.flickr.com/photos/49968232@N00
 ---
 
-A journalist and news hacker, I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, nonpartisan news organization covering crime and justice in America. At the Marshall Project, I'm part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project tracking executions in 10 states.
+I'm the deputy managing editor at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, nonpartisan news organization covering crime and justice in America. At the Marshall Project, I'm part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project tracking executions in 10 states.
 
-I specialize in investigative and interactive journalism, including:
+I specialize in investigative, data and interactive journalism, including:
 
 * data analysis
 * Freedom of Information requests
