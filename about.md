@@ -35,7 +35,7 @@ If you'd like to email me securely (and I encourage you to do so), you can downl
 
 To get started with encrypting email, I recommend you read [John Keefe's walkthrough for beginners](http://johnkeefe.net/email-encryption-and-my-pgp-info).
 
-For [OTR instant messaging](https://otr.cypherpunks.ca/), you can find me at ultracasual@jabber.ccc.de.
+For [OTR instant messaging](https://otr.cypherpunks.ca/), you can find me at tom.meagher@jabber.de.
 
 ---
 If you see any typos, broken links or other weirdness on the site, please help me out by filing [a bug report](https://github.com/tommeagher/tommeagher.github.io/issues) on Github.
