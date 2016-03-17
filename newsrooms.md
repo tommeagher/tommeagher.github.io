@@ -66,5 +66,6 @@ This is probably not a comprehensive list. It is, however, chronological.
 49. [NBC News](http://www.nbcnews.com/), New York, NY
 50. [The Marshall Project](https://www.themarshallproject.org/), New York, NY
 51. [FiveThirtyEight](http://fivethirtyeight.com/), New York, NY
+52. [Latino USA](http://latinousa.org/), New York, NY
 
 Let me know if you see any that I missed.
