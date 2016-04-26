@@ -46,11 +46,12 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [NICAR 2015](http://ire.org/conferences/nicar2015/) in Atlanta, Ga.
 * [IRE 2015](http://ire.org/conferences/ire-2015/) in Philadelphia, Pa.
 * [GIJC 2015](http://gijc2015.org/) in Lillehammer, Norway.
+* [NICAR 2016](http://ire.org/conferences/nicar2016/) in Denver, Colo.
 
 
 In addition, I've spoken to students and faculty at...
 
-* Columbia University's [Graduate School of Journalism](http://www.tommeagher.com/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html)
+* Columbia University's [Graduate School of Journalism](http://www.tommeagher.com/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html), where I teach an intro to data reporting class.
 * Fairleigh Dickinson University
 * Kansas University
 * Louisiana State University's Manship School of Communication
