@@ -51,7 +51,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 
 In addition, I've spoken to students and faculty at...
 
-* Columbia University's [Graduate School of Journalism](http://www.tommeagher.com/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html), where I teach an intro to data reporting class.
+* Columbia University's [Graduate School of Journalism](http://www.tommeagher.com/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html), where I teach an [intro to data reporting class](https://github.com/tommeagher/data1-fall2015).
 * Fairleigh Dickinson University
 * Kansas University
 * Louisiana State University's Manship School of Communication
