@@ -68,5 +68,5 @@ This is probably not a comprehensive list. It is, however, chronological.
 51. [FiveThirtyEight](http://fivethirtyeight.com/), New York, NY
 52. [Latino USA](http://latinousa.org/), New York, NY
 53. [ABC News](http://abcnews.go.com/), New York, NY
-
+54. [ProPublica](https://www.propublica.org/)'s new newsroom, New York, NY
 Let me know if you see any that I missed.
