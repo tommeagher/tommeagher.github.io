@@ -7,7 +7,7 @@ title: Lists
 Date: 2013-10-20 06:32
 Author: Tom
 Slug: lists
-Modified: 2013-11-05
+Modified: 2016-12-18
 image:
   feature: post-its.png
   credit: Coupon Clipinista
@@ -22,3 +22,4 @@ image:
 6.  [What I'm obsessing over](https://pinboard.in/u:tommeagher)
 7.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
 8.  [Beers I drank](https://untappd.com/user/tommeagher)
+9.  [Races I've run](races.html)
