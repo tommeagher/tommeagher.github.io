@@ -16,8 +16,9 @@ image:
 
 ##Half Marathons
 * [Pittsburgh Half Marathon](http://results.xacte.com/?mid=79), May 1, 2016. **1:49:37** finish; 8:21/mile pace.
-* [Newport Liberty Half Marathon](http://compuscore.com/cs2016/sept/libhm.htm), Sept. 18, 2016. **1:44:24** finish; 7:59/mile pace.
+* [Newport Liberty Half Marathon](http://compuscore.com/cs2016/sept/libhm.htm), Sept. 18, 2016. **1:44:24** finish; 7:59 pace.
 * [Newport Half Marathon](https://my.racewire.com/results/32830/37120), Oct. 9, 2016. **1:45:01** finish; 8:01 pace.
+* [Baker's Dozen Half Marathon](http://compuscore.com/cs2017/march/bakerdoz.htm), March 25, 2017. **1:52:29** finish; 8:34 pace.
 
 ##5ks
 * [Seth Boyden-Tuscan 5K Turkey Trot](http://compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
