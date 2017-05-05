@@ -48,6 +48,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [GIJC 2015](http://gijc2015.org/) in Lillehammer, Norway.
 * [NICAR 2016](http://ire.org/conferences/nicar2016/) in Denver, Colo.
 * [NICAR 2017](https://www.ire.org/conferences/nicar2017/) in Jacksonville, Fla.
+* [Collaborative Journalism Summit, 2017](https://www.collaborativejournalism.com/) in Montclair, N.J.
 
 
 In addition, I've spoken to students and faculty at...
