@@ -20,6 +20,7 @@ image:
 * [Newport Half Marathon](https://my.racewire.com/results/32830/37120), Oct. 9, 2016. **1:45:01** finish; 8:01 pace.
 * [Baker's Dozen Half Marathon](http://compuscore.com/cs2017/march/bakerdoz.htm), March 25, 2017. **1:52:29** finish; 8:34 pace.
 * [Brooklyn Half Marathon](http://results.nyrr.org/runner/10638695/races), May 20, 2017. **1:44:32** finish; 7:59 pace.
+* [New Paltz Challenge](http://results.fultonaccuratetiming.com/spring17/NP-Challenge.htm), June 18, 2017 **1:49:17** finish; 8:21 pace.
 
 ##5ks
 * [Seth Boyden-Tuscan 5K Turkey Trot](http://compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
