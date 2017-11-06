@@ -22,6 +22,7 @@ image:
 * [Brooklyn Half Marathon](http://results.nyrr.org/runner/10638695/races), May 20, 2017. **1:44:32** finish; 7:59 pace.
 * [New Paltz Challenge](http://results.fultonaccuratetiming.com/spring17/NP-Challenge.htm), June 18, 2017. **1:49:17** finish; 8:21 pace.
 * [Racefaster Half Marathon](https://runsignup.com/race/results/?raceId=49104#resultSetId-92994), Sept. 9, 2017. **1:44:07** finish; 7:58 pace.
+* [Princeton Half Marathon](https://georesults.racemine.com/Princeton-Half-Marathon/events/2017/princeton-half-marathon/229/entrant/share), Nov. 5, 2017. **1:49:29** finish; 8:21 pace.
 
 ##5ks
 * [Seth Boyden-Tuscan 5K Turkey Trot](http://compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.

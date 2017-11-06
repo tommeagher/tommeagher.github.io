@@ -70,4 +70,6 @@ This is probably not a comprehensive list. It is, however, chronological.
 53. [ABC News](http://abcnews.go.com/), New York, NY
 54. [ProPublica](https://www.propublica.org/)'s new newsroom, New York, NY
 55. [Frontline](http://www.pbs.org/wgbh/frontline/), Boston, MA
+56. [The New York Times](https://www.nytimes.com/), New York, NY
+57. [First Look Media](https://www.firstlook.media/), New York, NY
 Let me know if you see any that I missed.
