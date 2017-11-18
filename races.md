@@ -30,3 +30,4 @@ image:
 * [Maplewood in Motion 5K](http://compuscore.com/cs2016/october/maplewd.htm), Oct. 16, 2016. **21:48.89** finish; 7:01 pace.
 * [Two Towns Turkey Trot 5K](http://compuscore.com/cs2016/novdec/boyden.htm), on Nov. 19, 2016. **22:05.47** finish; 7:06 pace.
 * [Westfield Hangover 5K](http://compuscore.com/cs2017/janfeb/cjhang.htm), on Jan. 1, 2017. **22:04.46** finish; 7:06 pace.
+* [Seth Boyden Two Towns 5K Turkey Trot](http://compuscore.com/event/4385), Nov. 18, 2017. **22.39.54** finish; 7:17 pace.
