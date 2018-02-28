@@ -24,6 +24,9 @@ image:
 * [Racefaster Half Marathon](https://runsignup.com/race/results/?raceId=49104#resultSetId-92994), Sept. 9, 2017. **1:44:07** finish; 7:58 pace.
 * [Princeton Half Marathon](https://georesults.racemine.com/Princeton-Half-Marathon/events/2017/princeton-half-marathon/229/entrant/share), Nov. 5, 2017. **1:49:29** finish; 8:21 pace.
 
+##4-milers
+* [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
+
 ##5ks
 * [Seth Boyden-Tuscan 5K Turkey Trot](http://compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
 * [Maplewood in Motion 5K](http://compuscore.com/cs2015/october/maplewd.htm), Oct. 18, 2015. **25:31.67** finish; 8:12 pace.
