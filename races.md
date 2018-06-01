@@ -7,7 +7,7 @@ title: Races I've Run
 Date: 2016-12-18 08:42
 Author: Tom
 Slug: classes
-Modified: 2016-12-18
+Modified: 2018-05-30
 image:
   feature: 
   credit: 
@@ -25,6 +25,7 @@ image:
 8. [Princeton Half Marathon](https://georesults.racemine.com/Princeton-Half-Marathon/events/2017/princeton-half-marathon/229/entrant/share), Nov. 5, 2017. **1:49:29** finish; 8:21 pace.
 9. [Fred Lebow Manhattan Half](http://results.nyrr.org/event/18FRED/result/2480?_ga=2.236052801.1389630663.1522422210-2088906472.1513547924), Jan. 21, 2018. **1:42:29** finish; 7:50 pace.
 10. [NYC Half Marathon](https://results.nyrr.org/event/H2018/result/6626), March 18, 2018. **1:39:36** finish; 7:36 pace.
+11. [Brooklyn Half](https://results.nyrr.org/event/3404/result/584), May 19, 2018. **1:39:09** finish; 7:34 pace.
 
 ##4-milers
 * [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.

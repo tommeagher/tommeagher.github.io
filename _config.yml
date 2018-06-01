@@ -8,7 +8,7 @@ url:              http://www.tommeagher.com
 owner:
   name:           Tom Meagher
   avatar:         uclogo.png
-  bio:            "News nerd."
+  bio:            "Journalist"
   email:          hello+site@tommeagher.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        ultracasual
@@ -19,7 +19,7 @@ owner:
 #  lastfm:         
 #  tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  #google_plus:    
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: UA-2450819-4
