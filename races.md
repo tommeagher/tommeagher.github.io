@@ -27,6 +27,9 @@ image:
 10. [NYC Half Marathon](https://results.nyrr.org/event/H2018/result/6626), March 18, 2018. **1:39:36** finish; 7:36 pace.
 11. [Brooklyn Half](https://results.nyrr.org/event/3404/result/584), May 19, 2018. **1:39:09** finish; 7:34 pace.
 
+##10-milers
+* [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
+
 ##4-milers
 * [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
 
