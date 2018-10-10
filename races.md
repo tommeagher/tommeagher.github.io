@@ -30,6 +30,9 @@ image:
 ##10-milers
 * [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
 
+##10ks
+1. [Queens 10K](https://results.nyrr.org/event/18Q10K/result/2191?_ga=2.128041164.1363284880.1539201243-1671636842.1538505630), June 16, 2018. **44:22** finish; 7:09 pace.
+
 ##4-milers
 * [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
 
@@ -41,3 +44,4 @@ image:
 5. [Westfield Hangover 5K](http://compuscore.com/cs2017/janfeb/cjhang.htm), on Jan. 1, 2017. **22:04.46** finish; 7:06 pace.
 6. [Seth Boyden Two Towns 5K Turkey Trot](http://compuscore.com/event/4385), Nov. 18, 2017. **22.39.54** finish; 7:17 pace.
 7. [Westfield Hangover 5K](http://compuscore.com/cs2018/janfeb/cjhang.htm), on Jan. 1, 2018. **22:13:80** finish; 7:09 pace.
+8. [NYRR R-U-N 5K](https://results.nyrr.org/event/RUN5-18/result/1575?_ga=2.130804687.1363284880.1539201243-1671636842.1538505630), on July 26, 2018 **22:17:00** finish; 7:11 pace.
