@@ -26,15 +26,16 @@ image:
 9. [Fred Lebow Manhattan Half](http://results.nyrr.org/event/18FRED/result/2480?_ga=2.236052801.1389630663.1522422210-2088906472.1513547924), Jan. 21, 2018. **1:42:29** finish; 7:50 pace.
 10. [NYC Half Marathon](https://results.nyrr.org/event/H2018/result/6626), March 18, 2018. **1:39:36** finish; 7:36 pace.
 11. [Brooklyn Half](https://results.nyrr.org/event/3404/result/584), May 19, 2018. **1:39:09** finish; 7:34 pace.
+12. [Staten Island Half](https://results.nyrr.org/runner/1684/result/18SIH), Oct. 14, 2018. **1:35:47** finish; 7:19 pace.
 
 ##10-milers
-* [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
+1. [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
 
 ##10ks
 1. [Queens 10K](https://results.nyrr.org/event/18Q10K/result/2191?_ga=2.128041164.1363284880.1539201243-1671636842.1538505630), June 16, 2018. **44:22** finish; 7:09 pace.
 
 ##4-milers
-* [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
+1. [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
 
 ##5ks
 1. [Seth Boyden-Tuscan 5K Turkey Trot](http://compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
