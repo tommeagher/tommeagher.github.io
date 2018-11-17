@@ -44,5 +44,7 @@ image:
 4. [Two Towns Turkey Trot 5K](http://compuscore.com/cs2016/novdec/boyden.htm), on Nov. 19, 2016. **22:05.47** finish; 7:06 pace.
 5. [Westfield Hangover 5K](http://compuscore.com/cs2017/janfeb/cjhang.htm), on Jan. 1, 2017. **22:04.46** finish; 7:06 pace.
 6. [Seth Boyden Two Towns 5K Turkey Trot](http://compuscore.com/event/4385), Nov. 18, 2017. **22.39.54** finish; 7:17 pace.
-7. [Westfield Hangover 5K](http://compuscore.com/cs2018/janfeb/cjhang.htm), on Jan. 1, 2018. **22:13:80** finish; 7:09 pace.
-8. [NYRR R-U-N 5K](https://results.nyrr.org/event/RUN5-18/result/1575?_ga=2.130804687.1363284880.1539201243-1671636842.1538505630), on July 26, 2018 **22:17:00** finish; 7:11 pace.
+7. [Westfield Hangover 5K](http://compuscore.com/cs2018/janfeb/cjhang.htm), on Jan. 1, 2018. **22:13.80** finish; 7:09 pace.
+8. [NYRR R-U-N 5K](https://results.nyrr.org/event/RUN5-18/result/1575?_ga=2.130804687.1363284880.1539201243-1671636842.1538505630), on July 26, 2018 **22:17.00** finish; 7:11 pace.
+9. [Abbott Dash to the Finish 5K](https://results.nyrr.org/event/18DTF5K/result/2289), on Nov. 3, 2018. **20:55.00** finish; 6:44 pace.
+10. [Two Towns Turkey Trot 5K](http://www.compuscore.com/cs2018/novdec/boyden.htm), on Nov. 17, 2018. **41:18.99** finish; 13:17 pace, running with my child for her first 5K.
