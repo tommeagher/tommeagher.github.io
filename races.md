@@ -48,3 +48,4 @@ image:
 8. [NYRR R-U-N 5K](https://results.nyrr.org/event/RUN5-18/result/1575?_ga=2.130804687.1363284880.1539201243-1671636842.1538505630), on July 26, 2018 **22:17.00** finish; 7:11 pace.
 9. [Abbott Dash to the Finish 5K](https://results.nyrr.org/event/18DTF5K/result/2289), on Nov. 3, 2018. **20:55.00** finish; 6:44 pace.
 10. [Two Towns Turkey Trot 5K](http://www.compuscore.com/cs2018/novdec/boyden.htm), on Nov. 17, 2018. **41:18.99** finish; 13:17 pace, running with my child for her first 5K.
+11. [Westfield Hangover 5K](https://runsignup.com/Race/Results/38067/IndividualResult/2019#U33234082), Jan. 1, 2019. **37:09.5** finish; 11:48 pace, running with both children.
