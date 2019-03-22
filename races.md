@@ -27,6 +27,7 @@ image:
 10. [NYC Half Marathon](https://results.nyrr.org/event/H2018/result/6626), March 18, 2018. **1:39:36** finish; 7:36 pace.
 11. [Brooklyn Half](https://results.nyrr.org/event/3404/result/584), May 19, 2018. **1:39:09** finish; 7:34 pace.
 12. [Staten Island Half](https://results.nyrr.org/runner/1684/result/18SIH), Oct. 14, 2018. **1:35:47** finish; 7:19 pace.
+13. [NYC Half Marathon](https://results.nyrr.org/event/H2019/result/9176), March 17, 2019. **1:41:09** finish; 7:43 pace.
 
 ##10-milers
 1. [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
@@ -47,5 +48,8 @@ image:
 7. [Westfield Hangover 5K](http://compuscore.com/cs2018/janfeb/cjhang.htm), on Jan. 1, 2018. **22:13.80** finish; 7:09 pace.
 8. [NYRR R-U-N 5K](https://results.nyrr.org/event/RUN5-18/result/1575?_ga=2.130804687.1363284880.1539201243-1671636842.1538505630), on July 26, 2018 **22:17.00** finish; 7:11 pace.
 9. [Abbott Dash to the Finish 5K](https://results.nyrr.org/event/18DTF5K/result/2289), on Nov. 3, 2018. **20:55.00** finish; 6:44 pace.
-10. [Two Towns Turkey Trot 5K](http://www.compuscore.com/cs2018/novdec/boyden.htm), on Nov. 17, 2018. **41:18.99** finish; 13:17 pace, running with my child for her first 5K.
-11. [Westfield Hangover 5K](https://runsignup.com/Race/Results/38067/IndividualResult/2019#U33234082), Jan. 1, 2019. **37:09.5** finish; 11:48 pace, running with both children.
+10. [Two Towns Turkey Trot 5K](http://www.compuscore.com/cs2018/novdec/boyden.htm), on Nov. 17, 2018. **41:18.99** finish; 13:17 pace, running with my child for her first 5K. *
+11. [Westfield Hangover 5K](https://runsignup.com/Race/Results/38067/IndividualResult/2019#U33234082), Jan. 1, 2019. **37:09.5** finish; 11:48 pace, running with both children. *
+12. [Maplewood Cougars St. Patrick's Day 5K](https://runsignup.com/Race/Results/58550/IndividualResult/tYQd?remMeAttempt=#U9860508), March 16, 2019. **35.43.02** finish; 11:29 pace. *
+
+*An asterisk (`*`) indicates a race I ran with my kids.*
