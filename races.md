@@ -14,7 +14,7 @@ image:
   creditlink: 
 ---
 
-##Half Marathons
+## Half Marathons
 1. [Pittsburgh Half Marathon](http://results.xacte.com/?mid=79), May 1, 2016. **1:49:37** finish; 8:21/mile pace.
 2. [Newport Liberty Half Marathon](http://compuscore.com/cs2016/sept/libhm.htm), Sept. 18, 2016. **1:44:24** finish; 7:59 pace.
 3. [Newport Half Marathon](https://my.racewire.com/results/32830/37120), Oct. 9, 2016. **1:45:01** finish; 8:01 pace.
@@ -30,17 +30,17 @@ image:
 13. [NYC Half Marathon](https://results.nyrr.org/event/H2019/result/9176), March 17, 2019. **1:41:09** finish; 7:43 pace.
 14. [Brooklyn Half Marathon](https://results.nyrr.org/event/19BKH/result/323), May 18, 2019. **1:43:48** finish; 7:56 pace.
 
-##10-milers
+## 10-milers
 1. [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
 
-##10ks
+## 10ks
 1. [Queens 10K](https://results.nyrr.org/event/18Q10K/result/2191?_ga=2.128041164.1363284880.1539201243-1671636842.1538505630), June 16, 2018. **44:22** finish; 7:09 pace.
 
-##4-milers
+## 4-milers
 1. [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
 2. [NYRR Retro 4-miler](https://results.nyrr.org/event/R4M19/result/3549), July 13, 2019. **28:39** finish; 7:10 pace.
 
-##5ks
+## 5ks
 1. [Seth Boyden-Tuscan 5K Turkey Trot](http://compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
 2. [Maplewood in Motion 5K](http://compuscore.com/cs2015/october/maplewd.htm), Oct. 18, 2015. **25:31.67** finish; 8:12 pace.
 3. [Maplewood in Motion 5K](http://compuscore.com/cs2016/october/maplewd.htm), Oct. 16, 2016. **21:48.89** finish; 7:01 pace.
