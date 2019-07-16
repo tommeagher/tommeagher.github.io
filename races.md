@@ -28,6 +28,7 @@ image:
 11. [Brooklyn Half](https://results.nyrr.org/event/3404/result/584), May 19, 2018. **1:39:09** finish; 7:34 pace.
 12. [Staten Island Half](https://results.nyrr.org/runner/1684/result/18SIH), Oct. 14, 2018. **1:35:47** finish; 7:19 pace.
 13. [NYC Half Marathon](https://results.nyrr.org/event/H2019/result/9176), March 17, 2019. **1:41:09** finish; 7:43 pace.
+14. [Brooklyn Half Marathon](https://results.nyrr.org/event/19BKH/result/323), May 18, 2019. **1:43:48** finish; 7:56 pace.
 
 ##10-milers
 1. [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
@@ -37,6 +38,7 @@ image:
 
 ##4-milers
 1. [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
+2. [NYRR Retro 4-miler](https://results.nyrr.org/event/R4M19/result/3549), July 13, 2019. **28:39** finish; 7:10 pace.
 
 ##5ks
 1. [Seth Boyden-Tuscan 5K Turkey Trot](http://compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
