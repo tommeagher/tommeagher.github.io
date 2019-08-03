@@ -18,6 +18,7 @@ image:
 * Basic Excel
 * [Building a newsroom data culture that lasts](http://bit.ly/dataculture_nicar18)
 * [Cleaning dirty data with OpenRefine](/blog/2013/02/more-tips-for-using-openrefine.html)
+* Covering Criminal Justice
 * [Data 1](https://github.com/tommeagher/data1-fall2015)
 * Digital security and encryption for the newsroom
 * [DocumentCloud](http://bit.ly/dcslides)
@@ -52,6 +53,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [Collaborative Journalism Summit, 2017](https://www.collaborativejournalism.com/) in Montclair, N.J.
 * [NICAR 2018](https://www.ire.org/events-and-training/event/3189/) in Chicago.
 * Poynter's [Journalist's Guide to Covering Jails](http://bit.ly/poynter-jails-data).
+* [NICAR 2019](https://ire.org/conferences/nicar-2019/) in Newport Beach, Calif.
 
 
 In addition, I've spoken to students and faculty at...

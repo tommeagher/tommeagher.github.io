@@ -26,7 +26,7 @@ A [veteran reporter and editor](http://linkedin.com/in/tommeagher), I've taught 
 
 I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers working together to improve the news.
 
-In my free time, I enjoy playing and watching soccer and [brewing my own beer](http://carboy.tommeagher.com/).
+In my free time, I enjoy running, playing and watching soccer and [brewing my own beer](http://carboy.tommeagher.com/).
 
 ###Contact
 My email address is _hello_ at _the_domain_name_of_this_site_.
