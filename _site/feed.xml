@@ -1,17 +1,79 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Tom Meagher</title>
-<subtitle type="text">News nerd-ery</subtitle>
+<subtitle type="text">Investigative Data Journo</subtitle>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.tommeagher.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.tommeagher.com" />
-<updated>2019-08-03T17:23:01-04:00</updated>
+<updated>2021-02-20T16:46:10-05:00</updated>
 <id>http://www.tommeagher.com/</id>
 <author>
   <name>Tom Meagher</name>
   <uri>http://www.tommeagher.com/</uri>
   <email>hello+site@tommeagher.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[I Spent Six Years Running a News App Tracking Executions in America]]></title>
+  <link rel="alternate" type="text/html" href="http://www.tommeagher.com/blog/2021/02/learning-from-six-years-of-running-a-news-app.html" />
+  <id>http://www.tommeagher.com/blog/2021/02/learning-from-six-years-of-running-a-news-app</id>
+  <published>2021-02-20T00:00:00-05:00</published>
+  <updated>2021-02-20T00:00:00-05:00</updated>
+  <author>
+    <name>Tom Meagher</name>
+    <uri>http://www.tommeagher.com</uri>
+    <email>hello+site@tommeagher.com</email>
+  </author>
+  <content type="html">&lt;p&gt;&lt;em&gt;Adapted from a Twitter thread I put together when we ended The Marshall Project’s long-running feature, &lt;a href=&quot;https://www.themarshallproject.org/next-to-die&quot;&gt;The Next to Die&lt;/a&gt;, which monitored and reported on every execution scheduled in the country for many years.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;On Feb. 11, Alabama planned to execute Willie B. Smith III. It was the first scheduled execution in the U.S. since &lt;a href=&quot;https://twitter.com/thenexttodie&quot;&gt;The Next to Die&lt;/a&gt; began in 2015 that we weren’t monitoring. And the execution—which was stayed by the courts and did not proceed that night—left me mulling many of the challenges facing data journalists and the state of capital punishment in the U.S.&lt;/p&gt;
+
+&lt;p&gt;When we started &lt;a href=&quot;https://twitter.com/marshallproj&quot;&gt;The Marshall Project&lt;/a&gt; over six years ago, capital punishment was an important part of our coverage of the criminal justice system. &lt;a href=&quot;https://www.themarshallproject.org/2014/08/03/did-texas-execute-an-innocent-man-willingham&quot;&gt;Our first major stories&lt;/a&gt; were &lt;a href=&quot;https://www.themarshallproject.org/2014/11/15/death-by-deadline-part-one&quot;&gt;on the death penalty&lt;/a&gt;. &lt;a href=&quot;https://twitter.com/gabrieldance&quot;&gt;Gabriel Dance&lt;/a&gt;, our then managing editor, was really keen to do something data-driven and visual on it, and so was I. We wanted to raise the general public’s awareness of executions and nourish a sense of urgency about the issue. There were groups collecting &lt;a href=&quot;https://deathpenaltyinfo.org/executions/upcoming-executions&quot;&gt;calendars of executions&lt;/a&gt;, but we needed minute-by-minute information. We didn’t want this to be abstract. People were being put to death today, and it felt like no one really paid much attention.&lt;/p&gt;
+
+&lt;p&gt;Gabriel’s original idea was to make a simple clock that counted down the time until the next execution, but we couldn’t find a data source detailed enough. It didn’t exist. The important theme was time: The minutes until someone was facing the executioner, the days since someone was killed. &lt;a href=&quot;https://www.tommeagher.com/pythonGIJC15/viztalk.html#/&quot;&gt;Pegging it to the fleeting, and universal, nature of time&lt;/a&gt; would make people pay attention, we hoped.&lt;/p&gt;
+
+&lt;p&gt;If we were going to pull this off, we decided, we had to make our own data.&lt;/p&gt;
+
+&lt;p&gt;So in early 2015, Gabriel and I started planning how we could tackle this. We didn’t have expertise in these disparate parts of the country where the executions were happening. But we knew people who did: local reporters covering the courts and prisons.&lt;/p&gt;
+
+&lt;p&gt;Largely through connections made through &lt;a href=&quot;https://www.ire.org/&quot;&gt;Investigative Reporters and Editors&lt;/a&gt;, we pieced together a network of journalists around the country. &lt;a href=&quot;https://twitter.com/mlh_holmes&quot;&gt;Michelle Holmes&lt;/a&gt; in Alabama. &lt;a href=&quot;https://twitter.com/lisedigger&quot;&gt;Lise Olsen&lt;/a&gt; in Houston. &lt;a href=&quot;https://twitter.com/caryaspinwall&quot;&gt;Cary Aspinwall&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/ZivaBranstetter&quot;&gt;Ziva Branstetter&lt;/a&gt; in Oklahoma. &lt;a href=&quot;https://twitter.com/adamplayford&quot;&gt;Adam Playford&lt;/a&gt; in Tampa, and others.&lt;/p&gt;
+
+&lt;p&gt;With these journalists, we could make the data we needed, up to the minute, and also provide more detailed background on each case, all in one place: &lt;a href=&quot;https://themarshallproject.org/next-to-die&quot;&gt;The Next to Die&lt;/a&gt; What began as Gabriel’s idea for a simple, jarring graphic evolved into a full-fledged news app.&lt;/p&gt;
+
+&lt;p&gt;To make all this doable by a small team, we wrote thousands of lines of code to automate much of the production work, to redraw graphics and to power &lt;a href=&quot;https://twitter.com/thenexttodie&quot;&gt;an automated Twitter bot&lt;/a&gt; for the project.&lt;/p&gt;
+
+&lt;p&gt;The site itself was built around the idea of time slipping away, and Gabriel and &lt;a href=&quot;https://twitter.com/andyrossback&quot;&gt;Andy Rossback’s&lt;/a&gt; designs tied it together to a T.&lt;/p&gt;
+
+&lt;p&gt;With help from &lt;a href=&quot;https://twitter.com/ivarvong&quot;&gt;Ivar Vong&lt;/a&gt;, we launched publicly in September of 2015, days before Oklahoma wanted to execute Richard Glossip. (They didn’t, though they likely will try again.)&lt;/p&gt;
+
+&lt;p&gt;Capital cases were happening that we could help to shine a light on, and our partners were great. More and more reporters got involved. At various points, more than 40 people at 11 news outlets contributed to The Next to Die. Among our most prolific contributors were &lt;a href=&quot;https://twitter.com/mauricechammah&quot;&gt;Maurice Chammah&lt;/a&gt;, now the author of the excellent new book “&lt;a href=&quot;https://www.amazon.com/Let-Lord-Sort-Them-Penalty/dp/1524760269&quot;&gt;Let the Lord Sort Them&lt;/a&gt;”, and &lt;a href=&quot;https://twitter.com/keribla&quot;&gt;Keri Blakinger&lt;/a&gt;, who started with us when she was at the Houston Chronicle and later joined The Marshall Project.&lt;/p&gt;
+
+&lt;p&gt;More states started seriously planning executions, and so we added them to our tracker. And then came &lt;a href=&quot;https://www.themarshallproject.org/next-to-die/fe&quot;&gt;the feds&lt;/a&gt;. We began with 9 states and grew to cover 15 states and the federal Bureau of Prisons.&lt;/p&gt;
+
+&lt;p&gt;But we never really planned for how we might end it.&lt;/p&gt;
+
+&lt;p&gt;The executions kept coming, and coming. Even after Gabriel went back to The New York Times, and many of our reporting partners left their papers for new jobs, executions kept happening. Hundreds of people were given death dates and scores executed.&lt;/p&gt;
+
+&lt;p&gt;Even as the death penalty is in steep decline, it’s not dead and gone yet. And it isn’t going be in the near future. I started scheming with Maurice and Keri about new ways we could write about capital punishment at The Marshall Project and how we could tell larger stories that would get more people’s attention. That led to our new series, &lt;a href=&quot;https://themarshallproject.org/tag/death-sentences&quot;&gt;Death Sentences&lt;/a&gt;. With Death Sentences gaining steam, it felt like a good time to wind down The Next to Die.&lt;/p&gt;
+
+&lt;p&gt;Five and a half years is a long time to do any project, particularly one as voluminous, and traumatic, as monitoring every single execution, writing about the people facing death and the people who lost their lives in crimes. To end the Next to Die, we looked back at the data we’d collected and &lt;a href=&quot;https://themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america&quot;&gt;found trends that raise questions about how fairly and how well the criminal justice dispenses punishment&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;To do this, another amazing of group of Marshall Project colleagues—&lt;a href=&quot;https://twitter.com/andrewcalderon&quot;&gt;Andrew Calderón&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/katiepark&quot;&gt;Katie Park&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/elankiderman&quot;&gt;Elan Kiderman&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/gabeisman&quot;&gt;Gabe Isman&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/davideads&quot;&gt;David Eads&lt;/a&gt; and more—helped me tell &lt;a href=&quot;https://themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america&quot;&gt;the story&lt;/a&gt; with a haunting and stark design.&lt;/p&gt;
+
+&lt;p&gt;Looking back, I’m acutely aware of how lucky I’ve been to have so many great collaborators and to work at a news organization like The Marshall Project. Beyond Gabriel, editors &lt;a href=&quot;https://twitter.com/billkeller2014&quot;&gt;Bill Keller&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/kirstendanis&quot;&gt;Kirsten Danis&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/susanchira&quot;&gt;Susan Chira&lt;/a&gt; have been incredibly supportive of the project from the outset. Now, after thousands of hours of reporting and coding and tens of thousands of words written, 
+the Next to Die is over.&lt;/p&gt;
+
+&lt;p&gt;Here’s my advice for other journalists who want to do this kind of work. Be bold. If the data you need doesn’t exist, make it. Build crazy systems to collect it (and vet it). Recruit like-minded journalists to help you. And try at the start to think how you’re going to end it.&lt;/p&gt;
+
+&lt;p&gt;On that note, I’ve got to get back to collecting &lt;a href=&quot;https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons&quot;&gt;our weekly data on the spread and toll of coronavirus in American prisons&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But first, I’ve got to go talk with Keri Blakinger about our next Death Sentences story she’s working on.&lt;/p&gt;
+
+&lt;p&gt;Onward.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2021/02/learning-from-six-years-of-running-a-news-app.html&quot;&gt;I Spent Six Years Running a News App Tracking Executions in America&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on February 20, 2021.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
@@ -33,7 +95,7 @@
 
 &lt;p&gt;For this year’s edition of the World Cup, the analogy holds up a little better, largely because this tournament has been a showcase for some of the best interactive storytelling and data visualization we’ve seen since, well, election night.&lt;/p&gt;
 
-&lt;h3 id=&quot;predictions-and-prognostication&quot;&gt;Predictions and Prognostication&lt;/h3&gt;
+&lt;p&gt;###Predictions and Prognostication&lt;/p&gt;
 
 &lt;p&gt;FiveThirtyEight brought its statistical models to the World Cup, &lt;a href=&quot;http://fivethirtyeight.com/interactives/world-cup/&quot;&gt;handicapping each team’s chances&lt;/a&gt; of advancing from the initial group stage to the knockout rounds and then deeper into the tournament.&lt;/p&gt;
 
@@ -51,7 +113,7 @@
 
 &lt;p&gt;In a similar vein, for the United States’ game against Germany, the Upshot used a square pie chart to show the &lt;a href=&quot;http://www.nytimes.com/interactive/2014/06/25/upshot/984-ways-the-united-states-can-advance-to-the-next-round-of-the-world-cup.html&quot;&gt;984 possible score combinations&lt;/a&gt; that would determine whether the Yanks would keep going in the tournament. During the game, the app updated in real time, showing the current score along with the possible next scores and whether they would help or hurt the U.S.’s chances.&lt;/p&gt;
 
-&lt;h3 id=&quot;minute-by-minutes&quot;&gt;Minute-by-Minutes&lt;/h3&gt;
+&lt;p&gt;###Minute-by-Minutes&lt;/p&gt;
 
 &lt;p&gt;Several outlets covered every play in obsessively fine-grained detail.&lt;/p&gt;
 
@@ -67,7 +129,7 @@
 
 &lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/img/uploads/article_images/wsj3.png&quot; alt=&quot;WSJ&quot; /&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;extra-time&quot;&gt;Extra Time&lt;/h3&gt;
+&lt;p&gt;###Extra Time&lt;/p&gt;
 
 &lt;p&gt;In the past three weeks, scads of great work has been done on other aspects of the Cup. The Washington Post analyzed whether the U.S. was really being punished &lt;a href=&quot;http://www.washingtonpost.com/wp-srv/special/sports/world-cup-2014/distance-traveled/&quot;&gt;when it drew the worst travel schedule in the tournament&lt;/a&gt;. The Wall Street Journal visualized how the &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/&quot;&gt;best penalty kick takers&lt;/a&gt; on each team in the round of 16 tend to shoot (for more on this project, see &lt;a href=&quot;https://source.opennews.org/en-US/articles/all-about-wsjs-penalty-kick-interactive/&quot;&gt;our chat with WSJ news developer Chris Canipe&lt;/a&gt;).&lt;/p&gt;
 
@@ -105,7 +167,7 @@
 
 &lt;p&gt;&lt;em&gt;In the days before the World Cup’s knockout stages, with their potential for games to end in shootout finishes, The Wall Street Journal unveiled an app that visualized the tendencies of the top &lt;a href=&quot;http://graphics.wsj.com/wc-penalty-kicks/&quot;&gt;penalty kicks takers&lt;/a&gt; on the teams advancing in the tournament. &lt;a href=&quot;https://twitter.com/ccanipe&quot;&gt;Chris Canipe&lt;/a&gt;, senior news apps developer on the Wall Street Journal’s interactive graphics desk, talked with me about the thinking behind the project and how he and his colleagues put it together. What follows are edited excerpts from our conversation.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;the-concept&quot;&gt;The Concept&lt;/h3&gt;
+&lt;p&gt;###The Concept&lt;/p&gt;
 
 &lt;p&gt;The World Cup [interactive coverage] working so well has been completely a product of working with great reporters, who knew what they wanted to do and had great ideas. That makes all the difference. Geoff Foster is one of our main sports guys, and Matthew Futterman, &lt;a href=&quot;http://online.wsj.com/articles/with-his-eye-on-the-world-cup-soccer-coach-jurgen-klinsmann-overhauls-team-usa-1401899734&quot;&gt;who wrote the Klinsmann profile&lt;/a&gt;, wanted to focus on penalty kicks. Geoff Foster had done &lt;a href=&quot;http://online.wsj.com/article/6BE4CA76-48F1-4519-8A12-8E5683D8CAAD.html#!6BE4CA76-48F1-4519-8A12-8E5683D8CAAD&quot;&gt;a video about saving penalty kicks&lt;/a&gt; where he went to the Red Bulls’ practice facility and talked to a goalkeeper about them.&lt;/p&gt;
 
@@ -118,7 +180,7 @@ But very rarely people go middle. (Freakonomics &lt;a href=&quot;http://freakono
 
 &lt;p&gt;I’m a baseball guy. [This penalty kick analysis is similar to] the idea of where to place fielders based on a hitter’s spray pattern.&lt;/p&gt;
 
-&lt;h3 id=&quot;the-data&quot;&gt;The Data&lt;/h3&gt;
+&lt;p&gt;###The Data&lt;/p&gt;
 
 &lt;p&gt;We have a pretty good data provider we work with called &lt;a href=&quot;http://www.optasports.com/&quot;&gt;Opta&lt;/a&gt;. They’re particularly good with soccer data. They gave us all kinds of stuff. Included in the game event summaries, they had X- Y- and Z- coordinates for penalty kicks. We were really impressed with the level of detail.&lt;/p&gt;
 
@@ -202,7 +264,7 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;&lt;img src=&quot;/images/deli.png&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;the-internet-is-not-a-deli&quot;&gt;The Internet is not a deli&lt;/h2&gt;
+&lt;p&gt;##The Internet is not a deli&lt;/p&gt;
 
 &lt;p&gt;The first misconception newspaper veterans have is the notion that interactive news teams are simply new-fangled print graphics desks. Although the two roles have skills in common (visual-thinking, smart data presentation), there are enough differences to make the comparison worrisome. Many newsrooms treat their graphics desk like a deli counter. A reporter reports a story and files it on deadline. At that point, an editor looks at it and says, “We should have a graphic for this.” That editor takes a number from the graphics desk, if there is one, and waits for a suitable print-ready image to be sliced to size.&lt;/p&gt;
 
@@ -216,7 +278,7 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;&lt;img src=&quot;/images/team.png&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;hire-new-skills&quot;&gt;Hire new skills&lt;/h2&gt;
+&lt;p&gt;##Hire new skills&lt;/p&gt;
 
 &lt;p&gt;When we started Thunderdome, there were several roles we weren’t even thinking about that became integral to our online storytelling.&lt;/p&gt;
 
@@ -227,7 +289,7 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 &lt;p&gt;The expertise that this new style of storytelling demands simply doesn’t exist in most news organizations. Our job is to develop these skills where we can and to hire for them now, and the smart editors will recognize that you’re probably not going to find people with these skills by only posting on journalismjobs.com.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;herd-all-the-cats&quot;&gt;Herd all the cats&lt;/h2&gt;
+&lt;p&gt;##Herd all the cats&lt;/p&gt;
 
 &lt;p&gt;In a newspaper, the chain of command, established over a century of practice, is very simple and well-known. In our interactive newsroom, it was a little harder to determine sometimes.&lt;/p&gt;
 
@@ -240,14 +302,14 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 &lt;br /&gt;
 &lt;img src=&quot;/images/break_the_cms.png&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;you-need-a-sandbox&quot;&gt;You need a sandbox&lt;/h2&gt;
+&lt;p&gt;##You need a sandbox&lt;/p&gt;
 
 &lt;p&gt;An interactive team must have a space outside of the CMS to experiment and to be able to break shit without bringing down the entire system. At one point at Thunderdome, the local papers in our company had at least four CMSes. Trying to build interactives that would painlessly work in each system was a monstrous task. But without a sandbox of our own to experiment in, it would have been impossible.&lt;/p&gt;
 
 &lt;p&gt;Most CMSes are designed to prevent the kind of monkeying around that this new kind of online storytelling requires. News development teams that do this well all run their own servers, often in the cloud through something like &lt;a href=&quot;http://aws.amazon.com/&quot;&gt;Amazon Web Services&lt;/a&gt;. This offers the flexibility to try new tools and to iterate at a speed that most corporate IT departments just can’t adapt to. If you’re starting a team from scratch, the very first thing you have to do is &lt;a href=&quot;http://thescoop.org/archives/2014/05/22/how-it-starts/&quot;&gt;give it the tools it needs to succeed&lt;/a&gt;, and an autonomous development sandbox is at the top of that list.
 &lt;br /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;iteration-leads-to-bigger-successes&quot;&gt;Iteration leads to bigger successes&lt;/h2&gt;
+&lt;p&gt;##Iteration leads to bigger successes&lt;/p&gt;
 
 &lt;p&gt;Failure is an option. Our data team was willing to try anything new, knowing that even if it bombed spectacularly, we’d walk away with the know-how to make our next project work.&lt;/p&gt;
 
@@ -259,7 +321,7 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 &lt;br /&gt;
 &lt;img src=&quot;/images/culture_is_contagious.png&quot; /&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;be-the-journalist-you-want-others-to-become&quot;&gt;Be the journalist you want others to become&lt;/h2&gt;
+&lt;p&gt;##Be the journalist you want others to become&lt;/p&gt;
 
 &lt;p&gt;If you do good work, other journalists will pay attention. Every project was a learning opportunity for our team, for colleagues at Thunderdome and at our local papers.&lt;/p&gt;
 
@@ -290,10 +352,10 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
   </author>
   <content type="html">&lt;p&gt;&lt;img src=&quot;https://source.opennews.org/media/cache/29/6a/296a72f3ab7a102515d96829e0ac138a.jpg&quot; alt=&quot;Lessons from the Project Thunderdome Shutdown&quot; /&gt;
 &lt;br /&gt;
-&lt;br /&gt;            &lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cross-posted from &lt;a href=&quot;https://source.opennews.org/en-US/articles/lessons-project-thunderdome-shutdown/&quot; target=&quot;_blank&quot;&gt;OpenNews&#39;s Source&lt;/a&gt; blog. This piece ran a few days after the closure of my employer, Digital First Media&#39;s Project Thunderdome.&lt;/em&gt;&lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Cross-posted from &lt;a href=&quot;https://source.opennews.org/en-US/articles/lessons-project-thunderdome-shutdown/&quot; target=&quot;_blank&quot;&gt;OpenNews's Source&lt;/a&gt; blog. This piece ran a few days after the closure of my employer, Digital First Media's Project Thunderdome.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;
-&lt;br /&gt; &lt;/p&gt;
+&lt;br /&gt;&lt;/p&gt;
 &lt;p&gt;Nearly every time the data team at &lt;a href=&quot;http://outsidethunderdome.com/&quot;&gt;Project Thunderdome&lt;/a&gt; prepared to launch an interactive graphic, a &lt;span class=&quot;caps&quot;&gt;CAR&lt;/span&gt; story, or a news app, I’d say to myself something along the lines of, &amp;#8220;As soon as this hits production, we&amp;#8217;ll go back and beef up the inline documentation to save ourselves headaches the next time we try something like&amp;nbsp;this.”&lt;/p&gt;
 
 &lt;p&gt;Of course, despite our best intentions, we never went back until so much time had passed that we’d completely forgotten just about everything we had tried to&amp;nbsp;do. &lt;/p&gt;
@@ -357,50 +419,50 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
     <uri>http://www.tommeagher.com</uri>
     <email>hello+site@tommeagher.com</email>
   </author>
-  <content type="html">&lt;p&gt;&lt;em&gt;Cross-posted from the &lt;a href=&quot;http://sunlightfoundation.com/blog/2013/10/11/opengov-voices-chasing-the-8-hour-app/&quot; target=&quot;_blank&quot;&gt;Sunlight Foundation&#39;s OpenGov Voices blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;em&gt;Cross-posted from the &lt;a href=&quot;http://sunlightfoundation.com/blog/2013/10/11/opengov-voices-chasing-the-8-hour-app/&quot; target=&quot;_blank&quot;&gt;Sunlight Foundation's OpenGov Voices blog&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;A few weeks ago, &lt;a title=&quot;Hack Jersey&quot; href=&quot;http://www.hackjersey.com&quot; target=&quot;_blank&quot;&gt;Hack Jersey&lt;/a&gt; brought a group of journalists and developers together to wrestle with campaign finance data. We thought it would be a good opportunity for many to get their hands dirty and to start thinking about new ways of reporting and building with the data.&lt;/p&gt;
 
-&lt;p&gt;In one room of our event at the &lt;a href=&quot;http://www.njit.edu/&quot;&gt;New Jersey Institute of Technology&lt;/a&gt;, a group of journalists went on a data expedition, learning how to explore reports from the state&#39;s &lt;a href=&quot;http://www.hackjersey.com/2013/09/guiding-journalists-through-strange-world-of-money-and-politics/&quot;&gt;Election Law Enforcement Commission&lt;/a&gt;. In another, we gathered developers to try to build a campaign finance app for New Jersey using the &lt;a href=&quot;http://sunlightfoundation.com/api/&quot;&gt;Sunlight Foundation&#39;s APIs&lt;/a&gt; in a single work session.&lt;/p&gt;
+&lt;p&gt;In one room of our event at the &lt;a href=&quot;http://www.njit.edu/&quot;&gt;New Jersey Institute of Technology&lt;/a&gt;, a group of journalists went on a data expedition, learning how to explore reports from the state's &lt;a href=&quot;http://www.hackjersey.com/2013/09/guiding-journalists-through-strange-world-of-money-and-politics/&quot;&gt;Election Law Enforcement Commission&lt;/a&gt;. In another, we gathered developers to try to build a campaign finance app for New Jersey using the &lt;a href=&quot;http://sunlightfoundation.com/api/&quot;&gt;Sunlight Foundation's APIs&lt;/a&gt; in a single work session.&lt;/p&gt;
 
 &lt;p&gt;We began Hack Jersey about a year ago, starting with some conversations between journalists and developers who wanted to work together to improve news and data in the Garden State. Since then, with the support of the &lt;a href=&quot;http://njnewscommons.org/&quot;&gt;NJ News Commons&lt;/a&gt; and &lt;a href=&quot;http://www.mozillaopennews.org/&quot;&gt;Knight-Mozilla OpenNews&lt;/a&gt;, we sponsored the &lt;a href=&quot;http://sunlightfoundation.com/blog/2013/03/29/opengov-voices-hack-jersey-hackathon-public-data-solving-problems/&quot;&gt;first news-themed hackathon in New Jersey&lt;/a&gt; and several smaller training events.&lt;/p&gt;
 
-&lt;p&gt;We&#39;ve been eager to take the excitement from the traditional hackathon competition and translate it into projects that news organizations and news consumers can actually use. We wanted our &lt;a href=&quot;http://www.hackjersey.com/event/law-money-and-politics/&quot;&gt;&quot;Law, Money &amp;amp; Politics&quot; hackday&lt;/a&gt; to entice developers to work together to solve a news problem instead of competing against one another. We were psyched to be able to use Sunlight&#39;s APIs in that effort and to have the support of the foundation, which helped sponsor our event.&lt;/p&gt;
+&lt;p&gt;We've been eager to take the excitement from the traditional hackathon competition and translate it into projects that news organizations and news consumers can actually use. We wanted our &lt;a href=&quot;http://www.hackjersey.com/event/law-money-and-politics/&quot;&gt;&quot;Law, Money &amp;amp; Politics&quot; hackday&lt;/a&gt; to entice developers to work together to solve a news problem instead of competing against one another. We were psyched to be able to use Sunlight's APIs in that effort and to have the support of the foundation, which helped sponsor our event.&lt;/p&gt;
 
 &lt;p&gt;There was clearly an interest among developers in this approach. About 15 coders--from computer science programs at local universities, the startup community and nearby news organizations--came to work, and another four helped us plan the project in our pre-hack meetups.&lt;/p&gt;
 
 &lt;p&gt;As the group took shape, we needed to figure out what we wanted to build. We spent almost four hours over two weeks talking and thinking about ideas we solicited from local news organizations. What problem did we want our app to solve?&lt;/p&gt;
 
-&lt;p&gt;We all agreed that campaign finance is a murky, labyrinthine realm and that people in New Jersey could use all the help they could get understanding it. We love the Sunlight Foundation&#39;s &lt;a href=&quot;http://data.influenceexplorer.com/api&quot;&gt;InfluenceExplorer API and the way it makes&lt;/a&gt; state data, cleaned and cared for by the &lt;a href=&quot;http://www.followthemoney.org/&quot;&gt;National Institute for Money in State Politics&lt;/a&gt;, accessible. We could spend a whole hack day or two trying to mold our state ELEC data into a more useful format, but InfluenceExplorer and NIMSP has done a lot of that dirty work for us.&lt;/p&gt;
+&lt;p&gt;We all agreed that campaign finance is a murky, labyrinthine realm and that people in New Jersey could use all the help they could get understanding it. We love the Sunlight Foundation's &lt;a href=&quot;http://data.influenceexplorer.com/api&quot;&gt;InfluenceExplorer API and the way it makes&lt;/a&gt; state data, cleaned and cared for by the &lt;a href=&quot;http://www.followthemoney.org/&quot;&gt;National Institute for Money in State Politics&lt;/a&gt;, accessible. We could spend a whole hack day or two trying to mold our state ELEC data into a more useful format, but InfluenceExplorer and NIMSP has done a lot of that dirty work for us.&lt;/p&gt;
 
 &lt;p&gt;After what we thought was much discussion and tinkering with the &lt;a href=&quot;http://tryit.sunlightfoundation.com/influenceexplorer&quot;&gt;API&lt;/a&gt;, we zeroed in on the idea of comparing campaign donations coming from industries into state elections. What industries were backing the most winners in New Jersey? How was campaign spending by industry changing from cycle to cycle? What industries were behind some of our more notable politicians?&lt;/p&gt;
 
-&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img class=&quot;size-full wp-image-56374  aligncenter&quot; src=&quot;http://sunlightfoundation.com/media/2013/10/Hackers-at-Hack-Jersey.png&quot; alt=&quot;Hackers at Hack Jersey&quot; width=&quot;547&quot; height=&quot;392&quot; /&gt;&lt;br /&gt;&lt;em&gt;Hackers at Hack Jersey&#39;s Law, Money and Politics Hack day. Photo by Tom Meagher.&lt;/em&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img class=&quot;size-full wp-image-56374  aligncenter&quot; src=&quot;http://sunlightfoundation.com/media/2013/10/Hackers-at-Hack-Jersey.png&quot; alt=&quot;Hackers at Hack Jersey&quot; width=&quot;547&quot; height=&quot;392&quot; /&gt;&lt;br /&gt;&lt;em&gt;Hackers at Hack Jersey's Law, Money and Politics Hack day. Photo by Tom Meagher.&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;With that much decided, our team members volunteered to take certain development roles, and we got ready for the hack day. We imagined a front page with a 30,000-foot-view that would show charts of how much industries have spent on all New Jersey campaigns available in the data, going back more than 10 years. After that, we thought our user could drill in to look at specific industries and how their spending changed from cycle to cycle. Or you could put candidates in specific races side-by-side to see what industries supported them.&lt;/p&gt;
 
 &lt;p&gt;But we quickly realized that the API, which offers access to individual campaign donations by state, only really returns requests for top industry spending across the whole nation. There was no method (yet) to let us grab the top industries in just a certain state or a specific year.&lt;/p&gt;
 
-&lt;p&gt;As the day went on, we hit a few more snags when we realized there wasn&#39;t an easy way through the API to get all the candidates who lost elections. So we downloaded the &lt;a href=&quot;http://data.influenceexplorer.com/bulk/&quot;&gt;bulk data&lt;/a&gt; from Influence Explorer and pulled those candidates out ourselves. With each unexpected misstep, the minutes and hours flew by. In the hopes of finishing a project, we&#39;d shrink the scope and tighten our focus.&lt;/p&gt;
+&lt;p&gt;As the day went on, we hit a few more snags when we realized there wasn't an easy way through the API to get all the candidates who lost elections. So we downloaded the &lt;a href=&quot;http://data.influenceexplorer.com/bulk/&quot;&gt;bulk data&lt;/a&gt; from Influence Explorer and pulled those candidates out ourselves. With each unexpected misstep, the minutes and hours flew by. In the hopes of finishing a project, we'd shrink the scope and tighten our focus.&lt;/p&gt;
 
 &lt;p&gt;We finally decided, with a couple of hours left, that we could build a demo app that would let you pick an election cycle in New Jersey, and then browse the available races and see what industries supported each candidate. Two of our developers, who also happen to be the leads for our event sponsor Broadstreet Ads, led the final sprint. They helped pull together a Python web.py framework with Angular.js and Highcharts to power the front end. &lt;a href=&quot;http://hackjersey.broadstreetads.com&quot; target=&quot;_blank&quot;&gt;We could almost see the finish line&lt;/a&gt;. And then we ran out of time.&lt;/p&gt;
 
-&lt;p&gt;It&#39;s hard to build anything in 8 hours, much less bring 15 people together to make a single, deep and useful news application. Although we fell short, we had fun and learned a lot in the process for how to do it better next time:&lt;/p&gt;
+&lt;p&gt;It's hard to build anything in 8 hours, much less bring 15 people together to make a single, deep and useful news application. Although we fell short, we had fun and learned a lot in the process for how to do it better next time:&lt;/p&gt;
 
 &lt;ul&gt;
 	&lt;li&gt;We could have had a better handle on the very wide range of experience and backgrounds our developers brought to the team. By taking a little more time talking about our skills, we could have focused our project more closely on an attainable goal for such a short window of coding. Time is expensive and in short supply. There is no time for indecision.&lt;/li&gt;
-	&lt;li&gt;Double the time spent planning before the event, and then double it again. Although we did a good job of considering the overall vision and anticipating some of the quirks of the data, we needed to set very specific tasks for everyone on the team and make sure people were clear about their roles and comfortable. A large group doesn&#39;t always lend itself easily to collaborative exploration or problem solving. People need to feel like they&#39;re in the mix, especially if they&#39;re giving up a Saturday for a civic hack project.&lt;/li&gt;
+	&lt;li&gt;Double the time spent planning before the event, and then double it again. Although we did a good job of considering the overall vision and anticipating some of the quirks of the data, we needed to set very specific tasks for everyone on the team and make sure people were clear about their roles and comfortable. A large group doesn't always lend itself easily to collaborative exploration or problem solving. People need to feel like they're in the mix, especially if they're giving up a Saturday for a civic hack project.&lt;/li&gt;
 	&lt;li&gt;Do more &lt;a href=&quot;http://en.wikipedia.org/wiki/Pair_programming&quot; target=&quot;_blank&quot;&gt;pair programming&lt;/a&gt;. With so many developers, we should have put everyone in pairs from the outset, so each person would have a buddy to help spot mistakes and typos that can eat up precious time. We also could have designated experienced developers as leaders for each aspect (back end, front end, design, documentation), who could have helped make some of the design and implementation decisions more quickly.&lt;/li&gt;
 	&lt;li&gt;Read the documentation. Test the methods. It seems so simple, but although we spent a few hours with the Influence Explorer documentation, we still kept finding unexpected nuances in the data it returned, very late in the day. If we had spent more time with it, we could have spotted potential detours more quickly.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;This was an experiment for us. Some experiments don&#39;t work, but &lt;a href=&quot;http://www.hackjersey.com/2013/09/developing-a-solution-for-tracking-campaign-giving/%20&quot;&gt;you can learn a lot from failure&lt;/a&gt;. Nearly everyone who participated said they want to work on more news hacking initiatives in the future. Several have said they plan to dig deeper into campaign finance and Sunlight&#39;s APIs.&lt;/p&gt;
+&lt;p&gt;This was an experiment for us. Some experiments don't work, but &lt;a href=&quot;http://www.hackjersey.com/2013/09/developing-a-solution-for-tracking-campaign-giving/%20&quot;&gt;you can learn a lot from failure&lt;/a&gt;. Nearly everyone who participated said they want to work on more news hacking initiatives in the future. Several have said they plan to dig deeper into campaign finance and Sunlight's APIs.&lt;/p&gt;
 
-&lt;p&gt;Are you interested in our idea? Take a look at the repo, &lt;a href=&quot;https://github.com/hackjersey/politics&quot;&gt;fork it and hack away&lt;/a&gt;. We&#39;d love to get others involved, whether you&#39;re from New Jersey or elsewhere.&lt;/p&gt;
+&lt;p&gt;Are you interested in our idea? Take a look at the repo, &lt;a href=&quot;https://github.com/hackjersey/politics&quot;&gt;fork it and hack away&lt;/a&gt;. We'd love to get others involved, whether you're from New Jersey or elsewhere.&lt;/p&gt;
 
-&lt;p&gt;Although we didn&#39;t get as far as we would have liked, it was a good experience for us at Hack Jersey. We got 15 developers thinking about campaign finance and starting to learn the ins, the outs and the possibilities.&lt;/p&gt;
+&lt;p&gt;Although we didn't get as far as we would have liked, it was a good experience for us at Hack Jersey. We got 15 developers thinking about campaign finance and starting to learn the ins, the outs and the possibilities.&lt;/p&gt;
 
-&lt;p&gt;We couldn&#39;t grow an orchard in a day, but we planted a lot of good seeds. And that&#39;s a pretty good place to start.&lt;/p&gt;
+&lt;p&gt;We couldn't grow an orchard in a day, but we planted a lot of good seeds. And that's a pretty good place to start.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2013/10/chasing-8-hour-app.html&quot;&gt;Chasing the 8-hour app&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on October 19, 2013.&lt;/p&gt;</content>
 </entry>
@@ -440,10 +502,10 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;h2 id=&quot;the-disciplines-of-data-reporting&quot;&gt;The disciplines of data reporting&lt;/h2&gt;
 
-&lt;h3 id=&quot;collection&quot;&gt;1. Collection&lt;/h3&gt;
+&lt;h3 id=&quot;1-collection&quot;&gt;1. Collection&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://pandaproject.net/&quot;&gt;PANDA Project &lt;/a&gt;- a newsroom warehouse for data, with &lt;a href=&quot;http://pandaproject.net/docs/search-subscriptions.html&quot;&gt;search alerts&lt;/a&gt; when new data arrives	&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pandaproject.net/&quot;&gt;PANDA Project &lt;/a&gt;- a newsroom warehouse for data, with &lt;a href=&quot;http://pandaproject.net/docs/search-subscriptions.html&quot;&gt;search alerts&lt;/a&gt; when new data arrives&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.foiamachine.org/&quot;&gt;FOIA Machine&lt;/a&gt; - a new site to help track FOIA requests&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.documentcloud.org/home&quot;&gt;DocumentCloud&lt;/a&gt; - a free tool for journalists to store, annotate, publish and embed PDF documents&lt;/li&gt;
   &lt;li&gt;For scraping web pages - &lt;a href=&quot;http://www.reporterslab.org/scraping-roundup/&quot;&gt;http://www.reporterslab.org/scraping-roundup/&lt;/a&gt;&lt;/li&gt;
@@ -451,15 +513,15 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
   &lt;li&gt;&lt;a href=&quot;http://source.mozillaopennews.org/en-US/articles/introducing-tabula/&quot;&gt;Tabula&lt;/a&gt; - a new project to help make PDF scraping easier&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;cleaning&quot;&gt;2. Cleaning&lt;/h3&gt;
+&lt;h3 id=&quot;2-cleaning&quot;&gt;2. Cleaning&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;My go-to cleaning tool for relatively small data sets (less than, say, 10,000 records) is &lt;a href=&quot;http://www.openrefine.org/&quot;&gt;Open Refine&lt;/a&gt;. Can’t say enough good things about it. In this blog post are &lt;a href=&quot;/blog/2013/02/more-tips-for-using-openrefine.html&quot;&gt;links to my Open Refine class&lt;/a&gt; and several others to get you started.	&lt;/li&gt;
+  &lt;li&gt;My go-to cleaning tool for relatively small data sets (less than, say, 10,000 records) is &lt;a href=&quot;http://www.openrefine.org/&quot;&gt;Open Refine&lt;/a&gt;. Can’t say enough good things about it. In this blog post are &lt;a href=&quot;/blog/2013/02/more-tips-for-using-openrefine.html&quot;&gt;links to my Open Refine class&lt;/a&gt; and several others to get you started.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.twincities.com/thedatamine&quot;&gt;MaryJo Webster&lt;/a&gt;’s &lt;a href=&quot;http://dl.dropboxusercontent.com/u/26567839/My%20Favorite%20%28Excel%29%20Things.pdf&quot;&gt;“Excel Magic” class&lt;/a&gt; for cleaning data in Excel.&lt;/li&gt;
   &lt;li&gt;For the truly adventurous, check out Dan Nguyen’s great new ebook &lt;a href=&quot;http://regex.bastardsbook.com/&quot;&gt;introducing regular expressions&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;analysis&quot;&gt;3. Analysis&lt;/h3&gt;
+&lt;h3 id=&quot;3-analysis&quot;&gt;3. Analysis&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Excel is going to be your favorite tool ever. There are a number of good tutorials on basic Excel and more advanced Pivot Tables &lt;a href=&quot;http://www.hackjersey.com/2013/01/17/roadmap-to-data-skills/&quot;&gt;listed here&lt;/a&gt;, as well as a link to a great, free online course introducing databases.&lt;/li&gt;
@@ -467,10 +529,10 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
   &lt;li&gt;Only for a few more days, you can get 50-percent off of all Excel e-books from O’Reilly here: &lt;a href=&quot;http://bit.ly/R1C13EXCEL&quot;&gt;bit.ly/R1C13EXCEL&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;visualization&quot;&gt;4. Visualization&lt;/h3&gt;
+&lt;h3 id=&quot;4-visualization&quot;&gt;4. Visualization&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Sharon Machlis of ComputerWorld’s great list of &lt;a href=&quot;http://www.computerworld.com/s/article/9214755/Chart_and_image_gallery_30_free_tools_for_data_visualization_and_analysis&quot;&gt;30 free dataviz tools&lt;/a&gt;.	&lt;/li&gt;
+  &lt;li&gt;Sharon Machlis of ComputerWorld’s great list of &lt;a href=&quot;http://www.computerworld.com/s/article/9214755/Chart_and_image_gallery_30_free_tools_for_data_visualization_and_analysis&quot;&gt;30 free dataviz tools&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;A favorite for making embeddable maps and charts, Google’s experimental &lt;a href=&quot;https://www.google.com/fusiontables/&quot;&gt;Fusion Tables&lt;/a&gt;.&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/blog/2012/12/talking-data-in-the-nutmeg-state.html&quot;&gt;Fusion Tables tutorial&lt;/a&gt; (on the second half of the post).&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://support.google.com/fusiontables/answer/184641/?hl=en&amp;amp;&quot;&gt;More Fusion Tables tutorials&lt;/a&gt;.&lt;/li&gt;
@@ -480,17 +542,17 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
   &lt;li&gt;Make searchable, sortable tables and embed them with &lt;a href=&quot;http://multimedia.journalism.berkeley.edu/tools/freedive/&quot;&gt;FreeDive&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&quot;interaction&quot;&gt;5. Interaction&lt;/h3&gt;
+&lt;h3 id=&quot;5-interaction&quot;&gt;5. Interaction&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;The &lt;a href=&quot;https://github.com/hackjersey&quot;&gt;open source code from Hack Jersey&lt;/a&gt; on Github. (Remember the caveat that this is hackathon code and in most cases probably not ready for prime time)	&lt;/li&gt;
+  &lt;li&gt;The &lt;a href=&quot;https://github.com/hackjersey&quot;&gt;open source code from Hack Jersey&lt;/a&gt; on Github. (Remember the caveat that this is hackathon code and in most cases probably not ready for prime time)&lt;/li&gt;
   &lt;li&gt;The wonderful &lt;a href=&quot;http://source.mozillaopennews.org/en-US/&quot;&gt;Source blog&lt;/a&gt; from Knight-Mozilla &lt;a href=&quot;http://www.mozillaopennews.org/&quot;&gt;Open News&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;support-groups&quot;&gt;Support groups&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://ire.org/&quot;&gt;Investigative Reporters &amp;amp; Editors&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ire.org/&quot;&gt;Investigative Reporters &amp;amp; Editors&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.ire.org/resource-center/listservs/subscribe-nicar-l/&quot;&gt;IRE’s NICAR-L email list &lt;/a&gt;for computer-assisted reporting and data journalism discussion&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://hackshackers.com/&quot;&gt;Hacks/Hackers&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://journalists.org/&quot;&gt;Online News Association&lt;/a&gt;&lt;/li&gt;
@@ -601,37 +663,40 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;The first thing you want to know is&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;git status&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;    git status&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;This will orient you to where you are, what files have changed and whether you’ve saved your snapshot of your project (which we’ll soon start calling a “commit”). This is your friend.&lt;/p&gt;
 
 &lt;p&gt;Where you work and where you edit your code is the working directory. When you’re ready to take a snapshot of your code, you “add” your file to the staging area.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;git add foo.py&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;    git add foo.py&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://codingdomain.com/git/partial-commits/git-staging-area.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;After you’ve made all the changes you want, and you’ve “added” all of your updated files to the staging area, it’s time to make a commit. And with each commit, you want to add a short message describing what the changes are.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;git commit -m &amp;quot;finally debugged my own idiocy. maybe...&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt; 
+    git commit -m &quot;finally debugged my own idiocy. maybe...&quot;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Now all of your updates are saved in your file respository, and if you want to, you can your snapshot is made. You could very easily stop here and just keep the audit trail on your machine. But the other half of this happy marriage is &lt;a href=&quot;http://www.github.com&quot;&gt;Github&lt;/a&gt;.&lt;/p&gt;
 
-&lt;h2 id=&quot;what-is-github&quot;&gt;What is Github?&lt;/h2&gt;
+&lt;p&gt;##What is Github?&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo-transparent.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Github is a social coding site, and it’s a hosted remote repository.&lt;/p&gt;
 
-&lt;p&gt;It lets you back up all of your code online (for free if it’s open source), and it lets you see how other developers do it and learn from their work. &lt;/p&gt;
+&lt;p&gt;It lets you back up all of your code online (for free if it’s open source), and it lets you see how other developers do it and learn from their work.&lt;/p&gt;
 
-&lt;p&gt;Here’s how you do it: &lt;/p&gt;
+&lt;p&gt;Here’s how you do it:&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;git push -u origin master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;     
+    git push -u origin master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
-&lt;p&gt;You “push” your code from the “master” branch that’s on your machine to your remote repository on Github, which we call “origin.” (This may have already been configured for you if you cloned your repo from github. Otherwise, you would have to &lt;/p&gt;
+&lt;p&gt;You “push” your code from the “master” branch that’s on your machine to your remote repository on Github, which we call “origin.” (This may have already been configured for you if you cloned your repo from github. Otherwise, you would have to&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;git remote add origin git@github.com:tommeagher/myrepo.git&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;         
+    git remote add origin git@github.com:tommeagher/myrepo.git&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;)&lt;/p&gt;
 
@@ -641,11 +706,13 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;You can use&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;git fetch origin&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;             
+     git fetch origin&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;to gather the updated files from your remote “origin” repository. Now you want to “merge” the changes from the master branch on your remote “origin” repository into your master branch on your machine.&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;git merge origin/master&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;         
+    git merge origin/master&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 
 &lt;p&gt;Now your files are updated from the remote repository. Now keep coding.&lt;/p&gt;
 
@@ -703,12 +770,12 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 
 &lt;p&gt;&lt;em&gt;The first class was an overview discussion of “data journalism” and the many and sundry techniques that encompasses. The second class was a hands-on walk-through of Excel and Google Fusion Tables. The handouts and cheatsheets cover nearly all of the tips we discussed. If you have questions, or would like to know more, please leave a comment or send me an email.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;intro-to-data---slide-deckhttpwwwhaikudeckcompsd9nvkcej0&quot;&gt;Intro to data -&lt;a href=&quot;http://www.haikudeck.com/p/sd9NVKceJ0&quot;&gt; slide deck&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;intro-to-data---slide-deck&quot;&gt;Intro to data -&lt;a href=&quot;http://www.haikudeck.com/p/sd9NVKceJ0&quot;&gt; slide deck&lt;/a&gt;&lt;/h2&gt;
 
 &lt;h3 id=&quot;handouts&quot;&gt;Handouts:&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/files/tips/mathhandout.doc&quot;&gt;Newsroom math overview&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/tips/mathhandout.doc&quot;&gt;Newsroom math overview&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/files/tips/NumbersintheNewsroom.doc&quot;&gt;Numbers in the Newsroom by Sarah Cohen&lt;/a&gt; by Sarah Cohen&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/files/tips/NewsroomMathCribSheet.doc&quot;&gt;Newsroom math crib sheet by Steve Doig&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
@@ -716,19 +783,19 @@ Over 21 months at Thunderdome, we created a lot of great projects, from interact
 &lt;h3 id=&quot;extra-reading&quot;&gt;Extra reading&lt;/h3&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.sampler.isr.umich.edu/2011/featured/revealing-the-roots-of-a-riot/&quot;&gt;The roots of “precision journalism”&lt;/a&gt;	&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.santacruzlive.com/blogs/online/2012/11/27/how-sentinel-reporter-jason-hoppin-predicted-the-outcome-of-local-supervisors-race/&quot;&gt;How Jason Hoppin predicted a close local election&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sampler.isr.umich.edu/2011/featured/revealing-the-roots-of-a-riot/&quot;&gt;The roots of “precision journalism”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.santacruzlive.com/blogs/online/2012/11/27/how-sentinel-reporter-jason-hoppin-predicted-the-outcome-of-local-supervisors-race/&quot;&gt;How Jason Hoppin predicted a close local election&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;A video of &lt;a href=&quot;http://www.palewire.com&quot;&gt;Ben Welsh&lt;/a&gt;’s &lt;a href=&quot;http://youtu.be/iP-On8PzEy8&quot;&gt;talk on data journalism&lt;/a&gt;. He explains it very well, ”It’s only in journalism that we continue to distinguish ourselves with the use of Microsoft Excel.”&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;h3 id=&quot;hands-on-excel--fusion-tables-class&quot;&gt;Hands-on Excel &amp;amp; Fusion Tables class&lt;/h3&gt;
+&lt;p&gt;###Hands-on Excel &amp;amp; Fusion Tables class&lt;/p&gt;
 
-&lt;h4 id=&quot;data-for-excel-exercises&quot;&gt;Data for Excel exercises&lt;/h4&gt;
+&lt;p&gt;####Data for Excel exercises&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;/files/2012/11/schoolsdatav1.xlsx&quot;&gt;Schoolsdatav1.xlsx&lt;/a&gt;	&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/files/2012/11/schoolsdatav1.xlsx&quot;&gt;Schoolsdatav1.xlsx&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/files/2012/11/2010-2011hs-prresults.xlsx&quot;&gt;2010-2011hs-prresults.xlsx&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/files/2012/11/demographicsnapshot2012public.xlsx&quot;&gt;DemographicSnapshotEdited.xlsx&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/files/2008/09/3appointmentsclass.xls&quot;&gt;Appointments.xls&lt;/a&gt;&lt;/li&gt;
@@ -920,7 +987,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;We’ve tried off-the-shelf products to input election data into tables with disastrous, near-comical results. Without a single developer in our newsroom, we’ve cobbled together solutions and written hundreds of lines of code to reverse engineer our hand-collected data and take it from our website into our print pagination system. For something that’s over in just a few hours, we invest an incredible amount of time and effort into getting it right, often without being really satisfied with the product.&lt;/p&gt;
 
-&lt;p&gt;All of that struggle has led us here, to our proposal for the Knight Foundation’s &lt;a href=&quot;http://www.newschallenge.org&quot;&gt;News Innovation Challenge&lt;/a&gt; for a &lt;a href=&quot;http://tommeagher.tumblr.com/post/25573223080/knight-news-challenge-round-2-voter-the-versatile&quot;&gt;project we’re calling VOTER&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;All of that struggle has led us here, to our proposal for the Knight Foundation’s &lt;a href=&quot;http://www.newschallenge.org&quot;&gt;News Innovation Challenge&lt;/a&gt; for a &lt;a href=&quot;http://tommeagher.tumblr.com/post/25573223080/knight-news-challenge-round-2-voter-the-versatile&quot;&gt;project we’re calling VOTER&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;VOTER is a browser-based program that will help organizations streamline the collection of election results and create embeddable online graphics that will work on any website, especially the common blogging platforms that power many news operations. It is still very early in the development process, but we’re excited about the News Challenge and even more psyched about the possibility that we can turn our trauma into something that will save newsrooms everywhere a whole lot of heartache.&lt;/p&gt;
 
@@ -943,7 +1010,7 @@ estimate of density: 3 sq. feet/per person
   </author>
   <content type="html">&lt;p&gt;Back at the Herald News, several of the editors and reporters wrote a regular series of columns for the newsroom called “Best Practices.” In digging through my archives, I’ve found several that are timeless that I will gradually repost. This first one was written by &lt;a href=&quot;/blog/2008/02/maslow-mourned.html&quot;&gt;Jonathan Maslow&lt;/a&gt;, and his tips for being transparent in our reporting and writing continue to ring true.&lt;/p&gt;
 
-&lt;p&gt;Our credibility as journalists and as a newspaper is the most important equity we have in the marketplace of ideas. The more readers trust us, the better our performance. We have to earn that trust every single day. One of the most important ways to do this is leveling with our readers: telling them what we know, how we know it, what we don’t know, why we don’t know it and what’s what. In practice this entails the highest degree of transparency possible in our publication. Work toward greater transparency: &lt;/p&gt;
+&lt;p&gt;Our credibility as journalists and as a newspaper is the most important equity we have in the marketplace of ideas. The more readers trust us, the better our performance. We have to earn that trust every single day. One of the most important ways to do this is leveling with our readers: telling them what we know, how we know it, what we don’t know, why we don’t know it and what’s what. In practice this entails the highest degree of transparency possible in our publication. Work toward greater transparency:&lt;/p&gt;
 
 &lt;p&gt;1) Don’t use hearsay. Don’t describe things you didn’t see, but rather attribute it to a firsthand witness and tell the reader who that witness was. If you are writing about a public meeting you did not attend, be aware that readers must not be given a false impression. You don’t need to say you weren’t there. But you can’t report things as if you were there.&lt;/p&gt;
 
@@ -982,7 +1049,7 @@ estimate of density: 3 sq. feet/per person
 
 &lt;h2 id=&quot;youre-faced-with-a-dilemma-thats-fairly-common-in-many-newsrooms&quot;&gt;You’re faced with a dilemma that’s fairly common in many newsrooms.&lt;/h2&gt;
 
-&lt;p&gt;Say, for example, a series of accidents kills a number of children crossing busy streets near you. Now, you want to know the deadliest roads or intersections in your area (this is not the dilemma, just wait for it). &lt;/p&gt;
+&lt;p&gt;Say, for example, a series of accidents kills a number of children crossing busy streets near you. Now, you want to know the deadliest roads or intersections in your area (this is not the dilemma, just wait for it).&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://4.bp.blogspot.com/_f0bvyZMrZ9k/TTjrIgdvMaI/AAAAAAAAGFE/UppLYR8YaJw/s1600/barney-fife.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -1189,11 +1256,13 @@ estimate of density: 3 sq. feet/per person
 
 &lt;h2 id=&quot;what-did-we-learn-here-today&quot;&gt;What did we learn here today?&lt;/h2&gt;
 
-&lt;p&gt;Refine is a huge time saver and allows you to do commonly tedious data cleaning tasks with a few clicks of the mouse. We saw how to:
-- Import and export data.
-- Copy and edit columns, trimming whitespaces or changing the capitalization.
-- Use facets to filter and edit data
-- Cluster a column to standardize spellings and entries.&lt;/p&gt;
+&lt;p&gt;Refine is a huge time saver and allows you to do commonly tedious data cleaning tasks with a few clicks of the mouse. We saw how to:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Import and export data.&lt;/li&gt;
+  &lt;li&gt;Copy and edit columns, trimming whitespaces or changing the capitalization.&lt;/li&gt;
+  &lt;li&gt;Use facets to filter and edit data&lt;/li&gt;
+  &lt;li&gt;Cluster a column to standardize spellings and entries.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;This has been a whirlwind sprint through this program, but hopefully it’s given you a taste of what it can do.&lt;/p&gt;
 
@@ -1245,16 +1314,16 @@ estimate of density: 3 sq. feet/per person
   &lt;li&gt;Where did the data come from?&lt;/li&gt;
   &lt;li&gt;Who created it? Is this the best source for this data? What was the methodology behind its collection?&lt;/li&gt;
   &lt;li&gt;What documentation came with it?&lt;/li&gt;
-  &lt;li&gt;Did you read the documentation? &lt;/li&gt;
+  &lt;li&gt;Did you read the documentation?&lt;/li&gt;
   &lt;li&gt;Is there a record layout or data dictionary?&lt;/li&gt;
   &lt;li&gt;Did you save an original copy of the database if you need to retrace your steps?&lt;/li&gt;
   &lt;li&gt;Are your field headings accurate? Do you have the columns labeled correctly?&lt;/li&gt;
   &lt;li&gt;Are you looking at the correct tab? Is there additional data in other tabs in the worksheet?&lt;/li&gt;
   &lt;li&gt;How many records are in your table or database? How many should be there? Are there any missing? Too many? Any chance you maxed out the number of fields the software can handle?&lt;/li&gt;
-  &lt;li&gt;Are there duplicates in the records? * &lt;/li&gt;
+  &lt;li&gt;Are there duplicates in the records? *&lt;/li&gt;
   &lt;li&gt;Examine each column of data one at a time. Is it formatted in the appropriate manner? Are there any gaps in the column? Are any data missing?&lt;/li&gt;
-  &lt;li&gt;Have names and entities been cleaned and standardized? * &lt;/li&gt;
-  &lt;li&gt;Check the aggregation. How was it done? * &lt;/li&gt;
+  &lt;li&gt;Have names and entities been cleaned and standardized? *&lt;/li&gt;
+  &lt;li&gt;Check the aggregation. How was it done? *&lt;/li&gt;
   &lt;li&gt;When joining tables, are you certain the join worked? How many records are there now? Too many? Not enough?&lt;/li&gt;
   &lt;li&gt;When pasting tables with common columns side-by-side in Excel, do they line up? Any chance two records might be switched?&lt;/li&gt;
   &lt;li&gt;What calculation are you trying to do? Are you using the appropriate formula or function for this task?&lt;/li&gt;
@@ -1263,16 +1332,16 @@ estimate of density: 3 sq. feet/per person
   &lt;li&gt;When pasting, is it a good idea to Paste Special&amp;gt;Values to strip out any pesky underlying formulas that may become misdirected?&lt;/li&gt;
   &lt;li&gt;When moving columns, were there any $ anchors that you pasted that now point to the wrong column or row of data and throw off your calculations?&lt;/li&gt;
   &lt;li&gt;Does your calculation make sense?&lt;/li&gt;
-  &lt;li&gt;Are you looking at outliers or values in the middle of the pack? * &lt;/li&gt;
+  &lt;li&gt;Are you looking at outliers or values in the middle of the pack? *&lt;/li&gt;
   &lt;li&gt;Is there an expert–either an agency data guru or academic–who has  vetted your process or calculations?&lt;/li&gt;
-  &lt;li&gt;Have you verified your records against the original records or a sample thereof? * &lt;/li&gt;
+  &lt;li&gt;Have you verified your records against the original records or a sample thereof? *&lt;/li&gt;
   &lt;li&gt;Have you spot-checked individual records to ensure the numbers match up? Did you ask a colleague to assist by reading off numbers to be CQ’d?&lt;/li&gt;
   &lt;li&gt;Have you asked an uninvolved colleague to look at your process, review the numbers and poke holes in the methodology?&lt;/li&gt;
-  &lt;li&gt;Can you reproduce your calculations from the beginning or explain step-by-step how you arrived at your conclusion? &lt;/li&gt;
+  &lt;li&gt;Can you reproduce your calculations from the beginning or explain step-by-step how you arrived at your conclusion?&lt;/li&gt;
   &lt;li&gt;What numbers are you using in the story? Have you circled them and reviewed them in the database? Is the description of the numbers accurate? Does it omit any pertinent details that might mislead an unwary reader?&lt;/li&gt;
-  &lt;li&gt;Are the numbers here based on counting, estimates, projections or guesses? * &lt;/li&gt;
+  &lt;li&gt;Are the numbers here based on counting, estimates, projections or guesses? *&lt;/li&gt;
   &lt;li&gt;Are there any graphics with the story? Have you checked them? Can you verify every number? Are the introduction and column heads accurate? Are there numbers missing from the graphic that are important to the story?&lt;/li&gt;
-  &lt;li&gt;Is there a methodology/nerd box to run with the story? * &lt;/li&gt;
+  &lt;li&gt;Is there a methodology/nerd box to run with the story? *&lt;/li&gt;
   &lt;li&gt;How did you get here, and does it make sense?&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -1369,217 +1438,19 @@ estimate of density: 3 sq. feet/per person
 
 &lt;p&gt;In several cases in New Jersey lately, it’s been a key component of criminal charges against young people. In the &lt;a href=&quot;http://www.nj.com/news/index.ssf/2010/09/hold_new_rutgers_post.html&quot;&gt;Tyler Clementi case&lt;/a&gt;, his former roommate is charged with trying to doctor his Twitter account to remove incriminating information. In the case of a group of Old Bridge teens accused of beating a man to death, they allegedly &lt;a href=&quot;http://www.nj.com/news/index.ssf/2010/11/teens_bragged_about_beating_of.html&quot;&gt;held extensive conversations on Facebook&lt;/a&gt; about the night in question and the beating.&lt;/p&gt;
 
-&lt;h2 id=&quot;and-it-helps-us-track-people-down-like-the-hoboken-woman-who-shot-the-amazing-picture-of-the-space-shuttlehttpwwwnjcomnewsindexssf201105hobokenwomansiphonephotosohtml-from-the-window-of-her-airplane-we-found-her-on-facebook&quot;&gt;And it helps us track people down, like the Hoboken woman who shot &lt;a href=&quot;http://www.nj.com/news/index.ssf/2011/05/hoboken_womans_iphone_photos_o.html&quot;&gt;the amazing picture of the Space Shuttle&lt;/a&gt; from the window of her airplane. We found her on Facebook.&lt;/h2&gt;
+&lt;h2 id=&quot;and-it-helps-us-track-people-down-like-the-hoboken-woman-who-shot-the-amazing-picture-of-the-space-shuttle-from-the-window-of-her-airplane-we-found-her-on-facebook&quot;&gt;And it helps us track people down, like the Hoboken woman who shot &lt;a href=&quot;http://www.nj.com/news/index.ssf/2011/05/hoboken_womans_iphone_photos_o.html&quot;&gt;the amazing picture of the Space Shuttle&lt;/a&gt; from the window of her airplane. We found her on Facebook.&lt;/h2&gt;
 
 &lt;p&gt;My talk went well, although it was a bit disconcerting to notice that one of my fellow panelists, &lt;a href=&quot;http://twitter.com/#!/MPLASD&quot;&gt;Capt. Mike Parker&lt;/a&gt; of the Los Angeles County Sheriff’s Department, was looking up &lt;a href=&quot;http://linkedin.com/in/tommeagher&quot;&gt;my resume&lt;/a&gt; on his laptop as I spoke. Even though I post all these things to the whole world on the internet, it’s easy to forget sometimes that anyone actually looks at it.&lt;/p&gt;
 
 &lt;p&gt;The rest of the day’s discussions offered a good opportunity to see some of these sources in a less-heated environment and learn from the other attendees and panelists (including Ted Gest of &lt;a href=&quot;http://reporters.net/cjj/whoweare.html&quot;&gt;Criminal Justice Journalists&lt;/a&gt; and Nancy Kolb of the &lt;a href=&quot;http://www.theiacp.org/&quot;&gt;International Association of Chiefs of Police&lt;/a&gt;) about some of the resources we all have at our fingertips. I found out about &lt;a href=&quot;http://www.thecrimereport.org/&quot;&gt;The Crime Report&lt;/a&gt;, put together by Criminal Justice Journalists and The Center on Media, Crime and Justice. I also heard about IACP’s handy directory of &lt;a href=&quot;http://www.iacpsocialmedia.org/Directory.aspx&quot;&gt;police agencies with a presence on social media&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Probably the best reminder I heard all day though came from one of the other panelists, &lt;a href=&quot;http://twitter.com/#!/CaptainJeffPaul&quot;&gt;Capt. Jeff Paul&lt;/a&gt;, public information officer for the Morris County Prosecutor’s Office.  He bristled at receiving calls from reporters asking for information, in some cases demanding answers, without ever coming to introduce themselves to him. &lt;/p&gt;
+&lt;p&gt;Probably the best reminder I heard all day though came from one of the other panelists, &lt;a href=&quot;http://twitter.com/#!/CaptainJeffPaul&quot;&gt;Capt. Jeff Paul&lt;/a&gt;, public information officer for the Morris County Prosecutor’s Office.  He bristled at receiving calls from reporters asking for information, in some cases demanding answers, without ever coming to introduce themselves to him.&lt;/p&gt;
 
 &lt;p&gt;Even with all of this magic from the interwebs to help us communicate faster and easier, there really is no replacement for building a personal relationship, face-to-face, with a police source, before you’re on deadline in the middle of a catastrophe.&lt;/p&gt;
 
 &lt;p&gt;Leave a comment below or follow me on Twitter &lt;a href=&quot;http://www.twitter.com/ultracasual/&quot;&gt;@ultracasual&lt;/a&gt; and tell me about your experience working with police or journalists on social media networks.&lt;/p&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2011/05/cops-and-social-media.html&quot;&gt;Hacks, Cops and the Internet&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on May 20, 2011.&lt;/p&gt;</content>
-</entry>
-
-
-<entry>
-  <title type="html"><![CDATA[Story Tips Short And Long]]></title>
-  <link rel="alternate" type="text/html" href="http://www.tommeagher.com/blog/2010/10/story-tips-short-and-long.html" />
-  <id>http://www.tommeagher.com/blog/2010/10/story-tips-short-and-long</id>
-  <published>2010-10-06T00:00:00-04:00</published>
-  <updated>2010-10-06T00:00:00-04:00</updated>
-  <author>
-    <name>Tom Meagher</name>
-    <uri>http://www.tommeagher.com</uri>
-    <email>hello+site@tommeagher.com</email>
-  </author>
-  <content type="html">&lt;p&gt;1.Write tight. Maybe the most important thing you can do to increase your productivity without doing more work is to write tight and trim your own work. Write briefs instead of 8 inchers. Write 8 inchers instead of 10 inchers. Write 10-12s instead of 12-15s. Write 12-15s instead of 15-18s. The tighter you write, the less time it takes and the more time you free up for other stuff. Time is a gift to the news reporter. Use that extra hour or half hour to stop in on your beat, talk to a couple sources on the phone, read online what other newspapers are doing, or skim-read documents or reports.&lt;/p&gt;
-
-&lt;p&gt;​2. Prewrite/outline. Whether you sweat over your copy or it flows from your fingers like hot fudge, prewriting saves you time and energy. Take five to 10 minutes before you start to think how am I going to handle my story. Look at your notes and materials. Make yourself a thumbnail outline. What’s your lede? What’s your best quote(s)? What’s the news important to readers? What’s the background? What’s the context? Once you’ve got a bijou outline, you’ve got a roadmap. Drive, she said.&lt;/p&gt;
-
-&lt;p&gt;​3. Demand coaching. Editors know they need to story conference and coach writing and help with resources and ideas, but things get hectic and sometimes they don’t. That does not mean you should not ask advice and coaching. The crucial times to talk to an editor are: before you start reporting; after you finish reporting, but before you start writing; when you’ve got a top; and, of course, when you have to make a late decision on whether the story holds up, reaching an alternate source, etc.&lt;/p&gt;
-
-&lt;p&gt;4.Master the art of the weekbook. It can’t be said too often or emphasized too much: the weekbook is the key to excellent and efficient performance. At its basic level, the weekbook is a scheduling device. To take your weekbook to a higher level of value requires the additional ingredient: forethought. Here are several specific practices that can improve your weekbook - as well as your editors’ esteem and your job satisfaction:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Build a good mix of stories every week. No one wants to do the same thing day after day. Build concise dailies around news events, meetings, issues. Build in patches (centerpieces) by thinking what will make a good photo story. Build a weekend story every week by giving yourself a couple hours early to midweek to report, a day or three quarters day midweek to late week to write. Build in overnights with a 2 p.m. deadline, freeing up an afternoon for weekend story or enterprise work. Put in a strong daily Monday to anchor the week and a timeless news feature, profile or human interest story later in the week, that can be used on the weekend.&lt;/li&gt;
-  &lt;li&gt;News stories break like waves. It’s coming (preview), it breaks (hard news) and recedes (impact, folo, news feature, analysis, preview of next stage). Think of that wave shape. Ride the wave and you’ll get three or more hits off one news event.&lt;/li&gt;
-  &lt;li&gt;Add a line called FOLO beneath every budget line in your weekbook. After you’ve finished your story, go back and give yourself leads to follow up: sources not reached, questions unanswered on deadline, possible profiles of people in the news, impact of an event, stories that ask why? And how? instead of just who, what, where and when. Readers’ surveys often indicate that one of the things readers dislike is hit and miss coverage, especially one day wonders. Readers want closure. They want the rest of the story. Use the FOLO line to help fill your next weekbook.&lt;/li&gt;
-  &lt;li&gt;Make your weekbook a living document. Go back and change it, add to it, as the week goes along. It only takes a minute. Then re-mine that weekbook in subsequent weeks.&lt;/li&gt;
-  &lt;li&gt;If you know you are going to be working on a weekend, start talking to your weekend editor about your story early in the week. There’s nothing more awful than a reporter in panic on Thursday afternoon with no idea what to cover on Saturday or Sunday.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;​4. Team up with colleagues. It’s challenging, it’s fun, it’s productive. And it gives readers from various towns some sense of how news cuts across municipal boundaries.&lt;/p&gt;
-
-&lt;p&gt;​5. Keep a tickler file, aka a futures file; fill it with clips, letters, notes, pictures, labels and related junk of every variety from which story ideas will emerge. Review it now and then.&lt;/p&gt;
-
-&lt;p&gt;​6. Don’t fall into the rut of thinking there are no good stories on your beat. Instead, try to attack same-old stories from different, imaginative angles. Write more stories on how news impacts our towns and people. Write local trend stories. Write community crime trend stories. Write service pieces that inform readers about things they never thought they wanted to know and help readers make decisions. Write local business pieces. Write local environmental stories. Write more people stories, and especially more profiles. People like to read about people. Put a human face on as many stories as you possibly can.&lt;/p&gt;
-
-&lt;p&gt;​7. Remember listening posts for increasing the diversity of our sources and scope? Start doing them one day per period, as required. If you can’t do a full day, spend a few hours one day and a few hours another day. Add new sources to your regular news coverage. Add new voices to the mix of sources. The Herald News should never become a city/town hall newspaper!&lt;/p&gt;
-
-&lt;p&gt;​8. We can do the short-term investigation. We can do investigations that depend more on human intelligence than massive data analysis. We can reveal sides of life in our coverage area that no one knows. Try to rethink your investigative ambitions. Go for the clean, short, effective strike. Go for the Wow! Factor: the story that makes readers say to themselves, “Wow, I didn’t know that!”&lt;/p&gt;
-
-&lt;p&gt;​9. Revisit stories. Many reporters know to keep a futures file. Many know to revisit certain stories on a temporal basis (after one year, five years, 10 years etc.). This best practice adds another revisit category: the revisit to the incomplete story. Sometimes, try as we might, we simply cannot get the full story by deadline time. Typically, an important source is missing or evasive. Or an agency delays an answer. Or a document can’t be obtained. There are many forms of this. We go with what we’ve got. But when there’s a significant hole in the article, we owe it to readers to revisit the story as soon as we can and follow up with a second story or brief. This is especially true when the missing information changes the way we covered the story previously. This best practice speaks to both accuracy and thoroughness- two important parts of getting it right, which is our basic contract with readers.&lt;/p&gt;
-
-&lt;p&gt;​10. Morgue. Many of you are checking the digital library for articles going back for years (to 1998) as part of your routine reporting. All of you should be doing this every day. In addition, however, please don’t forget that the library has a paper morgue going back donkey years. It’s a good practice to check this, particularly when articles involve people who don’t show up in the digital. Ask Mauro Margarelli to help you find the files you need.&lt;/p&gt;
-
-&lt;p&gt;​11. Eight Ways to Tell a Story. One of the most useful handouts Warren Watson of API left behind is the one put together by the York Daily Record editor about the local kid who won a dance contest. She wrote the same story in eight different ways, from inverted period to Q&amp;amp;A, to photo package, blocks, narrative and beyond. This is a handy document that all should have and refer to. If you don’t have it, see Jonathan for a copy. If you do have it, use it. God did not hand down the inverted pyramid on stone tablets. Many stories can be told better in other ways. Just as no one likes to eat the exact same thing three times
-a day, readers, too, want variety. You can still present serious news information in entertaining ways. It just takes thought, creativity and effort. The reporter’s job is always to make what she finds relevant interesting for the reader.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;compiled from Best Practices written by &lt;em&gt;Jonathan Maslow&lt;/em&gt;, Herald News, from 2002 to 2004&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;new-story-forms&quot;&gt;New story forms&lt;/h2&gt;
-
-&lt;p&gt;1.Three &lt;strong&gt;Narrative Dailies&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Narrative journalism is often associated, in journalists’ minds, with lengthy enterprise projects. But there is no law saying narrative techniques cannot be used in dailies or short form. At the recent Niemann Narrative Conference at Harvard, I jotted down three types of daily stories that we could start doing to tell stories in new, interesting and insightful ways for HN readers. Below, three generic budget lines. Use them in good health, with one caveat: narrative doesn’t mean you can make it up.&lt;/p&gt;
-
-&lt;p&gt;TICKTOCK&lt;/p&gt;
-
-&lt;p&gt;We take a news event, breaking or second day reporting. Instead of organizing from the most important in the lead to the least important at the end, we reconstruct the event over time. What led up to that explosion? What happened the night that cop was murdered? What did that family do on the day they died in a car crash? Exactly what steps did the mayor take that allowed him to pass a zero increase budget? Or, alternatively, what is the aftermath of a particular news event? What happened minute by minute after the plane crashed? What happened to the freeholder in the days and weeks after he dropped out of third grade?&lt;/p&gt;
-
-&lt;p&gt;SECONDDRAFT&lt;/p&gt;
-
-&lt;p&gt;Journalism is often called the first draft of history. But the first draft is often abbreviated and cursory, sometimes underreported or skewed, and in some cases, wrong. In this story type, we take a second look at a breaking story, going back to sources for a fuller or better account, taking an unexpected angle or digging out some universal human truth from what at first ran as a brief or rushed deadline piece. The goal is truth, not just facts.&lt;/p&gt;
-
-&lt;p&gt;EXPLAINER&lt;/p&gt;
-
-&lt;p&gt;Narrative methods focusing on one person can often help readers understand complex, novel or unfamiliar issues and processes better than conventional reporting - which often overlooks the explanatory. Bankruptcy. Identity theft. Outsourcing. Uninsured. Poverty level. Daycare. Drug addiction. Productivity. Deregulation. Bond rating. And on and on. In the explainer, we use one person’s story to give readers insight into a hard-to-get-at topic.&lt;/p&gt;
-
-&lt;p&gt;​2. Three types of &lt;strong&gt;profiles&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;We tend to think of profiles, if we think of them at all, as one thing: stories about people. It took Bill Blundell, former Page One editor at the Wall Street Journal has three types of profiles:&lt;/p&gt;
-
-&lt;p&gt;​a. The General Profile: Concentrates on unique qualities of subject, aspects of difference: what makes this person unique, different, outstanding, unusual, unconventional, nontraditional, nonstandard, peculiar, pale and interesting?&lt;/p&gt;
-
-&lt;p&gt;​b. The Microcosm Profile: centers on aspects of sameness, universality. In what ways is this person or this person’s story typical, universal, human, like all of us? What part of her or her story can we all connect with?&lt;/p&gt;
-
-&lt;p&gt;​c. The News Profile: centers on the subject’s connection to a news event. Also could be called, as the Times does (or used to): Man in the News. Person in the News?&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Jonathan Maslow&lt;/em&gt;, June 2004&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;the-enterprise-project&quot;&gt;The Enterprise project&lt;/h2&gt;
-
-&lt;p&gt;In our conference call with Cleveland Plain Dealer writer Connie Schultz, she mentioned several methods that helped her narrative series “The Burden of Innocence,” which was the subject of our brown bag writers group. They are excellent practices, not only for narrative journalism, but for any enterprise story.&lt;/p&gt;
-
-&lt;p&gt;​1) &lt;strong&gt;Write as you go&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Schultz said she always transcribed her notes as soon as possible and kept them in files organized by month as she worked on the series over the course of one year. Any project that involves reporting over time benefits from having well-organized notes from interviews and reporting. It puts the writer ahead of the curve when you get down to the business of writing. This practice can be easily extended to the practice of writing themes, sections, scenes, dialogue, good quotes, etc. as you go. Don’t imagine you can wait until you’re reporting is done, then look back at your notebooks or journal and suddenly pull the white rabbit out of the hat. Doesn’t work like that.&lt;/p&gt;
-
-&lt;p&gt;​2) &lt;strong&gt;Writing a Map/ outline&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Schultz said that before she started to write, her editor asked for a written map, a term she described as having less onerous associations than outline. The map or outline provides writer and editor with a guide to the story, where it starts, where it goes, what it’s about, where it ends. It makes the writer think. It need not be followed like a
-contract. Whatever it’s called, this best practice is one of the quintessential building blocks of longer-length writing. Without it, you are, effectively, roaming around blindfolded, hoping to pin the tail on the donkey. With a roadmap or outline, even if rudimentary (many are the outlines noted on the back of a cocktail napkin; Tolstoy outlined Anna Karenina on a railroad train dining car menu (which, however, later fell behind the sofa at his estate Yasnaya Polyana, forcing him to write War &amp;amp; Peace first instead, but that is another story)).you can focus on the material and how to express it accurately, faily and gracefully, not on what to write next.&lt;/p&gt;
-
-&lt;p&gt;​3) &lt;strong&gt;Rewriting&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Schultz said rewriting was the most painful part– she went through a dozen major drafts. But rewriting is an absolutely necessary practice to achieve successful narratives/enterprise stories. If you are to become a skilled pro writer, you must get past the idea that rewriting means you are doing something wrong. Rewriting is, in fact, doing something right: Improving the story, draft by draft. No story has ever suffered from rewriting. Many suffered from too little rewriting. Just as the map/outline helps the writer through the first draft, the editor’s read and conferencing helps the writer through rewrite. Talk out what needs to be done. Partner. Writers don’t need to accept everything an editor says, like medicine or punishment. Writers do need to defend and articulate something they want to keep. Develop a collaborative rewrite strategy and get to it.&lt;/p&gt;
-
-&lt;p&gt;​4) &lt;strong&gt;Writing buddies&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Scultz said she chooses another writer in the newsroom she respects to critique her pieces, so that she has an additional sounding board outside the editors-reporter loop. Practically every mature writer does this, asking colleagues or friends to read the work and tell the brutal truth. However, this practice really depends on choosing someone with
-good judgment, analytical skill and the ability to articulate and criticize&amp;gt; constructively. Anything less is less than helpful.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Jonathan Maslow&lt;/em&gt;, April 2003&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;edit-proof-copy&quot;&gt;&lt;a href=&quot;/files/tips/editproofmanual.pdf&quot;&gt;Edit Proof copy&lt;/a&gt;&lt;/h2&gt;
-
-&lt;p&gt;​1. The reporter’s constant focus should be on the question: &lt;strong&gt;what is this story about?&lt;/strong&gt; That helps shape the lede, the angle, the structure, everything. Also, editors should keep reporters focused on this question throughout the day so that the reporter refines and hones the story to present the reader with a tight, concise, well-organized story without
-holes, digressions or frills.&lt;/p&gt;
-
-&lt;p&gt;​2. There’s a natural contradiction between the creative process and critical thinking, between writer or storyteller inside us and the editor or critic inside. The critic suppresses the storyteller and makes it harder for the storyteller to tell the story. That’s why it’s so hard to write a solid lede: every time the storyteller wants to put a thought down, the critic says ,”that stinks,” “that’s not good enough.” So Chip Scanlon talked about “lowering your standards” when you draft your story. I think a better way to say this is to suspend your critical faculties while you are writing your first draft and just get it down using your creative juices. Then switch over to your critical faculties to rewrite, sharpen, trim, etc.&lt;/p&gt;
-
-&lt;p&gt;​3. &lt;strong&gt;A topic is not a story&lt;/strong&gt;. You can’t write about AIDS, or mass transit, or affordable housing. Those are topics. A story has to have a beginning, middle and end. It has to have characters. It has to have a plot. It has to have a setting. This is a cogent point. How many times do editors hear from reporters, “I want to write about poverty in Paterson.” “I want to write about the Passaic River.” “I want to write about race relations between latinos and blacks.” How many times do reporters hear from editors: “We should do a story about high property taxes.” Well what about it? Themes are not stories. Think about telling stories. It’s elemental.&lt;/p&gt;
-
-&lt;p&gt;​4. Words of wisdom from Don Murray, a legendary writing coach, on organizing and “mapping” the reporting and writing of a story: &lt;strong&gt;explore, focus, rehearse, draft, clarify&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;​5. Experienced reporters know what is the least amount of reporting they need to do for any given story. Great reporters know there is no limit except deadline for reporting, and that the quality of a story really, truly depends on the reporting, not the writing. If you don’t know as many facts and factoids as you possibly can, the story is going to be thin and pale. Somebody said, “Reporting is taking a beer keg of information and squeezing it into a perfume bottle.&lt;/p&gt;
-
-&lt;p&gt;​6. A good way to start the process: reporter and editor brainstorm on reader’s questions. What does the reader need to and want to know about the story. That helps the reporter focuse on question above: What is this story about?&lt;/p&gt;
-
-&lt;p&gt;​7. Rick Bragg’s five boxes. NY Times reporter Rick Bragg learned from a mentor that he should organize and write his stories as if he had five empty boxes floating in the air above him: In the first box, he put the lede or grabber. In the second, the nut graf: what’s this story about. In the third box, tell the story. In the fourth, info, context, back story, etc. And in the fifth, the kicker, the ending, something that leaves
-the reader with emotional meaning.&lt;/p&gt;
-
-&lt;p&gt;​8. Jack Hart, enterprise editor at The Oregonian: Don’t confuse anecdotes in anecdotal ledes with scenesetters. &lt;strong&gt;Anecdotes are little stories, with their own beginning and end. Scenesetters just get the reader to the right “place.”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;​9. Get rid of dependent clauses in your sentences.&lt;/p&gt;
-
-&lt;p&gt;​10. &lt;strong&gt;To revise, you need to achieve distance&lt;/strong&gt;. You can’t plunge right into a revision. You have to take a break, do something else for a while, eat something or drink something, divert your attention, go for a walk, something. Everyone finds their own way to get a distance on his/her own work. Whatever cools the engine down then revs it up again.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;em&gt;Jonathan Maslow&lt;/em&gt;, May 2005&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;story-conception-and-execution&quot;&gt;Story conception and execution&lt;/h2&gt;
-
-&lt;p&gt;&lt;em&gt;From notes taken during &lt;a href=&quot;http://www.journalism.missouri.edu/faculty/jacqui-banaszynski.html&quot;&gt;Jacqui Banaszynski’s&lt;/a&gt; visit to the Herald
-News on Aug. 14, 2004.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;We have to tell people what the news means and what’s its significance. When you get a story assignment, immediately sit down and brainstorm for five minutes. Brainstorm questions, not even to necessarily use in an interview. Anything you think you know, turn it into a question.&lt;/p&gt;
-
-&lt;p&gt;Ask yourself:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;What do you want to know?&lt;/li&gt;
-  &lt;li&gt;What are you curious about?&lt;/li&gt;
-  &lt;li&gt;Who are the stakeholders in the story?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;At the end of the day, do this again so you have ideas for second day stories.&lt;/p&gt;
-
-&lt;p&gt;On most stories, you write the first-day story. On the second day, you do a story that’s very wide, takes in all the questions but is not very deep.&lt;/p&gt;
-
-&lt;p&gt;Instead, do six or seven deep stories of varying types:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Profiles - character-based&lt;/li&gt;
-  &lt;li&gt;Issues/trends - ideas, fashion&lt;/li&gt;
-  &lt;li&gt;Investigative - records-based&lt;/li&gt;
-  &lt;li&gt;Explanatory - a teachable moment&lt;/li&gt;
-  &lt;li&gt;Descriptive/voices - use telling details&lt;/li&gt;
-  &lt;li&gt;Narratives - scenes &amp;amp; dialogue&lt;/li&gt;
-  &lt;li&gt;Visuals - using graphics and boxes to tell the story&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Editors want a working &lt;a href=&quot;http://www.poynter.org/column.asp?id=52&amp;amp;aid=34457&quot;&gt;nut graf&lt;/a&gt; when you pitch a story. Do some preliminary reporting.&lt;/p&gt;
-
-&lt;p&gt;Each editor is looking for something different, get to know each of them.&lt;/p&gt;
-
-&lt;p&gt;Writing a budget line helps you establish goals. Write your working budget line as questions.&lt;/p&gt;
-
-&lt;p&gt;Find a colleague who will read your ledes in progress and to discuss story craft with.&lt;/p&gt;
-
-&lt;p&gt;Ledes engage the reader. Don’t misdirect the reader. Lede them with foreshadowing and summarize.&lt;/p&gt;
-
-&lt;p&gt;Unlike the AP, don’t frontload a lot of information.&lt;/p&gt;
-
-&lt;p&gt;The lede should signal the tone and voice of the story.&lt;/p&gt;
-
-&lt;p&gt;Vary the pacing and rhythm and length of your sentences. Long sentences read fast. Then a short sentance halts the reader.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://poynteronline.org/content/content_view.asp?id=707&quot;&gt;30 Tips from Poynter’s Roy Peter Clark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-
-  &lt;p&gt;&lt;a href=&quot;http://www.tommeagher.com/blog/2010/10/story-tips-short-and-long.html&quot;&gt;Story Tips Short And Long&lt;/a&gt; was originally published by Tom Meagher at &lt;a href=&quot;http://www.tommeagher.com&quot;&gt;Tom Meagher&lt;/a&gt; on October 06, 2010.&lt;/p&gt;</content>
 </entry>
 
 </feed>

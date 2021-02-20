@@ -11,7 +11,9 @@ image:
 #  creditlink: http://www.flickr.com/photos/49968232@N00
 ---
 
-I'm the managing editor for digital and data journalism at [The Marshall Project](https://www.themarshallproject.org/), a nonprofit, nonpartisan news organization covering crime and justice in America. At the Marshall Project, I'm part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project tracking executions in 10 states.
+I'm a senior editor at [The Marshall Project](https://www.themarshallproject.org/), the nonprofit, nonpartisan news organization covering crime and justice in America. While I served as an editor overseeing our data and digital journalism, my team and our newsroom won the National Magazine Awards for best website twice and another time for digital innovation, as well as the Online Journalism Award for General Excellence. My reporting has also been honored with a Data Journalism Award and the international Malofiej's first human rights special award. 
+
+I've been an editor at The Marshall Project since it launched in 2014, and I was part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project tracking executions in 15 states. After more than five and a half years, we wound down The Next to Die and published this story sharing [what it taught us about capital punishment in the U.S.](https://www.themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america)
 
 I specialize in investigative, data and interactive journalism, including:
 

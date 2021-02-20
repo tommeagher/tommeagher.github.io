@@ -151,37 +151,40 @@
 
 <p>The first thing you want to know is</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">git status</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">    git status</code></pre></figure>
 
 <p>This will orient you to where you are, what files have changed and whether you’ve saved your snapshot of your project (which we’ll soon start calling a “commit”). This is your friend.</p>
 
 <p>Where you work and where you edit your code is the working directory. When you’re ready to take a snapshot of your code, you “add” your file to the staging area.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">git add foo.py</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">    git add foo.py</code></pre></figure>
 
 <p><img src="http://codingdomain.com/git/partial-commits/git-staging-area.png" alt="" /></p>
 
 <p>After you’ve made all the changes you want, and you’ve “added” all of your updated files to the staging area, it’s time to make a commit. And with each commit, you want to add a short message describing what the changes are.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">git commit -m &quot;finally debugged my own idiocy. maybe...&quot;</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html"> 
+    git commit -m "finally debugged my own idiocy. maybe..."</code></pre></figure>
 
 <p>Now all of your updates are saved in your file respository, and if you want to, you can your snapshot is made. You could very easily stop here and just keep the audit trail on your machine. But the other half of this happy marriage is <a href="http://www.github.com">Github</a>.</p>
 
-<h2 id="what-is-github">What is Github?</h2>
+<p>##What is Github?</p>
 
 <p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/github/github-logo-transparent.png" alt="" /></p>
 
 <p>Github is a social coding site, and it’s a hosted remote repository.</p>
 
-<p>It lets you back up all of your code online (for free if it’s open source), and it lets you see how other developers do it and learn from their work. </p>
+<p>It lets you back up all of your code online (for free if it’s open source), and it lets you see how other developers do it and learn from their work.</p>
 
-<p>Here’s how you do it: </p>
+<p>Here’s how you do it:</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">git push -u origin master</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">     
+    git push -u origin master</code></pre></figure>
 
-<p>You “push” your code from the “master” branch that’s on your machine to your remote repository on Github, which we call “origin.” (This may have already been configured for you if you cloned your repo from github. Otherwise, you would have to </p>
+<p>You “push” your code from the “master” branch that’s on your machine to your remote repository on Github, which we call “origin.” (This may have already been configured for you if you cloned your repo from github. Otherwise, you would have to</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">git remote add origin git@github.com:tommeagher/myrepo.git</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">         
+    git remote add origin git@github.com:tommeagher/myrepo.git</code></pre></figure>
 
 <p>)</p>
 
@@ -191,11 +194,13 @@
 
 <p>You can use</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">git fetch origin</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">             
+     git fetch origin</code></pre></figure>
 
 <p>to gather the updated files from your remote “origin” repository. Now you want to “merge” the changes from the master branch on your remote “origin” repository into your master branch on your machine.</p>
 
-<div class="highlight"><pre><code class="language-html" data-lang="html">git merge origin/master</code></pre></div>
+<figure class="highlight"><pre><code class="language-html" data-lang="html">         
+    git merge origin/master</code></pre></figure>
 
 <p>Now your files are updated from the remote repository. Now keep coding.</p>
 
@@ -233,9 +238,11 @@
     
       
       
-        
-          
-        
+      
+      <li><a href="http://www.tommeagher.com/blog/2021/02/learning-from-six-years-of-running-a-news-app.html" title="I Spent Six Years Running a News App Tracking Executions in America">I Spent Six Years Running a News App Tracking Executions in America</a></li>
+      
+    
+      
       
       
       <li><a href="http://www.tommeagher.com/blog/2014/07/us-world-cup-roundup.html" title="U.S. World Cup Roundup for Source">U.S. World Cup Roundup for Source</a></li>
@@ -243,29 +250,15 @@
     
       
       
-        
-          
-        
-      
       
       <li><a href="http://www.tommeagher.com/blog/2014/07/all-about-wsjs-penalty-kick-interactive.html" title="All about the WSJ's penalty kicks interactive">All about the WSJ's penalty kicks interactive</a></li>
-      
-    
-      
-      
-        
-          
-        
-      
-      
-      <li><a href="http://www.tommeagher.com/blog/2014/06/things-i-never-learned-at-newspapers.html" title="Things I never learned at newspapers about making news on the internet">Things I never learned at newspapers about making news on the internet</a></li>
       
     
     </ul>
     <hr />
   </div><!-- /.related-articles -->
   <footer>
-    <span>&copy; 2014 - 2019 Tom Meagher. Powered by <a href="http://jekyllrb.com" target="_new">Jekyll</a> and the <a href="http://mademistakes.com/" target="_new">Minimal Mistakes</a> theme. Hosted on <a href="http://pages.github.com/" target="_new">Github Pages</a>.</span>
+    <span>&copy; 2014 - 2021 Tom Meagher. Powered by <a href="http://jekyllrb.com" target="_new">Jekyll</a> and the <a href="http://mademistakes.com/" target="_new">Minimal Mistakes</a> theme. Hosted on <a href="http://pages.github.com/" target="_new">Github Pages</a>.</span>
 
   </footer>
 </div><!-- /.footer-wrap -->

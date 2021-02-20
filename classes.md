@@ -54,15 +54,16 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [NICAR 2018](https://www.ire.org/events-and-training/event/3189/) in Chicago.
 * Poynter's [Journalist's Guide to Covering Jails](http://bit.ly/poynter-jails-data).
 * [NICAR 2019](https://ire.org/conferences/nicar-2019/) in Newport Beach, Calif.
+* [NICAR 2020](https://www.ire.org/training/conferences/nicar-2020/) in New Orleans.
 
 
-In addition, I've spoken to students and faculty at...
+In addition, I've taught and spoken to students and faculty at...
 
 * Columbia University's [Graduate School of Journalism](http://www.tommeagher.com/blog/2010/01/the-up-and-down-sides-of-the-younger-faster-busier-newsroom.html), where I teach classes on investigative techniques and an [intro to data reporting](https://github.com/tommeagher/data1-fall2015).
 * Fairleigh Dickinson University
 * Kansas University
 * Louisiana State University's Manship School of Communication
-* Montclair State University
+* Montclair State University in New Jersey
 * New York University 
 * University of Southern California's Annenberg School for Communication and Journalism
 * and others
