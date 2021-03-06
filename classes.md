@@ -7,7 +7,7 @@ title: Classes I've Taught
 Date: 2013-11-05 08:32
 Author: Tom
 Slug: classes
-Modified: 2018-04-11
+Modified: 2021-03-06
 image:
   feature: chalk.png
   credit: Five Sixteenths
@@ -55,6 +55,8 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * Poynter's [Journalist's Guide to Covering Jails](http://bit.ly/poynter-jails-data).
 * [NICAR 2019](https://ire.org/conferences/nicar-2019/) in Newport Beach, Calif.
 * [NICAR 2020](https://www.ire.org/training/conferences/nicar-2020/) in New Orleans.
+* [Diving Into COVID-19 Data](https://www.youtube.com/watch?v=CR-MO6eEUJw) on the internet, 2021.
+* [NICAR 2021](https://www.ire.org/training/conferences/nicar-2021/) on the internet.
 
 
 In addition, I've taught and spoken to students and faculty at...
