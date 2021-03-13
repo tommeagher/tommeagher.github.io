@@ -22,6 +22,7 @@ image:
 * [Data 1](https://github.com/tommeagher/data1-fall2015)
 * Digital security and encryption for the newsroom
 * [DocumentCloud](http://bit.ly/dcslides)
+* [How we built a massive system to track COVID-19 in prisons](https://vimeo.com/518644653)
 * [Interactive maps with Fusion Tables](/blog/2012/12/talking-data-in-the-nutmeg-state.html)
 * Introduction to [coding in the newsroom with Python](http://www.tommeagher.com/pythonIRE15)
 * Investigative Techniques
@@ -56,7 +57,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [NICAR 2019](https://ire.org/conferences/nicar-2019/) in Newport Beach, Calif.
 * [NICAR 2020](https://www.ire.org/training/conferences/nicar-2020/) in New Orleans.
 * [Diving Into COVID-19 Data](https://www.youtube.com/watch?v=CR-MO6eEUJw) on the internet, 2021.
-* [NICAR 2021](https://www.ire.org/training/conferences/nicar-2021/) on the internet.
+* [NICAR 2021](https://www.ire.org/training/conferences/nicar-2021/) [lightning talks](https://vimeo.com/518644653) on the internet.
 
 
 In addition, I've taught and spoken to students and faculty at...
