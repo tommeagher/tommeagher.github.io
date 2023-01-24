@@ -32,6 +32,7 @@ image:
 12. [Staten Island Half](https://results.nyrr.org/runner/1684/result/18SIH), Oct. 14, 2018. **1:35:47** finish; 7:19 pace.
 13. [NYC Half Marathon](https://results.nyrr.org/event/H2019/result/9176), March 17, 2019. **1:41:09** finish; 7:43 pace.
 14. [Brooklyn Half Marathon](https://results.nyrr.org/event/19BKH/result/323), May 18, 2019. **1:43:48** finish; 7:56 pace.
+15. [Fred Lebow Half Marathon](https://results.nyrr.org/event/23FLHALF/result/3066), Jan. 22, 2023. **1:51:28** finish; 8:31 pace.
 
 ## 10-milers
 1. [Bronx 10-miler](https://results.nyrr.org/event/18BX10M/result/9006?_ga=2.25085626.1084896391.1538505630-1671636842.1538505630), Sept. 30, 2018. **1:11:26** finish; 7:09 pace.
