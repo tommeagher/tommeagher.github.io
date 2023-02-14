@@ -43,6 +43,7 @@ image:
 ## 4-milers
 1. [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
 2. [NYRR Retro 4-miler](https://results.nyrr.org/event/R4M19/result/3549), July 13, 2019. **28:39** finish; 7:10 pace.
+3. [Gridiron 4-miler](https://results.nyrr.org/runner/4743/result/23GRID), Feb. 12, 2023. **29:23** finish; 7:21 pace.
 
 ## 5ks
 1. [Seth Boyden-Tuscan 5K Turkey Trot](http://legacy.compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
