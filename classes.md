@@ -31,6 +31,7 @@ image:
 * Python for data analysis ([class](https://tswicegood.github.io/python-data-science-intro/) and [exercise notebook](http://nbviewer.ipython.org/github/tswicegood/python-data-science-intro/blob/gh-pages/Python%20for%20Data%20Analysis%20at%20NICAR15.ipynb))
 * [Resources for learning data journalism](/blog/2013/04/diving-in-to-data-with-spj.html)
 * [Scraping with Python in the newsroom](http://www.tommeagher.com/pythonGIJC15/#/)
+* [Sending Mass Public Records Requests to Public Agencies](https://docs.google.com/presentation/d/14a-O0S0MOhsFyrcexLi6Eh5RcYfNw7Y7MKnefDQYz-c/edit#slide=id.p)
 * [Version control with Github](/blog/2013/02/learning-to-commit-to-version-control.html)
 
 I've trained hundreds of journalists and students over the years, and I've spoken about reporting and data analysis at many conferences, including:
@@ -58,7 +59,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [NICAR 2020](https://www.ire.org/training/conferences/nicar-2020/) in New Orleans.
 * [Diving Into COVID-19 Data](https://www.youtube.com/watch?v=CR-MO6eEUJw) on the internet, 2021.
 * [NICAR 2021](https://www.ire.org/training/conferences/nicar-2021/) [lightning talks](https://vimeo.com/518644653) on the internet.
-
+* [NICAR 2023](https://schedules.ire.org/nicar-2023/) in Nashville, Tennessee.
 
 In addition, I've taught and spoken to students and faculty at...
 
