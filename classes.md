@@ -18,18 +18,23 @@ image:
 * Basic Excel
 * [Building a newsroom data culture that lasts](http://bit.ly/dataculture_nicar18)
 * [Cleaning dirty data with OpenRefine](/blog/2013/02/more-tips-for-using-openrefine.html)
+* [Collaborating with Nine Newsrooms to Cover the Death Penalty](http://www.tommeagher.com/collab_summit/index.html#/)
 * Covering Criminal Justice
 * [Data 1](https://github.com/tommeagher/data1-fall2015)
+* [Death Penalty Data Viz](http://www.tommeagher.com/pythonGIJC15/viztalk.html#/) lightning talk at GIJC15
 * Digital security and encryption for the newsroom
 * [DocumentCloud](http://bit.ly/dcslides)
 * [How we built a massive system to track COVID-19 in prisons](https://vimeo.com/518644653)
 * [Interactive maps with Fusion Tables](/blog/2012/12/talking-data-in-the-nutmeg-state.html)
 * Introduction to [coding in the newsroom with Python](http://www.tommeagher.com/pythonIRE15)
+* [Introduction to Git and Github](https://github.com/tommeagher/gitintro)
 * Investigative Techniques
 * Mapping with Arcview
 * [Python mini boot camp](http://www.github.com/ireapps/pycar)
 * Python for data analysis ([class](https://tswicegood.github.io/python-data-science-intro/) and [exercise notebook](http://nbviewer.ipython.org/github/tswicegood/python-data-science-intro/blob/gh-pages/Python%20for%20Data%20Analysis%20at%20NICAR15.ipynb))
+* [Redesigning the Newsroom](https://github.com/tommeagher/redesign) workshop at SRCCON 2014.
 * [Resources for learning data journalism](/blog/2013/04/diving-in-to-data-with-spj.html)
+* [Risks and Rewards of Rolling Your Own Criminal Justice Data](https://github.com/tommeagher/cjcar16)
 * [Scraping with Python in the newsroom](http://www.tommeagher.com/pythonGIJC15/#/)
 * [Sending Mass Public Records Requests to Public Agencies](https://docs.google.com/presentation/d/14a-O0S0MOhsFyrcexLi6Eh5RcYfNw7Y7MKnefDQYz-c/edit#slide=id.p)
 * [Version control with Github](/blog/2013/02/learning-to-commit-to-version-control.html)
@@ -54,6 +59,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [NICAR 2017](https://www.ire.org/conferences/nicar2017/) in Jacksonville, Fla.
 * [Collaborative Journalism Summit, 2017](https://www.collaborativejournalism.com/) in Montclair, N.J.
 * [NICAR 2018](https://www.ire.org/events-and-training/event/3189/) in Chicago.
+* [Criminal Justice Reporting and Public Data](http://www.tommeagher.com/pub_data_intro/intro.html#/) symposium at the Brown Institute, 2018.
 * Poynter's [Journalist's Guide to Covering Jails](http://bit.ly/poynter-jails-data).
 * [NICAR 2019](https://ire.org/conferences/nicar-2019/) in Newport Beach, Calif.
 * [NICAR 2020](https://www.ire.org/training/conferences/nicar-2020/) in New Orleans.
