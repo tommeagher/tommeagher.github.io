@@ -45,6 +45,7 @@ image:
 2. [NYRR Retro 4-miler](https://results.nyrr.org/event/R4M19/result/3549), July 13, 2019. **28:39** finish; 7:10 pace.
 3. [Gridiron 4-miler](https://results.nyrr.org/runner/4743/result/23GRID), Feb. 12, 2023. **29:23** finish; 7:21 pace.
 4. [Al Gordon 4-miler](https://results.nyrr.org/event/23ALGORDON/result/5449?utm_source=sfmc&utm_medium=email&utm_campaign=2023227NYRRAlGordon4MPostEventFollowUp), Feb. 25, 2023. **28:03** finish; 7:01 pace.
+5. [Run As One 4M](https://results.nyrr.org/event/23RAO4M/result/1084), April 2, 2023. **30:00** finish; 7:30 pace. 
 
 ## 5ks
 1. [Seth Boyden-Tuscan 5K Turkey Trot](http://legacy.compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
