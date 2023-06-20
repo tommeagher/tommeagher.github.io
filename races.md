@@ -39,6 +39,7 @@ image:
 
 ## 10ks
 1. [Queens 10K](https://results.nyrr.org/event/18Q10K/result/2191?_ga=2.128041164.1363284880.1539201243-1671636842.1538505630), June 16, 2018. **44:22** finish; 7:09 pace.
+2. [Queens 10K](https://results.nyrr.org/runner/3527/result/23QUEENS), June 17, 2023. **54:49** finish; 8:50 pace.
 
 ## 4-milers
 1. [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
