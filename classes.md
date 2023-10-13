@@ -7,7 +7,7 @@ title: Classes I've Taught
 Date: 2013-11-05 08:32
 Author: Tom
 Slug: classes
-Modified: 2021-03-06
+Modified: 2023-10-13
 image:
   feature: chalk.png
   credit: Five Sixteenths
@@ -66,6 +66,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [Diving Into COVID-19 Data](https://www.youtube.com/watch?v=CR-MO6eEUJw) on the internet, 2021.
 * [NICAR 2021](https://www.ire.org/training/conferences/nicar-2021/) [lightning talks](https://vimeo.com/518644653) on the internet.
 * [NICAR 2023](https://schedules.ire.org/nicar-2023/) in Nashville, Tennessee.
+* [ACOS Alliance Annual Safety Coordination Meeting 2023](https://www.acosalliance.org/annual-safety-meeting-2023) in New York.
 
 In addition, I've taught and spoken to students and faculty at...
 
