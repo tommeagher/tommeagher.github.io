@@ -1,1 +1,1 @@
-Sitemap: http://www.tommeagher.com/sitemap.xml
+Sitemap: https://www.tommeagher.com/sitemap.xml
