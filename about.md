@@ -5,10 +5,6 @@ title: About Me
 tagline: Tom Meagher
 tags: [about]
 modified: 03-04-2024
-image:
-  feature: grid2.png
-#  credit: Leo Reynolds
-#  creditlink: http://www.flickr.com/photos/49968232@N00
 ---
 
 I'm a senior editor at [The Marshall Project](https://www.themarshallproject.org/), the nonprofit, nonpartisan news organization covering crime and justice in America. I lead collaborative, data-driven reporting projects and oversee our coverage of prisons, jails and the death penalty. While I managed our data and digital teams, our newsroom won the National Magazine Awards for best website twice and another time for digital innovation, as well as the Online Journalism Award for General Excellence. As a reporter, my work has been honored with a Data Journalism Award and the international Malofiej's first human rights special award. 
