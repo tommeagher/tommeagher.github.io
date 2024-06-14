@@ -69,6 +69,7 @@ image:
 16. [Two Towns Turkey Trot 5K](https://runsignup.com/Race/Results/120376/IndividualResult/gMcQ?resultSetId=424204#U82193311), Nov. 18, 2023. **31:41.1** finish; 10:11 pace. *
 17. [Montclair Doughnut Run 5K](https://elitefeats.com/res-det.asp?ID=23417&BibID=1466), Dec. 10, 2023. **29:01.52** finish; 9:21 pace. *
 18. [Columbia Cougars - St. Patrick's Day 5K](https://runsignup.com/Race/Results/58550/IndividualResult/HxLf?resultSetId=442599#U9860508), March, 16, 2024. **27:41:13**; 8:54 pace. *
+19. [North Jersey Pride Run](https://runsignup.com/Race/Results/6513/IndividualResult/zLkP#U9860508), June 2, 2024. **22:52.78**; 7:23 pace.
 
 ## 1-milers
 1. [Soma Fox One-Mile Fox Run](https://www.secondwindtiming.com/result-page/?id=273772#0_3EF1B7), Jan. 6, 2024. **6:29** finish; 6:28 pace.
