@@ -1,6 +1,6 @@
 title:            Tom Meagher
 tagline:          Investigative Data Journo
-description:      Tom Meagher's thoughts on journalism, data and news development.
+description:      Tom Meagher's journalism, data and news development.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              https://www.tommeagher.com
 theme: minimal-mistakes-jekyll
@@ -33,8 +33,6 @@ bing_verify:
 links:
   - title: About
     url: /about.html
-  - title: Posts
-    url: /posts/
   - title: Clips
     url: /clips.html
   - title: Lists
