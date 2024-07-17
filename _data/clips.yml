@@ -11,156 +11,20 @@
   image: ntd.png
   description: For five and a half years, The Marshall Project tracked every execution in the U.S., counting down until each one was carried out or stayed. Partnering with reporters and editors at nine other news organizations, we examined how executions happened in death penalty states, in near-real-time. In <a href="https://www.themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america">this final story</a>, you can read what we learned about the death penalty and how capital punishment has become more slower, more winding and erratic. This application was powered by a PostGreSQL database and Django admin I built. It also featured an automated <a href="https://www.twitter.com/thenexttodie">Twitter feed</a> I created from the data we've collected.
 
-- title: Fighting heroin "epidemic" made harder by lack of accurate overdose data
-  date: 5/12/14
-  url: http://www.nhregister.com/general-news/20140512/scope-of-nationwide-heroin-epidemic-unknown-drug-related-death-overdose-data-lacking
-  image: heroin.png
-  description: For months, we heard stories of anguish and fear from the Digital First Media papers across the country about a catastrophic rise in heroin deaths. We wanted to examine data from several sources to piece together what’s really happening. But what we discovered is that it’s very difficult to fight a public health crisis that can’t be measured. The CDC and the federal government can’t really measure the scope of the heroin problem across the nation right now. While many outlets report anecdotes of heroin’s growth, we ended up writing a smart data story that we haven’t seen elsewhere. The data on drug abuse deaths across the country is critically flawed, and until it’s fixed, the public health policy will be too.
-
-- title: An election guide masquerading as a news game
-  date: 4/20/14
-  url: http://data.digitalfirstmedia.com/waffler-pa/
-  image: waffler.png
-  description: This local election game began as <a href="http://outsidethunderdome.com/2013/05/01/gaming-news/" target="_blank">a hackathon project</a>. We worked closely with colleagues at the York Daily Record to make it into more than just a proof of concept. We redesigned the app to include reporting on the crowded 2014 Pennsylvania gubernatorial primary race, so users could compare their views on hot-button political issues in the Keystone State to the positions of the candidates. This made for an informative and engaging app that was also a lot of fun to play.
-
-- title: ACA exchanges don't cover everyone the same
-  date: 2/28/14
-  url: http://www.twincities.com/nation/ci_25247140/where-insurance-premiums-are-highest-new-health-laws
-  image: aca-map-big.png
-  description: This story began with a pair of reporters at the St. Paul Pioneer Press looking at the costs of insurance premiums under the Affordable Care Act in Minnesota and Wisconsin. After they reached out to my team, we helped them gather data for the rest of the country and were the first news organization to do so. My team then helped build the news app to allow users to understand and explore the data.
-
-- title: Listening to the anguish of Newtown
-  date: 12/6/13
-  url: http://data.digitalfirstmedia.com/newtown911/
-  image: newtown-911-big.png
-  description: We knew the police in Connecticut planned to release the audio from the 911 calls during the shootings at Sandy Hook Elementary, but we weren't sure when. The AP reported early that morning that the town had posted the calls on its website, but at first glance, they didn't appear to be there. With a little know-how (and a bit of luck that the site seemingly hadn't been redesigned since the 1990s), I found the files hidden in an unlisted, public section of the site that was difficult to navigate to. Shortly after we found the files, the town removed them from the web, but we had them for four-plus hours before they were officiailly "released" near the end of the day. That head start allowed us to build this engaging presentation to accompany the story.
-      
-- title: Decoding JFK's assassination
-  date: 11/20/13
-  url: http://data.digitalfirstmedia.com/jfk/
-  image: decoding-jfk-big.png
-  description: We knew everyone in the world was going to be writing about the 50th anniversary of the assassination of President John F. Kennedy. Our goal was to find an engaging and unique way to commemorate this historic event. We decided to focus on the mythology around Kennedy's death that in some ways marked the beginning of the conspiracy theory in modern pop culture. We used this immersive, multimedia presentation to bring readers into the story and to debunk many of the more prominent--and fanciful--theories that emerged after the assassination. 
-
-- title: Tracking crime in Denver's neighborhoods
-  date: 11/8/13
-  url: http://crime.denverpost.com
-  image: denver-crime-big.png
-  description: Working with our colleagues at the Denver Post, my team created this app that tracks crime in the city's many neighborhoods. An iteration on an earlier map we built for the St. Paul Pioneer Press, this has led the Post to find a number of compelling crime stories and continues to lure visitors who want to track what's happening in their communities.
-  
-#- title: Measuring the deluge in Colorado
-#  date: 9/19/13
-#  url: http://www.denverpost.com/2013coloradofloods/ci_24132410/2013-colorado-flood-rainfall-totals-timeline-map
-#  image: colorado-rains-big.png
-#  description:
-
-- title: Watching the tide rise
-  date: 9/17/13
-  url: http://www.denverpost.com/2013coloradofloods/ci_24106933/colorado-flood-map-2013-river-gauges
-  image: river-gauges-snap-big.png
-  description: When central Colorado was hammered by record flooding, my team worked with colleagues in the Denver Post newsroom to help visualize the extent of the flood. We tapped into river gauges operated by the U.S. Geological Survey and the National Weather Service to build this app. It tracks the levels of various rivers in the flooded area pulling live data from the gauges. If you look at <a href="http://tdbeta.digitalfirstmedia.com/denver-flood-gauges/" target="_blank">this snapshot</a> from the height of the flooding, you can see not only how extraordinary the deluge was, but also how much longer the flooded communities would have to wait for the waters to recede.
-
-- title: Measuring the backlog of disabled veterans
-  date: 6/30/13
-  url: http://www.sltrib.com/sltrib/news/56473395-78/claims-veterans-lake-salt.html.csp?page=1
-  image: va-backlog-big.png
-  description: My team came to this story while working on a piece for Digital First Media's American Homecomings project with colleagues at the Salt Lake Tribune. We wanted to know how long veterans home from Iraq and Afghanistan had to wait to receive disability benefits. We also wanted to see how the VA was dealing with what some in Congress were complaining was an excessive backlog of disability cases. We tapped into data collected by the Center for Investigative Reporting through their API and worked with the Tribune on analyzing nearly four years of VA disability cases. To accompany the resulting story, my team also built the interactive chart to show how every regional VA office in the country was faring against the national average. To its credit, after the reporting by us, CIR and many others, the VA worked to improve its systems and start to whittle down the massive backlog that kept injured veterans waiting for care.
-    
-- title: Manhunt for marathon bombers
-  date: 4/18/13
-  url: http://www.elpasotimes.com/newupdated/ci_23062944/map-manhunt-boston-marathon-bombing-suspects
-  image: manhunt-big.png
-  description: Our data team built this interactive timeline on deadline as we helped our papers to understand what was happening during the extraordinary manhunt for the brothers accused in the Boston marathon bombings.
-  Editing: True  
-
-- title: The people on Boylston Street
-  date: 4/17/13
-  url: http://www.sentinelandenterprise.com/webextras/ci_23055737/interactive-people-boylston-street-during-boston-marathon-bombing
-  image: boylston-street-big.png
-  description: After bombs exploded along Boylston Street near the finish line of the Boston marathon, my team was looking for ways to help tell that story. We ended up scraping the website of the Boston Athletic Association to identify runners who live in some of the 75 markets where Digital First Media owns newspapers. Working with reporters in our newsroom and across the country, we fanned out to interview runners who were near the finish line when the bombs went off, and we built this app to tell their stories.
-  Editing: True
-
-- title: Bracket Advisor
-  date: 3/16/13
-  url: http://www.bracketadvisor.com/
-  image: ba-big.png
-  description: If you're a college basketball fan, the NCAA's March Madness tournament is the highlight of the year. A producer on the sports desk at Thunderdome had an idea for how we might use historic NCAA data to predict how two teams in this year's tournament would fare against one another. This led us to build Bracket Advisor, our predictive game that pre-dates similar efforts by the likes of Yahoo and 538. This was a hit with visitors and continues to be the tent pole of our annual college basketball coverage.
-  
-- title: Your Oscar ballot
-  date: 2/18/13
-  url: http://www.mercurynews.com/entertainment/ci_22612415/
-  image: oscar-ballot-13-big.png
-  description: When it comes to the best movies of the year, everybody has an opinion. So our data team built this app to allow users to vote for their favorite movies in each of the Oscars' big categories and then print off a scoresheet to enter in an office pool or to keep tabs during the ceremony.
-  Editing: True
-
-- title: Comparing Connecticut superintendents' salaries
-  date: 12/30/12
-  url: http://nhregister.com/news/superintendents
-  image: ct-supers-big.png
-  description: An editor in Connecticut came to our data team for help. She had collected the contracts for every public school superintendent in the state; What could she do with them? We helped her clean and analyze her database. Then we put all of her contracts into DocumentCloud and built the interactive map and table to accompany her stories.
-  Editing: True
-
 - title: The victims of the Newtown shooting
   date: 12/15/12
-  url: http://www.mercurynews.com/ci_22194683
+  #url: http://www.mercurynews.com/ci_22194683
   image: newtown-big.png
   description: Within hours of reports about a mass shooting at an elementary school in Newtown, Conn., my data team at Project Thunderdome launched this app to collect the faces and profiles of the lives who were lost. The four of us then spent the next four days working with journalists in two states to help report out the stories and bring them into the app.
   Editing: True
-
-#- title: College bowl season calendar
-#  date: 12/14/12
-#  url: http://www.mercurynews.com/ci_22185958/ncaa-bowl
-#  image: bowl-calendar-big.png
-#  description: Interactive calendar of the college bowl season, with previews and results.
-#  Editing: True
     
-- title: Fishing's fortunes sinking in N.J.
-  date: 8/8/12
-  url: http://www.nj.com/news/index.ssf/2012/08/hurt_by_slumping_economy_fishi.html
-  image: fishing-big.png
-  description: Using federal and state data, my reporter reeled in this piece about the slow, precipitous decline of sport fishing in New Jersey. Once a major economic driver along the Shore, the erosion of saltwater sport fishing saw hundreds of millions of dollars disappear from the state's GDP.
-
 - title: Distracted driving still a problem, despite attempts to curtail cell phone use
   date: 6/27/12
   url: http://www.nj.com/news/index.ssf/2012/06/distracted_driving_still_a_pro.html
   image: andymills.jpg
   description: Lawmakers and law enforcers had not been shy about claiming a ban on cell phone use while driving was making New Jersey's roads safer. But my reporter found this simple, but effective story hiding in plain view. When we looked at the state's accident data, it showed that the number of crashes involving cell phones were unchanged in the years since stricter laws had gone into effect. 
+  Editing: True
   
-- title: Driving club linked to 'Death Race' celebrates lifestyles of the rich and excessive
-  date: 4/11/12
-  url: http://www.nj.com/news/index.ssf/2012/04/driving_club_linked_to_death_r.html
-  image: driving-big.png
-  description: A story of State Police troopers escorting high speed races along the Garden State Parkway took an interesting turn when my reporters discovered the website of the car club behind the scandal. We were able to quickly scrape the club's site and begin analyzing the thousands of photos we found there before it went offline. And that analysis enabled us to write this gem of a story on excess and bad behavior in a case that ultimately led to several state troopers losing their jobs and pensions in the fallout.
-
-#- title: Median incomes dropping in NJ
-#  date: 9/22/11
-#  url: http://www.nj.com/news/index.ssf/2011/09/nj_median_household_income_dro.html
-#  image: median-big.png
-#  description:
-
-- title: Shore town populations are shrinking
-  date: 5/12/11
-  url: http://www.nj.com/news/index.ssf/2011/05/census_results_show_nj_shore_to.html
-  image: noahmurray.png
-  description: In a decade that saw Snooki and the Jersey Shore become household names around the world, how did most of the towns along the state's Atlantic shoreline shrink in the 2000s? Starting with a tip from the Census numbers, my reporters hit the boardwalks to report out this piece on a changing demographic and way of life in the Shore towns.
-
-- title: Mapping the Census
-  date: 5/6/11
-  url: http://www.starledger.com/str/indexpage/project/2010-Census-populations-by-town.htm
-  image: census-pop-big.png
-  description: With the release of population estimates from the 2010 Census, in addition to various stories our CAR team at the Star-Ledger pursued, I also built this interactive map and table breaking down the change in population for every town in New Jersey.
-
-- title: $30 million power plant project may be abandoned
-  date: 6/13/10
-  url: http://www.nj.com/news/index.ssf/2010/06/rahway_valley_sewerage_authori.html
-  image: eliot-big.png
-  description: One of my reporters was looking at a local sewer authority that served a number of the towns in his beat. The rates kept going up each year, and some town officials complained that a promised new power plant was way behind schedule. With the help of background sources, the reporter dug deep into internal audits and memos. It took weeks for us to bulletproof the story, but we were able to show that the professional staff believed that $30 million had been wasted on the power plant, and it would never operate.
-
-- title: The Poor Side of Town for Section 8 Tenants
-  date: 7/1/07
-  url: /files/clips/sec8map.pdf
-  image: sec8-big.png
-  description: In the wake of a corruption scandal in Paterson’s Section 8 office, we looked at how the federal rental subsidy program was being administered locally. I built a database of Paterson’s Section 8 payment records and the properties offered to needy renters in the program. By mapping the properties against Census data, we were able to demonstrate that Paterson officials steered voucher recipients into the poorest neighborhoods in the city, in opposition to the intent and regulations of the federal program.
-
 - title: Lien deal leaves Paterson in dire straits
   date: 10/15/06
   url: /files/clips/liens.pdf

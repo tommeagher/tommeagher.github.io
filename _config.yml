@@ -7,18 +7,17 @@ theme: minimal-mistakes-jekyll
 
 # Owner/author information
 owner:
-  name:           Tom Meagher
   avatar:         uclogo.png
-  bio:            "Journalist"
-  email:          hello+site@tommeagher.com
+  bio:            "Investigative data journalist"
+  email:          tommeagher+site@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:        ultracasual
-#  facebook:       
+  #twitter:        ultracasual
+  #facebook:       
   github:         tommeagher
   linkedin:       tommeagher
-#  instagram:      
-#  lastfm:         
-#  tumblr:         
+  #instagram:      
+  #lastfm:         
+  #tumblr:         
   # For Google Authorship https://plus.google.com/authorship
   #google_plus:    
 

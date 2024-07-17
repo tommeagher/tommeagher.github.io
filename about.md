@@ -29,3 +29,5 @@ My email address is _hello_ at _the_domain_name_of_this_site_.
 
 ---
 If you see any typos, broken links or other weirdness on the site, please help me out by filing [a bug report](https://github.com/tommeagher/tommeagher.github.io/issues) on Github.
+
+<hr />
