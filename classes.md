@@ -79,3 +79,5 @@ In addition, I've taught and spoken to students and faculty at...
 * New York University 
 * University of Southern California's Annenberg School for Communication and Journalism
 * and others
+
+<hr />

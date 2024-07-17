@@ -75,3 +75,5 @@ image:
 1. [Soma Fox One-Mile Fox Run](https://www.secondwindtiming.com/result-page/?id=273772#0_3EF1B7), Jan. 6, 2024. **6:29** finish; 6:28 pace.
 
 *An asterisk (`*`) indicates a race I ran with my kids.*
+
+<hr />
