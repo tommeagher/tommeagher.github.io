@@ -77,8 +77,6 @@
 		        
 				<li><a href="https://www.tommeagher.com/clips.html" >Clips</a></li>
 		        
-				<li><a href="https://www.tommeagher.com/lists.html" >Lists</a></li>
-		        
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
@@ -234,20 +232,16 @@ I always figured that part of [the data collection] was some computer recording 
 <script src="https://www.tommeagher.com/assets/js/scripts.min.js"></script>
 
 <!-- Asynchronous Google Analytics snippet -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8HHK0P4SW"></script>
 <script>
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-2450819-4']);
-  _gaq.push(['_trackPageview']);
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  gtag('config', 'G-Y8HHK0P4SW');
 </script>
+
 	        
 
 </body>

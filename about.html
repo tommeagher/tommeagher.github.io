@@ -77,8 +77,6 @@
 		        
 				<li><a href="https://www.tommeagher.com/clips.html" >Clips</a></li>
 		        
-				<li><a href="https://www.tommeagher.com/lists.html" >Lists</a></li>
-		        
 		    </ul>
 		</nav>
 	</div><!-- /.top-navigation -->
@@ -123,6 +121,19 @@
 
 <p>I live in New Jersey, where I co-founded <a href="http://www.hackjersey.com/">Hack Jersey</a>, a group of journalists and programmers working together to improve the news. In my free time, I enjoy running and playing and watching soccer.</p>
 
+<p>I am an inveterate (compulsive) list maker. Here are some you might be interested in:</p>
+
+<ol>
+  <li><a href="clips.html">Stories and apps I worked on</a></li>
+  <li><a href="http://linkedin.com/in/tommeagher">Places I’ve worked</a></li>
+  <li><a href="classes.html">Classes I’ve taught</a></li>
+  <li><a href="https://github.com/tommeagher?tab=activity">What I’m hacking on</a></li>
+  <li><a href="newsrooms.html">Newsrooms I’ve visited</a></li>
+  <li><a href="http://www.goodreads.com/review/list/7478342-tom?sort=date_read">What I’m reading</a></li>
+  <li><a href="races.html">Races I’ve run</a></li>
+  <li><a href="https://untappd.com/user/tommeagher">Beers I drank</a></li>
+</ol>
+
 <h3 id="contact">Contact</h3>
 <p>My email address is <em>hello</em> at <em>the_domain_name_of_this_site</em>.</p>
 
@@ -164,20 +175,16 @@
 <script src="https://www.tommeagher.com/assets/js/scripts.min.js"></script>
 
 <!-- Asynchronous Google Analytics snippet -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y8HHK0P4SW"></script>
 <script>
-  var _gaq = _gaq || [];
-  var pluginUrl = 
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-  _gaq.push(['_setAccount', 'UA-2450819-4']);
-  _gaq.push(['_trackPageview']);
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  gtag('config', 'G-Y8HHK0P4SW');
 </script>
+
           
 
 </body>
