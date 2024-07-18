@@ -8,10 +8,10 @@ Date: 2014-03-30 08:32
 Author: Tom
 Slug: clips
 Modified: 2021-02-20
-image:
-  feature: chips.png
-  credit: Texture Palace
-  creditlink: http://www.texturepalace.com/wp-content/uploads/computer-texture-medium-8.jpg
+#image:
+#  feature: chips.png
+#  credit: Texture Palace
+#  creditlink: http://www.texturepalace.com/wp-content/uploads/computer-texture-medium-8.jpg
 ---
 
 *Read my recent stories at **[The Marshall Project](https://www.themarshallproject.org/staff/tom-meagher)** and see the data and code behind them **[on Github](https://github.com/themarshallproject/)**.*

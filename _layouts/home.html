@@ -5,54 +5,58 @@
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
 <head>
 {% include _head.html %}
+<style>
+  h1 {
+    a {text-decoration: underline;
+    }
+  }
+  h2 {
+    a {text-decoration: underline;
+    }
+  }
+</style>
 </head>
 
-<body class="home">
+<body class="page">
 
 {% include _browser-upgrade.html %}
-
-{% include _navigation.html %}
 
 {% if page.image.feature %}<div class="image-wrap">
   <img src="{{ site.url }}/images/{{ page.image.feature }}" alt="{{ page.title }} feature image">
   {% if page.image.credit %}<span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>{% endif %}
 </div><!-- /.image-wrap -->{% endif %}
 
-<div class="article-author-side">
-  {% include _author-bio.html %}
+
+
+<div id='main' role='main'>
+  <div class="article-author-side">
+    &nbsp; 
+
 </div>
-
-<div id="index">
- <!--- <h3><a href="{{ site.url}}/articles/">Articles</a></h3> -->
-  {% for post in site.posts limit:5 %}    
-  <article>
-    <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-    <p>{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | strip_newlines | truncate: 120 }}{% endif %}</p>
-  </article>
-  {% endfor %}
-
-</div><!-- /#index -->
-
-<div id='main'>
   <div class='article-wrap'>
     <article>
-        <footer role="contentinfo">
-        <div class="article-author-bottom">
-          <hr />
-          {% include _author-bio.html %}
+    <h1>An investigative data journalist, <a href="{{ site.url }}/about.html">Tom Meagher</a> is <a href="{{ site.url }}/clips.html">a reporter, a writer and an editor</a>.</h1>  
+
+    <h2>He's also a manager, a newsroom leader, <a href="https://github.com/tommeagher?tab=repositories">a programmer</a>, <a href="{{ site.url }}/classes.html">a teacher and a trainer</a>.</h2>
+    <hr />
+
+    <footer role="contentinfo">
+        <div class="article-author-bottom"><center>
+          {% if site.owner.email %}<a href="mailto:{{ site.owner.email }}" class="author-social" target="_blank"><i class="icon-mail"></i> Email</a>{% endif %}
+{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" class="author-social" target="_blank"><i class="icon-twitter"></i> Twitter</a>{% endif %}
+{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" class="author-social" target="_blank"><i class="icon-facebook"></i> Facebook</a>{% endif %}
+{% if site.owner.google_plus %}<a href="{{ site.owner.google_plus }}" class="author-social" target="_blank"><i class="icon-google-plus"></i> Google+</a>{% endif %}
+{% if site.owner.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" class="author-social" target="_blank"><i class="icon-linkedin"></i> LinkedIn</a>{% endif %}
+{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" class="author-social" target="_blank"><i class="icon-instagram"></i> Instagram</a>{% endif %}
+{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" class="author-social" target="_blank"><i class="icon-github"></i> Github</a>{% endif %}</center>  
         </div>
         </footer>
-      </article>
-
-</div>
+  </article>
 </div>
 
+</div>
 
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+
 
 {% include _scripts.html %}
   

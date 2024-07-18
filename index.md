@@ -2,7 +2,7 @@
 layout: home 
 #layout: single
 #layout: splash
-author_profile: true
+#author_profile: true
 description: "Tom Meagher"
-tags: [Jekyll, theme, responsive, blog, template]
+tags: [Journalism, Data journalism, Investigative journalism]
 ---

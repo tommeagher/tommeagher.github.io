@@ -24,6 +24,18 @@ A [veteran reporter and editor](http://linkedin.com/in/tommeagher), I've taught 
 
 I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers working together to improve the news. In my free time, I enjoy running and playing and watching soccer.
 
+I am an inveterate (compulsive) list maker. Here are some you might be interested in:
+
+1.  [Stories and apps I worked on](clips.html)
+2.  [Places I've worked](http://linkedin.com/in/tommeagher)
+3.  [Classes I've taught](classes.html)
+4.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
+5.  [Newsrooms I've visited](newsrooms.html)
+6.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
+7.  [Races I've run](races.html)
+8.  [Beers I drank](https://untappd.com/user/tommeagher)
+
+
 ### Contact
 My email address is _hello_ at _the_domain_name_of_this_site_.
 
