@@ -3,8 +3,8 @@ layout: page
 permalink: /clips.html
 tagline: Tom Meagher
 tags: [about]
-title: Apps, maps, edits and clips
-Date: 2014-03-30 08:32
+title: Selected clips and honors
+Date: 2024-10-14 08:32
 Author: Tom
 Slug: clips
 Modified: 2021-02-20
@@ -14,15 +14,35 @@ Modified: 2021-02-20
 #  creditlink: http://www.texturepalace.com/wp-content/uploads/computer-texture-medium-8.jpg
 ---
 
-*Read my recent stories at **[The Marshall Project](https://www.themarshallproject.org/staff/tom-meagher)** and see the data and code behind them **[on Github](https://github.com/themarshallproject/)**.*
+## My reporting
 
-{% for clip in site.data.clips %}
+{% for clip in site.data.writing_clips %}
+  <a href="{{clip.url}}" style="color: blue" target="_blank">{{clip.title}}</a><br />
+  {{clip.description}}
+  {% if clip.awards %}Honored with {{clip.awards}}{% endif %}
+<p><br /></p>  
+{% endfor %}
+
+
+## My editing and producing
+
+{% for clip in site.data.editing_clips %}
+  <a href="{{clip.url}}" style="color: blue" target="_blank">{{clip.title}}</a><br />
+  {{clip.description}}
+  {% if clip.awards %}Honored with {{clip.awards}}{% endif %}
+<p><br /></p>  
+{% endfor %}
+
+<!--- original grouping
+{% for clip in site.data.editing_clips %}
   <h3><a href="{{clip.url}}" target="_blank">{{clip.title}}</a></h3>
   <figure>     
      <a href="{{ site.url }}/images/{{clip.image}}">
         <img src="{{ site.url }}/images/{{clip.image}}"></a>
-        <figcaption><a style="text-decoration: underline" href="{{clip.url}}" target="_blank">Published on {{clip.date}}</a> <p> {{clip.description}} <a href="{{clip.url}}" target="_blank">Read the clip</a></p></figcaption>     
+        <figcaption><a style="text-decoration: underline" href="{{clip.url}}" target="_blank">Published on {{clip.date}}</a> <p> {{clip.description}}</p></figcaption>     
   </figure>
   <hr />
 {% endfor %}
+--->
+
 
