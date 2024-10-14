@@ -4,37 +4,30 @@ permalink: /about.html
 title: About Me
 tagline: Tom Meagher
 tags: [about]
-modified: 03-04-2024
+modified: 10-14-2024
 ---
+In a journalism industry that's been marked by turmoil and erosion, I've been lucky to work at a top-notch news organization for more than a decade now. I'm a senior editor at [The Marshall Project](https://www.themarshallproject.org/), the nonprofit, nonpartisan newsroom covering crime and justice in America and have been here since its inception in 2014. I've helped to grow it from a scrappy band of about 20 people in New York City to now more than 80 employees spread across the country. 
 
-I'm a senior editor at [The Marshall Project](https://www.themarshallproject.org/), the nonprofit, nonpartisan news organization covering crime and justice in America. I lead collaborative, data-driven reporting projects and oversee our coverage of prisons, jails and the death penalty. While I managed our data and digital teams, our newsroom won the National Magazine Awards for best website twice and another time for digital innovation, as well as the Online Journalism Award for General Excellence. As a reporter, my work has been honored with a Data Journalism Award and the international Malofiej's first human rights special award. 
+As an editor, I oversee our coverage of prisons, jails and the death penalty. Working with colleagues, I undertook the data analysis for and helped report a series of stories on [how New York prisons rarely fire officers](https://www.themarshallproject.org/staff/tom-meagher) accused of seriously abusing people in their custody. I was part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project that tracked executions in 15 states. When we wound down The Next to Die after more than five years, I wrote this story sharing [what we learned about capital punishment in the U.S.](https://www.themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america) I also led our effort with The Associated Press to [document cases of COVID-19 — and deaths — in U.S. prisons](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), week-in and week-out during the height of the pandemic. 
 
-I've been an editor at The Marshall Project since its launch in 2014, and I was part of the team that built [The Next To Die](https://www.themarshallproject.org/next-to-die), a data-rich project that tracked executions in 15 states. After more than five and a half years, we wound down The Next to Die, and I wrote this story sharing [what we learned about capital punishment in the U.S.](https://www.themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america)
+[My reporting](https://www.themarshallproject.org/staff/tom-meagher) has been honored by the Robert F. Kennedy Journalism Awards, the Nonprofit News Awards, the Data Journalism Awards and the international Malofiej's first human rights special award, among others. Projects I edited have received national Edward R. Murrow awards, National Magazine Awards and many more.
 
-I specialize in investigative data journalism, including:
+In addition to reporting and editing, I've taught journalists and students at [conferences and universities around the world](classes.html).
 
-* data analysis
-* Freedom of Information requests
-* [computer-assisted reporting](https://www.themarshallproject.org/staff/tom-meagher)
-* [visualizations](https://www.themarshallproject.org/staff/tom-meagher)
-* [interactive graphics](clips.html)
-* and [news applications](https://www.themarshallproject.org/next-to-die)
+I live in New Jersey with my family, and in my free time, I enjoy music, running and playing and watching soccer.
 
-A [veteran reporter and editor](http://linkedin.com/in/tommeagher), I've taught journalists and students at [conferences and universities around the world](classes.html).
-
-I live in New Jersey, where I co-founded [Hack Jersey](http://www.hackjersey.com/), a group of journalists and programmers working together to improve the news. In my free time, I enjoy running and playing and watching soccer.
-
-I am an inveterate (compulsive) list maker. Here are some you might be interested in:
+If you want to know more about my career and about my technical skills, you can [check out a PDF of my resume](https://www.tommeagher.com/files/meagher_resume.pdf). I am a bit of a compulsive list-maker, and these might give you more insight into me, my work and my hobbies:
 
 1.  [Stories and apps I worked on](clips.html)
 2.  [Places I've worked](http://linkedin.com/in/tommeagher)
 3.  [Classes I've taught](classes.html)
-4.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
-5.  [Newsrooms I've visited](newsrooms.html)
-6.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
-7.  [Races I've run](races.html)
-8.  [Beers I drank](https://untappd.com/user/tommeagher)
-
+4.  [Blog posts I've written on journalism](posts/index.html)
+5.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
+6.  [Newsrooms I've visited](newsrooms.html)
+7.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
+8.  [Races I've run](races.html)
+9.  [Beers I drank](https://untappd.com/user/tommeagher)
+10.  [Beers I made](https://carboy.tommeagher.com/)
 
 ### Contact
 My email address is _hello_ at _the_domain_name_of_this_site_.
