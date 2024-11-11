@@ -7,7 +7,7 @@ title: Races I've Run
 Date: 2016-12-18 08:42
 Author: Tom
 Slug: classes
-Modified: 2023-10-13
+Modified: 2024-11-11
 image:
   feature: 
   credit: 
@@ -17,6 +17,7 @@ image:
 ## Marathons
 1. [New York City Marathon](https://results.nyrr.org/event/M2022/result/13291), Nov. 6, 2022. **5:25:16** finish; 12:25/mile pace.
 2. [Chicago Marathon](https://results.chicagomarathon.com/2023/?content=detail&fpid=search&pid=search&idp=9TGG9638289F4B&lang=EN_CAP&event=MAR&search%5Bname%5D=meagher&search_event=MAR), Oct. 9, 2023. **4:24:12** finish; 10:05/mile pace.
+3. [New York City Marathon](https://results.nyrr.org/event/M2024/result/14889), Nov. 3, 2024. **4:01:05** finish; 9:12/mile pace.
 
 ## Half Marathons
 1. [Pittsburgh Half Marathon](http://results.xacte.com/?mid=79), May 1, 2016. **1:49:37** finish; 8:21/mile pace.
