@@ -42,6 +42,8 @@ image:
 ## 10ks
 1. [Queens 10K](https://results.nyrr.org/event/18Q10K/result/2191?_ga=2.128041164.1363284880.1539201243-1671636842.1538505630), June 16, 2018. **44:22** finish; 7:09 pace.
 2. [Queens 10K](https://results.nyrr.org/runner/3527/result/23QUEENS), June 17, 2023. **54:49** finish; 8:50 pace.
+3. [Essex County Cherry Blossom 10K](https://runsignup.com/Race/Results/6515/IndividualResult/Hdbh#U9860508), April 7, 2024. **53:02** finish; 8:32 pace.
+4. [Essex County Cherry Blossom 10K](https://runsignup.com/Race/Results/6515/IndividualResult/hLZP?resultSetId=538846#U9860508), April 6, 2025. **47:41** finish; 7:40 pace.
 
 ## 4-milers
 1. [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
@@ -50,6 +52,7 @@ image:
 4. [Al Gordon 4-miler](https://results.nyrr.org/event/23ALGORDON/result/5449?utm_source=sfmc&utm_medium=email&utm_campaign=2023227NYRRAlGordon4MPostEventFollowUp), Feb. 25, 2023. **28:03** finish; 7:01 pace.
 5. [Run As One 4M](https://results.nyrr.org/event/23RAO4M/result/1084), April 2, 2023. **30:00** finish; 7:30 pace. 
 6. [Front Runners NY LGBT Pride Run 4-miler](https://results.nyrr.org/event/23PRIDE/result/987), June 24, 2023. **45:59** finish; 11:30 pace.
+7. [Pat's Run, 4.2 Miles](https://www.athlinks.com/event/34467/results/Event/1104069/Course/2571612/Bib/104), April 12, 2025. **31:23**; 7:28 pace.
 
 ## 5ks
 1. [Seth Boyden-Tuscan 5K Turkey Trot](http://legacy.compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
