@@ -75,6 +75,7 @@ image:
 18. [Columbia Cougars - St. Patrick's Day 5K](https://runsignup.com/Race/Results/58550/IndividualResult/HxLf?resultSetId=442599#U9860508), March, 16, 2024. **27:41:13**; 8:54 pace. *
 19. [North Jersey Pride Run](https://runsignup.com/Race/Results/6513/IndividualResult/zLkP#U9860508), June 2, 2024. **22:52.78**; 7:23 pace.
 20. [Montclair Doughtnut Run 5K](https://runsignup.com/Race/Results/122920/IndividualResult/ztZz#U9860508), Dec. 8, 2024. **22:39.69**; 7:18 pace.
+21. [North Jesey Pride 5K](https://runsignup.com/Race/Results/6513/IndividualResult/TgMJ#U9860508), June 1, 2025. **23:06.12**; 7:30 pace.
 
 ## 1-milers
 1. [Soma Fox One-Mile Fox Run](https://www.secondwindtiming.com/result-page/?id=273772#0_3EF1B7), Jan. 6, 2024. **6:29** finish; 6:28 pace.
