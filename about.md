@@ -18,16 +18,15 @@ I live in New Jersey with my family, and in my free time, I enjoy music, running
 &nbsp;<br /><br />
 If you want to know more about my career and about my technical skills, you can [check out a PDF of my resume](https://www.tommeagher.com/files/meagher_resume.pdf). I am a bit of a compulsive list-maker, and these might give you more insight into me, my work and my hobbies:
 
-1.  [Stories and apps I worked on](clips.html)
+1.  [Projects I worked on](clips.html)
 2.  [Places I've worked](http://linkedin.com/in/tommeagher)
 3.  [Classes I've taught](classes.html)
-4.  [Blog posts I've written on journalism](posts/index.html)
-5.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
+4.  [What I'm hacking on](https://github.com/tommeagher?tab=activity)
+5.  [Blog posts I've written on journalism](posts/index.html)
 6.  [Newsrooms I've visited](newsrooms.html)
-7.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
-8.  [Races I've run](races.html)
-9.  [Beers I drank](https://untappd.com/user/tommeagher)
-10.  [Beers I made](https://carboy.tommeagher.com/)
+7.  [Races I've run](races.html)
+8.  [What I'm reading](http://www.goodreads.com/review/list/7478342-tom?sort=date_read)
+9.  [Beers I drank](https://untappd.com/user/tommeagher) and [beers I made](https://carboy.tommeagher.com/)
 
 ### Contact
 My email address is _hello_ at _the_domain_name_of_this_site_.

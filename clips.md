@@ -13,6 +13,14 @@ Modified: 2021-02-20
 #  credit: Texture Palace
 #  creditlink: http://www.texturepalace.com/wp-content/uploads/computer-texture-medium-8.jpg
 ---
+## My editing and producing
+
+{% for clip in site.data.editing_clips %}
+  <a href="{{clip.url}}" style="color: blue" target="_blank">{{clip.title}}</a><br />
+  {{clip.description}}
+  {% if clip.awards %}Honored with {{clip.awards}}{% endif %}
+<p><br /></p>  
+{% endfor %}
 
 ## My reporting
 
@@ -24,14 +32,7 @@ Modified: 2021-02-20
 {% endfor %}
 
 
-## My editing and producing
 
-{% for clip in site.data.editing_clips %}
-  <a href="{{clip.url}}" style="color: blue" target="_blank">{{clip.title}}</a><br />
-  {{clip.description}}
-  {% if clip.awards %}Honored with {{clip.awards}}{% endif %}
-<p><br /></p>  
-{% endfor %}
 
 <!--- original grouping
 {% for clip in site.data.editing_clips %}
