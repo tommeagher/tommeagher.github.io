@@ -6,9 +6,9 @@ tagline: Tom Meagher
 tags: [about]
 modified: 06-28-2025
 ---
-For more than a decade, I've been lucky to work at a top-notch investigative newsroom as an editor at [The Marshall Project](https://www.themarshallproject.org/) — the nonpartisan, nonprofit dedicated to covering crime and justice in the U.S. I've helped it to grow from a scrappy band of about 20 people to now more than 80 employees spread across the country. 
+I'm an investigative journalist, and I enjoy leading ambitious, highly collaborative reporting projects that expose how our governments and the powerful fail us. I love working on accountability stories with other journalists and have edited pieces that have been co-published with dozens of news outlets over the years. 
 &nbsp;<br /><br />
-I enjoy leading ambitious, highly collaborative reporting projects that expose how our governments and the powerful fail us. I love working on accountability stories with other journalists and have edited pieces that have been co-published with dozens of news outlets over the years. 
+For more than a decade, I've been lucky to work at a top-notch investigative newsroom as an editor at [The Marshall Project](https://www.themarshallproject.org/) — the nonpartisan, nonprofit dedicated to covering crime and justice in the U.S. I've helped it to grow from a scrappy band of about 20 people to now more than 80 employees spread across the country.
 &nbsp;<br /><br />
 I oversee The Marshall Project's coverage of prisons, jails and the death penalty. I also report and write, and I have a long track-record of producing strong data stories.
 &nbsp;<br /><br />
