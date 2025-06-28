@@ -53,6 +53,7 @@ image:
 5. [Run As One 4M](https://results.nyrr.org/event/23RAO4M/result/1084), April 2, 2023. **30:00** finish; 7:30 pace. 
 6. [Front Runners NY LGBT Pride Run 4-miler](https://results.nyrr.org/event/23PRIDE/result/987), June 24, 2023. **45:59** finish; 11:30 pace.
 7. [Pat's Run, 4.2 Miles](https://www.athlinks.com/event/34467/results/Event/1104069/Course/2571612/Bib/104), April 12, 2025. **31:23**; 7:28 pace.
+8. [Front Runners NY LGBT Pride Run 4-miler](https://results.nyrr.org/event/25PRIDE/result/5470), June 28, 2025. **30:19** finish; 7:35 pace.
 
 ## 5ks
 1. [Seth Boyden-Tuscan 5K Turkey Trot](http://legacy.compuscore.com/cs2014/novdec/sethtus.htm), Nov. 15, 2014. **26:04.36** finish; 8:23 pace.
