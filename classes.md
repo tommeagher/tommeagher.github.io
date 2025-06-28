@@ -69,6 +69,7 @@ I've trained hundreds of journalists and students over the years, and I've spoke
 * [ACOS Alliance Annual Safety Coordination Meeting 2023](https://www.acosalliance.org/annual-safety-meeting-2023) in New York.
 * [NICAR 2024](https://docs.google.com/presentation/d/13WLLWqWsan_53Mw3wkA1OduxSKDoi0TJKj9QM2HR9t4/edit?usp=sharing) in [Baltimore, Maryland](https://schedules.ire.org/nicar-2024/index.html#2041).
 * [NICAR 2025](https://schedules.ire.org/nicar-2025/) in Minneapolis, Minnesota.
+* [PyCon US 2025 keynote](https://www.youtube.com/watch?v=qog-dGVhSBI) in Pittsburgh, Pennsylvania.
 
 In addition, I've taught and spoken at...
 

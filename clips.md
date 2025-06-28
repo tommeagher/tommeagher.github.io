@@ -4,16 +4,16 @@ permalink: /clips.html
 tagline: Tom Meagher
 tags: [about]
 title: Selected clips and honors
-Date: 2024-10-14 08:32
+Date: 2025-06-27 08:32
 Author: Tom
 Slug: clips
-Modified: 2021-02-20
+Modified: 2025-06-27
 #image:
 #  feature: chips.png
 #  credit: Texture Palace
 #  creditlink: http://www.texturepalace.com/wp-content/uploads/computer-texture-medium-8.jpg
 ---
-## My editing and producing
+## Editing and producing
 
 {% for clip in site.data.editing_clips %}
   <a href="{{clip.url}}" style="color: blue" target="_blank">{{clip.title}}</a><br />
@@ -22,7 +22,7 @@ Modified: 2021-02-20
 <p><br /></p>  
 {% endfor %}
 
-## My reporting
+## Reporting
 
 {% for clip in site.data.writing_clips %}
   <a href="{{clip.url}}" style="color: blue" target="_blank">{{clip.title}}</a><br />
