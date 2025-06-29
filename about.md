@@ -6,13 +6,11 @@ tagline: Tom Meagher
 tags: [about]
 modified: 06-28-2025
 ---
-I'm an investigative journalist, and I enjoy leading ambitious, highly collaborative reporting projects that expose how our governments and the powerful fail us. I love working on accountability stories with other journalists and have edited pieces that have been co-published with dozens of news outlets over the years. 
+I'm an investigative journalist and editor, and I enjoy leading ambitious, highly collaborative reporting projects that expose how our governments and the powerful fail us. I love working on accountability stories with other journalists and have edited pieces that have been co-published with dozens of news outlets. 
 &nbsp;<br /><br />
-For more than a decade, I've been lucky to work at a top-notch investigative newsroom as an editor at [The Marshall Project](https://www.themarshallproject.org/) — the nonpartisan, nonprofit dedicated to covering crime and justice in the U.S. I've helped it to grow from a scrappy band of about 20 people to now more than 80 employees spread across the country.
+For more than a decade, I've been lucky enough to work at a top-notch investigative newsroom as an editor at [The Marshall Project](https://www.themarshallproject.org/) — the nonpartisan, nonprofit covering crime and justice in the U.S. I oversee The Marshall Project's coverage of prisons, jails and the death penalty. I've helped it to grow from a scrappy band of about 20 people to now more than 80 employees across the country.
 &nbsp;<br /><br />
-I oversee The Marshall Project's coverage of prisons, jails and the death penalty. I also report and write, and I have a long track-record of producing strong data stories.
-&nbsp;<br /><br />
-I spearheaded "[The Next To Die](https://www.themarshallproject.org/next-to-die)," a data-rich project that tracked every person scheduled to be executed in the U.S. This complex effort relied on a network that I built of journalists across 10 newsrooms who followed each capital case. I continued to edit the project over its run of more than five years, and it was honored by the Society for News Design and Malofiej. When we wound down "The Next to Die," I wrote the story analyzing [what it taught us about the practice of capital punishment today](https://www.themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america).
+I spearheaded "[The Next To Die](https://www.themarshallproject.org/next-to-die)," a data-rich project that tracked every person scheduled to be executed in the U.S. This complex effort relied on a network that I built of journalists across 10 newsrooms who followed each capital case. I edited the project over its run of more than five years. When we wound down "The Next to Die," I wrote a story analyzing [what it taught us about the practice of capital punishment today](https://www.themarshallproject.org/2021/02/10/what-120-executions-tell-us-about-criminal-justice-in-america).
 &nbsp;<br /><br />
 During the COVID-19 pandemic, I oversaw our work [tracking coronavirus cases and deaths in prisons](https://www.themarshallproject.org/2020/05/01/a-state-by-state-look-at-coronavirus-in-prisons), leading a team of dozens of reporters from The Marshall Project and the Associated Press who tallied outbreaks every week for more than a year.
 &nbsp;<br /><br />
@@ -22,11 +20,11 @@ As a reporter and data journalist, I worked with two Marshall Project colleagues
 &nbsp;<br /><br />
 [Projects that I edited](clips.html) have won National Magazine Awards, national Edward R. Murrow awards, Online Journalism Awards, a Society for News Design gold medal, a National Headliner Award, and more. [My reporting](https://www.themarshallproject.org/staff/tom-meagher)  has been honored with a Robert F. Kennedy Award for criminal justice reporting, a Nonprofit News Award for investigative journalism, a “Human Rights” award from Malofiej, and a Data Journalism Award, among others. If you want to know more about my career, you can [check out a PDF of my resume](https://www.tommeagher.com/files/meagher_resume.pdf). 
 &nbsp;<br /><br />
-A news leader, I helped to build and launch three newsrooms from the ground up, and I have managed interdisciplinary teams of visual journalists, designers, developers and data journalists. I regularly teach investigative and data reporting skills, passing along my own hard-earned practices to early-career journalists and students at [conferences and universities around the world](classes.html).
+A news leader, I helped to build and launch three newsrooms from the ground up, and I have managed interdisciplinary teams of visual journalists, designers, developers and data journalists. I regularly teach investigative and data reporting skills, passing along my own hard-earned knowledge and practices to early-career journalists and students at [conferences and universities around the world](classes.html).
 &nbsp;<br /><br />
 I live in New Jersey with my family, and in my free time, I enjoy music, running and playing and watching soccer.
 &nbsp;<br /><br />
-I am a bit of a compulsive list-maker, and these might give you more insight into me, my work and my hobbies:
+I am a compulsive list-maker, and these lists might give you more insight into me, my work and my hobbies:
 1.  [Projects I worked on](clips.html)
 2.  [Places I've worked](http://linkedin.com/in/tommeagher)
 3.  [Classes I've taught](classes.html)
