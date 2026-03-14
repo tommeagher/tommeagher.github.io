@@ -80,6 +80,7 @@ image:
 20. [Montclair Doughtnut Run 5K](https://runsignup.com/Race/Results/122920/IndividualResult/ztZz#U9860508), Dec. 8, 2024. **22:39.69**; 7:18 pace.
 21. [North Jesey Pride 5K](https://runsignup.com/Race/Results/6513/IndividualResult/TgMJ#U9860508), June 1, 2025. **23:06.12**; 7:30 pace.
 22. [Two Towns Turkey Trot 5K](https://runsignup.com/Race/Results/120376/IndividualResult/RJXGR#U9860508), Nov. 22, 2025. **22:03.75**; 7:06 pace.
+23. [Al Gordon 5k](https://results.nyrr.org/event/26ALG/result/3298), Feb. 28, 2026. **22:52**; 7:22 pace.
 
 ## 1-milers
 1. [Soma Fox One-Mile Fox Run](https://www.secondwindtiming.com/result-page/?id=273772#0_3EF1B7), Jan. 6, 2024. **6:29** finish; 6:28 pace.
