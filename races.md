@@ -45,6 +45,7 @@ image:
 2. [Queens 10K](https://results.nyrr.org/runner/3527/result/23QUEENS), June 17, 2023. **54:49** finish; 8:50 pace.
 3. [Essex County Cherry Blossom 10K](https://runsignup.com/Race/Results/6515/IndividualResult/Hdbh#U9860508), April 7, 2024. **53:02** finish; 8:32 pace.
 4. [Essex County Cherry Blossom 10K](https://runsignup.com/Race/Results/6515/IndividualResult/hLZP?resultSetId=538846#U9860508), April 6, 2025. **47:41** finish; 7:40 pace.
+5. [Essex County Cherry Blossom 10K](https://runsignup.com/Race/Results/6515/IndividualResult/RRdSN?resultSetId=639955#U9860508), April 12, 2026. **53:51** finish; 8:56 pace.
 
 ## 4-milers
 1. [Al Gordon Brooklyn 4 mile](http://results.nyrr.org/event/18AG4/finishers?_ga=2.117097989.2063139089.1519699327-2088906472.1513547924), Feb. 24, 2018. **27:20** finish; 6:50 pace.
@@ -81,6 +82,7 @@ image:
 21. [North Jesey Pride 5K](https://runsignup.com/Race/Results/6513/IndividualResult/TgMJ#U9860508), June 1, 2025. **23:06.12**; 7:30 pace.
 22. [Two Towns Turkey Trot 5K](https://runsignup.com/Race/Results/120376/IndividualResult/RJXGR#U9860508), Nov. 22, 2025. **22:03.75**; 7:06 pace.
 23. [Al Gordon 5k](https://results.nyrr.org/event/26ALG/result/3298), Feb. 28, 2026. **22:52**; 7:22 pace.
+24. [North Jersey Pride 5K](https://runsignup.com/Race/Results/6513/IndividualResult/RXfMF?resultSetId=659252#U9860508), June 7, 2026. **24:02**; 7:47 pace.
 
 ## 1-milers
 1. [Soma Fox One-Mile Fox Run](https://www.secondwindtiming.com/result-page/?id=273772#0_3EF1B7), Jan. 6, 2024. **6:29** finish; 6:28 pace.
