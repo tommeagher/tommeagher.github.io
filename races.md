@@ -87,6 +87,7 @@ image:
 ## 1-milers
 1. [Soma Fox One-Mile Fox Run](https://www.secondwindtiming.com/result-page/?id=273772#0_3EF1B7), Jan. 6, 2024. **6:29** finish; 6:28 pace.
 2. [Soma Fox One-Mile Fox Run](https://www.secondwindtiming.com/result-page/?id=324428), Feb. 1, 2025. **6:12** finish; 6:11 pace.
+3. [Montclair Mile](https://runsignup.com/Race/Results/163759/IndividualResult/RXhhQ?resultSetId=676177#U9860508), Aug. 6, 2026. **6:18** finish; 6:18 pace.
 
 *An asterisk (`*`) indicates a race I ran with my kids.*
 
